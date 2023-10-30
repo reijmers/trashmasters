@@ -4,25 +4,22 @@ import pandas as pd
 
 url = "https://www.pbl.nl/en/topics/circular-economy/publications"
 response = requests.get(url)
-
-
 soup = BeautifulSoup(response.text, 'html.parser')
 
-
-publications = soup.find_all("div", class_="node-title")
-dates = soup.find_all("div", class_="meta")
-findings = soup.find_all("div", class_="field-items")
-
-
+publications = soup.find_all("article", class_="node-publicatie")
 publication_data = []
 
+for article in publications:
+    title = article.find("h2", class_ = "node-title").text.strip()
 
-for publication, date, finding in zip(publications, dates, findings):
-    title = publication.a.text.strip()
-    pub_date = date.find("span", class_="date-display-single").text.strip()
-    finding_text = finding.text.strip()
-        
-    publication_data.append({'Title': title, 'Publication Date': pub_date, 'Findings': finding_text})
+    findings = article.find("div", class_ = "field-item").text.strip()
+
+    date_div = article.find("div", class_="meta")
+    date= date_div.get_text(strip=True)
+    date_1 = date.split('|')
+    date = date_1[0].strip()
+
+    publication_data.append({'Title': title, 'Publication Date': date, 'Findings': findings})
 
 df = pd.DataFrame(publication_data)
 
