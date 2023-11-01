@@ -1,6 +1,7 @@
 import googleapiclient.discovery
 import googleapiclient.errors
 import pandas as pd
+import re
 
 api_service_name = "youtube"
 api_version = "v3"
@@ -28,7 +29,6 @@ while True:
     for item in response['items']:
         comment = item['snippet']['topLevelComment']['snippet']
         comments.append([
-            comment['authorDisplayName'],
             comment['publishedAt'],
             comment['updatedAt'],
             comment['likeCount'],
@@ -40,6 +40,26 @@ while True:
     else:
         break
 
-df = pd.DataFrame(comments, columns=['author', 'published_at', 'updated_at', 'like_count', 'text'])
+
+
+df = pd.DataFrame(comments, columns=['published_at', 'updated_at', 'like_count', 'text'])
+
+# Data cleaning
+# 1. Remove any HTML tags and URLs from the 'text' column
+df['text'] = df['text'].apply(lambda x: re.sub(r'<.*?>|https?://\S+', '', x))
+
+# 2. Remove leading/trailing whitespaces
+df['text'] = df['text'].str.strip()
+
+# 3. Remove empty comments
+df = df[df['text'] != '']
+
+# 4. Remove first comment; comment made by the channel 
+df = df.iloc[1:]
+
+# 5. Finding key words in the comments; we can add or take the key words, i put keywords axxociated to the hypotheis
+keywords = ["recycling", "circular economy", "waste sorting", "awareness", "social norms", "convenience", "inconvenience"]
+df = df[df['text'].str.lower().str.contains('|'.join(keywords))]
+
+df.to_csv('comments.csv', index= False)
 print(df)
-df.to_csv('comments.csv', index=False)
