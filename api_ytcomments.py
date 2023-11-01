@@ -12,7 +12,7 @@ youtube = googleapiclient.discovery.build(
 )
 
 video_id = "0JtoSafhvLM"
-max_results = 100
+max_results = 1000
 comments = []
 
 next_page_token = None
