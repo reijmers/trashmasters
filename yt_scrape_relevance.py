@@ -1,6 +1,6 @@
 from googleapiclient.discovery import build
+import json
 
-# Replace with your API key
 API_KEY = 'AIzaSyC6R9O6OdwhFCbJaEjVkDzYOTUJpYGkrQE'
 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
@@ -10,17 +10,21 @@ search_response = youtube.search().list(
     q='afvalwijzer Amsterdam',
     type='video',
     part='id,snippet',
-    maxResults=4,
+    maxResults=20,
     order='relevance'  # Sort by relevance
 ).execute()
 
 # Extract video links
 video_data = []
+video_id = []
 for search_result in search_response.get('items', []):
     if search_result['id']['kind'] == 'youtube#video':
-        link = f'https://www.youtube.com/watch?v={search_result["id"]["videoId"]}'
-        video_data.append({'link': link})
+       vid_id = search_result["id"]["videoId"]
+       link = f'https://www.youtube.com/watch?v={search_result["id"]["videoId"]}'
+       video_data.append({'link': link, 'vid_id': vid_id})
+       if len(video_data) == 20:
+          break
+       
+def get_video_ids():
+    return [video['vid_id'] for video in video_data]
 
-# You can skip the sorting step, as the results are already sorted by relevance
-for video in video_data:
-    print(video['link'])
