@@ -1,7 +1,8 @@
+# gather video IDS for the most relevant youtube videos 
 from googleapiclient.discovery import build
 import json
 
-API_KEY = 'AIzaSyC6R9O6OdwhFCbJaEjVkDzYOTUJpYGkrQE'
+API_KEY = 'AIzaSyDDkr8397Q6zUCnDTdjlFwjBzBkw_Uosi4'
 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
@@ -10,7 +11,7 @@ search_response = youtube.search().list(
     q='afvalwijzer Amsterdam',
     type='video',
     part='id,snippet',
-    maxResults=20,
+    maxResults=10,
     order='relevance'  # Sort by relevance
 ).execute()
 
@@ -22,7 +23,7 @@ for search_result in search_response.get('items', []):
        vid_id = search_result["id"]["videoId"]
        link = f'https://www.youtube.com/watch?v={search_result["id"]["videoId"]}'
        video_data.append({'link': link, 'vid_id': vid_id})
-       if len(video_data) == 20:
+       if len(video_data) == 10:
           break
        
 def get_video_ids():

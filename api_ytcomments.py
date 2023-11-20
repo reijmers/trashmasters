@@ -1,3 +1,4 @@
+# function to call on a youtube video ID to gather the comments 
 import googleapiclient.discovery
 import googleapiclient.errors
 import pandas as pd
@@ -8,10 +9,9 @@ api_version = "v3"
 developer_key = "AIzaSyDBdG532iD4u7pXvdsM5YVXX3o4O8nKtYw" 
 
 youtube = googleapiclient.discovery.build(
-    api_service_name, api_version, developerKey=developer_key
-)
+    api_service_name, api_version, developerKey=developer_key)
+
 def gather_comments(vid_id):
-#video_id = "0JtoSafhvLM"
     max_results = 1000
     comments = []
 
@@ -28,18 +28,18 @@ def gather_comments(vid_id):
             response = request.execute()
         except googleapiclient.errors.HttpError as e:
             if e.resp.status == 403 and "commentDisabled" in e.content.decode('utf-8'):
-                print("Comments are disabled for this vide, skipping.")
+                print("Comments are disabled for this video, skipping.")
             else:
                 print(f"Error: {e}")
             break
         
         for item in response['items']:
             comment = item['snippet']['topLevelComment']['snippet']
+            text = comment['textDisplay']
             comments.append([
                 comment['publishedAt'],
-                comment['updatedAt'],
                 comment['likeCount'],
-                comment['textDisplay']
+                text,
             ])
     
         if 'nextPageToken' in response:
@@ -47,9 +47,7 @@ def gather_comments(vid_id):
         else:
             break
 
-
-
-    df = pd.DataFrame(comments, columns=['published_at', 'updated_at', 'like_count', 'text'])
+    df = pd.DataFrame(comments, columns=['published_at', 'like_count', 'text'])
 
 # Data cleaning
 # 1. Remove any HTML tags and URLs from the 'text' column
@@ -65,10 +63,10 @@ def gather_comments(vid_id):
     df = df.iloc[1:]
 
 # 5. Finding key words in the comments; we can add or take the key words, i put keywords axxociated to the hypotheis
-    keywords = ["recycling", "circular economy", "waste sorting", "awareness", "social norms", "convenience", "inconvenience", "amsterdam"]
+    keywords = ["recycling", "circular economy", "waste sorting", "awareness", "social norms", "convenience", "inconvenience",  'afval', 'circulaire economie', 'afval sorteren', 'sociale normen', 'gemak', 'ongemak']
     df = df[df['text'].str.lower().str.contains('|'.join(keywords))]
 
-    filename=f'comments_{vid_id}.csv'
+    filename=f'comments_{vid_id}'
     df.to_csv(f'{filename}.csv', index= False)
 
     return df
