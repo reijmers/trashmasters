@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-22">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="count" type="long" />
+    </attributes>
+    <nodes>
+      <node id="circular" label="circular">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </node>
+      <node id="economy" label="economy">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="countries" label="countries">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="dutch" label="dutch">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="epr" label="epr">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="transition" label="transition">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="policies" label="policies">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="policy" label="policy">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="effects" label="effects">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="environmental" label="environmental">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="textiles" label="textiles">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="netherlands" label="netherlands">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="products" label="products">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="trade" label="trade">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="risks" label="risks">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="impacts" label="impacts">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="recycling" label="recycling">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="cotton" label="cotton">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="also" label="also">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="discarded" label="discarded">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="towards" label="towards">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="reuse" label="reuse">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="material" label="material">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="used" label="used">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="development" label="development">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="electronics" label="electronics">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="local" label="local">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="systems" label="systems">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="pollution" label="pollution">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="processing" label="processing">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="circular" target="economy" id="0" weight="30" />
+      <edge source="circular" target="countries" id="1" weight="20" />
+      <edge source="circular" target="dutch" id="2" weight="14" />
+      <edge source="circular" target="epr" id="3" weight="14" />
+      <edge source="circular" target="transition" id="4" weight="12" />
+      <edge source="circular" target="policies" id="5" weight="11" />
+      <edge source="circular" target="policy" id="6" weight="9" />
+      <edge source="circular" target="effects" id="7" weight="9" />
+      <edge source="circular" target="environmental" id="8" weight="8" />
+      <edge source="circular" target="textiles" id="9" weight="8" />
+      <edge source="circular" target="netherlands" id="10" weight="8" />
+      <edge source="circular" target="products" id="11" weight="8" />
+      <edge source="circular" target="trade" id="12" weight="7" />
+      <edge source="circular" target="risks" id="13" weight="7" />
+      <edge source="circular" target="impacts" id="14" weight="7" />
+      <edge source="circular" target="recycling" id="15" weight="7" />
+      <edge source="circular" target="cotton" id="16" weight="7" />
+      <edge source="circular" target="also" id="17" weight="6" />
+      <edge source="circular" target="discarded" id="18" weight="6" />
+      <edge source="circular" target="towards" id="19" weight="6" />
+      <edge source="circular" target="reuse" id="20" weight="6" />
+      <edge source="circular" target="material" id="21" weight="6" />
+      <edge source="circular" target="used" id="22" weight="6" />
+      <edge source="circular" target="development" id="23" weight="5" />
+      <edge source="circular" target="electronics" id="24" weight="5" />
+      <edge source="circular" target="local" id="25" weight="5" />
+      <edge source="circular" target="systems" id="26" weight="5" />
+      <edge source="circular" target="pollution" id="27" weight="5" />
+      <edge source="circular" target="processing" id="28" weight="5" />
+      <edge source="economy" target="countries" id="29" weight="20" />
+      <edge source="economy" target="dutch" id="30" weight="14" />
+      <edge source="economy" target="epr" id="31" weight="14" />
+      <edge source="economy" target="transition" id="32" weight="12" />
+      <edge source="economy" target="policies" id="33" weight="11" />
+      <edge source="economy" target="policy" id="34" weight="9" />
+      <edge source="economy" target="effects" id="35" weight="9" />
+      <edge source="economy" target="environmental" id="36" weight="8" />
+      <edge source="economy" target="textiles" id="37" weight="8" />
+      <edge source="economy" target="netherlands" id="38" weight="8" />
+      <edge source="economy" target="products" id="39" weight="8" />
+      <edge source="economy" target="trade" id="40" weight="7" />
+      <edge source="economy" target="risks" id="41" weight="7" />
+      <edge source="economy" target="impacts" id="42" weight="7" />
+      <edge source="economy" target="recycling" id="43" weight="7" />
+      <edge source="economy" target="cotton" id="44" weight="7" />
+      <edge source="economy" target="also" id="45" weight="6" />
+      <edge source="economy" target="discarded" id="46" weight="6" />
+      <edge source="economy" target="towards" id="47" weight="6" />
+      <edge source="economy" target="reuse" id="48" weight="6" />
+      <edge source="economy" target="material" id="49" weight="6" />
+      <edge source="economy" target="used" id="50" weight="6" />
+      <edge source="economy" target="development" id="51" weight="5" />
+      <edge source="economy" target="electronics" id="52" weight="5" />
+      <edge source="economy" target="local" id="53" weight="5" />
+      <edge source="economy" target="systems" id="54" weight="5" />
+      <edge source="economy" target="pollution" id="55" weight="5" />
+      <edge source="economy" target="processing" id="56" weight="5" />
+      <edge source="countries" target="dutch" id="57" weight="14" />
+      <edge source="countries" target="epr" id="58" weight="14" />
+      <edge source="countries" target="transition" id="59" weight="12" />
+      <edge source="countries" target="policies" id="60" weight="11" />
+      <edge source="countries" target="policy" id="61" weight="9" />
+      <edge source="countries" target="effects" id="62" weight="9" />
+      <edge source="countries" target="environmental" id="63" weight="8" />
+      <edge source="countries" target="textiles" id="64" weight="8" />
+      <edge source="countries" target="netherlands" id="65" weight="8" />
+      <edge source="countries" target="products" id="66" weight="8" />
+      <edge source="countries" target="trade" id="67" weight="7" />
+      <edge source="countries" target="risks" id="68" weight="7" />
+      <edge source="countries" target="impacts" id="69" weight="7" />
+      <edge source="countries" target="recycling" id="70" weight="7" />
+      <edge source="countries" target="cotton" id="71" weight="7" />
+      <edge source="countries" target="also" id="72" weight="6" />
+      <edge source="countries" target="discarded" id="73" weight="6" />
+      <edge source="countries" target="towards" id="74" weight="6" />
+      <edge source="countries" target="reuse" id="75" weight="6" />
+      <edge source="countries" target="material" id="76" weight="6" />
+      <edge source="countries" target="used" id="77" weight="6" />
+      <edge source="countries" target="development" id="78" weight="5" />
+      <edge source="countries" target="electronics" id="79" weight="5" />
+      <edge source="countries" target="local" id="80" weight="5" />
+      <edge source="countries" target="systems" id="81" weight="5" />
+      <edge source="countries" target="pollution" id="82" weight="5" />
+      <edge source="countries" target="processing" id="83" weight="5" />
+      <edge source="dutch" target="epr" id="84" weight="14" />
+      <edge source="dutch" target="transition" id="85" weight="12" />
+      <edge source="dutch" target="policies" id="86" weight="11" />
+      <edge source="dutch" target="policy" id="87" weight="9" />
+      <edge source="dutch" target="effects" id="88" weight="9" />
+      <edge source="dutch" target="environmental" id="89" weight="8" />
+      <edge source="dutch" target="textiles" id="90" weight="8" />
+      <edge source="dutch" target="netherlands" id="91" weight="8" />
+      <edge source="dutch" target="products" id="92" weight="8" />
+      <edge source="dutch" target="trade" id="93" weight="7" />
+      <edge source="dutch" target="risks" id="94" weight="7" />
+      <edge source="dutch" target="impacts" id="95" weight="7" />
+      <edge source="dutch" target="recycling" id="96" weight="7" />
+      <edge source="dutch" target="cotton" id="97" weight="7" />
+      <edge source="dutch" target="also" id="98" weight="6" />
+      <edge source="dutch" target="discarded" id="99" weight="6" />
+      <edge source="dutch" target="towards" id="100" weight="6" />
+      <edge source="dutch" target="reuse" id="101" weight="6" />
+      <edge source="dutch" target="material" id="102" weight="6" />
+      <edge source="dutch" target="used" id="103" weight="6" />
+      <edge source="dutch" target="development" id="104" weight="5" />
+      <edge source="dutch" target="electronics" id="105" weight="5" />
+      <edge source="dutch" target="local" id="106" weight="5" />
+      <edge source="dutch" target="systems" id="107" weight="5" />
+      <edge source="dutch" target="pollution" id="108" weight="5" />
+      <edge source="dutch" target="processing" id="109" weight="5" />
+      <edge source="epr" target="transition" id="110" weight="12" />
+      <edge source="epr" target="policies" id="111" weight="11" />
+      <edge source="epr" target="policy" id="112" weight="9" />
+      <edge source="epr" target="effects" id="113" weight="9" />
+      <edge source="epr" target="environmental" id="114" weight="8" />
+      <edge source="epr" target="textiles" id="115" weight="8" />
+      <edge source="epr" target="netherlands" id="116" weight="8" />
+      <edge source="epr" target="products" id="117" weight="8" />
+      <edge source="epr" target="trade" id="118" weight="7" />
+      <edge source="epr" target="risks" id="119" weight="7" />
+      <edge source="epr" target="impacts" id="120" weight="7" />
+      <edge source="epr" target="recycling" id="121" weight="7" />
+      <edge source="epr" target="cotton" id="122" weight="7" />
+      <edge source="epr" target="also" id="123" weight="6" />
+      <edge source="epr" target="discarded" id="124" weight="6" />
+      <edge source="epr" target="towards" id="125" weight="6" />
+      <edge source="epr" target="reuse" id="126" weight="6" />
+      <edge source="epr" target="material" id="127" weight="6" />
+      <edge source="epr" target="used" id="128" weight="6" />
+      <edge source="epr" target="development" id="129" weight="5" />
+      <edge source="epr" target="electronics" id="130" weight="5" />
+      <edge source="epr" target="local" id="131" weight="5" />
+      <edge source="epr" target="systems" id="132" weight="5" />
+      <edge source="epr" target="pollution" id="133" weight="5" />
+      <edge source="epr" target="processing" id="134" weight="5" />
+      <edge source="transition" target="policies" id="135" weight="11" />
+      <edge source="transition" target="policy" id="136" weight="9" />
+      <edge source="transition" target="effects" id="137" weight="9" />
+      <edge source="transition" target="environmental" id="138" weight="8" />
+      <edge source="transition" target="textiles" id="139" weight="8" />
+      <edge source="transition" target="netherlands" id="140" weight="8" />
+      <edge source="transition" target="products" id="141" weight="8" />
+      <edge source="transition" target="trade" id="142" weight="7" />
+      <edge source="transition" target="risks" id="143" weight="7" />
+      <edge source="transition" target="impacts" id="144" weight="7" />
+      <edge source="transition" target="recycling" id="145" weight="7" />
+      <edge source="transition" target="cotton" id="146" weight="7" />
+      <edge source="transition" target="also" id="147" weight="6" />
+      <edge source="transition" target="discarded" id="148" weight="6" />
+      <edge source="transition" target="towards" id="149" weight="6" />
+      <edge source="transition" target="reuse" id="150" weight="6" />
+      <edge source="transition" target="material" id="151" weight="6" />
+      <edge source="transition" target="used" id="152" weight="6" />
+      <edge source="transition" target="development" id="153" weight="5" />
+      <edge source="transition" target="electronics" id="154" weight="5" />
+      <edge source="transition" target="local" id="155" weight="5" />
+      <edge source="transition" target="systems" id="156" weight="5" />
+      <edge source="transition" target="pollution" id="157" weight="5" />
+      <edge source="transition" target="processing" id="158" weight="5" />
+      <edge source="policies" target="policy" id="159" weight="9" />
+      <edge source="policies" target="effects" id="160" weight="9" />
+      <edge source="policies" target="environmental" id="161" weight="8" />
+      <edge source="policies" target="textiles" id="162" weight="8" />
+      <edge source="policies" target="netherlands" id="163" weight="8" />
+      <edge source="policies" target="products" id="164" weight="8" />
+      <edge source="policies" target="trade" id="165" weight="7" />
+      <edge source="policies" target="risks" id="166" weight="7" />
+      <edge source="policies" target="impacts" id="167" weight="7" />
+      <edge source="policies" target="recycling" id="168" weight="7" />
+      <edge source="policies" target="cotton" id="169" weight="7" />
+      <edge source="policies" target="also" id="170" weight="6" />
+      <edge source="policies" target="discarded" id="171" weight="6" />
+      <edge source="policies" target="towards" id="172" weight="6" />
+      <edge source="policies" target="reuse" id="173" weight="6" />
+      <edge source="policies" target="material" id="174" weight="6" />
+      <edge source="policies" target="used" id="175" weight="6" />
+      <edge source="policies" target="development" id="176" weight="5" />
+      <edge source="policies" target="electronics" id="177" weight="5" />
+      <edge source="policies" target="local" id="178" weight="5" />
+      <edge source="policies" target="systems" id="179" weight="5" />
+      <edge source="policies" target="pollution" id="180" weight="5" />
+      <edge source="policies" target="processing" id="181" weight="5" />
+      <edge source="policy" target="effects" id="182" weight="9" />
+      <edge source="policy" target="environmental" id="183" weight="8" />
+      <edge source="policy" target="textiles" id="184" weight="8" />
+      <edge source="policy" target="netherlands" id="185" weight="8" />
+      <edge source="policy" target="products" id="186" weight="8" />
+      <edge source="policy" target="trade" id="187" weight="7" />
+      <edge source="policy" target="risks" id="188" weight="7" />
+      <edge source="policy" target="impacts" id="189" weight="7" />
+      <edge source="policy" target="recycling" id="190" weight="7" />
+      <edge source="policy" target="cotton" id="191" weight="7" />
+      <edge source="policy" target="also" id="192" weight="6" />
+      <edge source="policy" target="discarded" id="193" weight="6" />
+      <edge source="policy" target="towards" id="194" weight="6" />
+      <edge source="policy" target="reuse" id="195" weight="6" />
+      <edge source="policy" target="material" id="196" weight="6" />
+      <edge source="policy" target="used" id="197" weight="6" />
+      <edge source="policy" target="development" id="198" weight="5" />
+      <edge source="policy" target="electronics" id="199" weight="5" />
+      <edge source="policy" target="local" id="200" weight="5" />
+      <edge source="policy" target="systems" id="201" weight="5" />
+      <edge source="policy" target="pollution" id="202" weight="5" />
+      <edge source="policy" target="processing" id="203" weight="5" />
+      <edge source="effects" target="environmental" id="204" weight="8" />
+      <edge source="effects" target="textiles" id="205" weight="8" />
+      <edge source="effects" target="netherlands" id="206" weight="8" />
+      <edge source="effects" target="products" id="207" weight="8" />
+      <edge source="effects" target="trade" id="208" weight="7" />
+      <edge source="effects" target="risks" id="209" weight="7" />
+      <edge source="effects" target="impacts" id="210" weight="7" />
+      <edge source="effects" target="recycling" id="211" weight="7" />
+      <edge source="effects" target="cotton" id="212" weight="7" />
+      <edge source="effects" target="also" id="213" weight="6" />
+      <edge source="effects" target="discarded" id="214" weight="6" />
+      <edge source="effects" target="towards" id="215" weight="6" />
+      <edge source="effects" target="reuse" id="216" weight="6" />
+      <edge source="effects" target="material" id="217" weight="6" />
+      <edge source="effects" target="used" id="218" weight="6" />
+      <edge source="effects" target="development" id="219" weight="5" />
+      <edge source="effects" target="electronics" id="220" weight="5" />
+      <edge source="effects" target="local" id="221" weight="5" />
+      <edge source="effects" target="systems" id="222" weight="5" />
+      <edge source="effects" target="pollution" id="223" weight="5" />
+      <edge source="effects" target="processing" id="224" weight="5" />
+      <edge source="environmental" target="textiles" id="225" weight="8" />
+      <edge source="environmental" target="netherlands" id="226" weight="8" />
+      <edge source="environmental" target="products" id="227" weight="8" />
+      <edge source="environmental" target="trade" id="228" weight="7" />
+      <edge source="environmental" target="risks" id="229" weight="7" />
+      <edge source="environmental" target="impacts" id="230" weight="7" />
+      <edge source="environmental" target="recycling" id="231" weight="7" />
+      <edge source="environmental" target="cotton" id="232" weight="7" />
+      <edge source="environmental" target="also" id="233" weight="6" />
+      <edge source="environmental" target="discarded" id="234" weight="6" />
+      <edge source="environmental" target="towards" id="235" weight="6" />
+      <edge source="environmental" target="reuse" id="236" weight="6" />
+      <edge source="environmental" target="material" id="237" weight="6" />
+      <edge source="environmental" target="used" id="238" weight="6" />
+      <edge source="environmental" target="development" id="239" weight="5" />
+      <edge source="environmental" target="electronics" id="240" weight="5" />
+      <edge source="environmental" target="local" id="241" weight="5" />
+      <edge source="environmental" target="systems" id="242" weight="5" />
+      <edge source="environmental" target="pollution" id="243" weight="5" />
+      <edge source="environmental" target="processing" id="244" weight="5" />
+      <edge source="textiles" target="netherlands" id="245" weight="8" />
+      <edge source="textiles" target="products" id="246" weight="8" />
+      <edge source="textiles" target="trade" id="247" weight="7" />
+      <edge source="textiles" target="risks" id="248" weight="7" />
+      <edge source="textiles" target="impacts" id="249" weight="7" />
+      <edge source="textiles" target="recycling" id="250" weight="7" />
+      <edge source="textiles" target="cotton" id="251" weight="7" />
+      <edge source="textiles" target="also" id="252" weight="6" />
+      <edge source="textiles" target="discarded" id="253" weight="6" />
+      <edge source="textiles" target="towards" id="254" weight="6" />
+      <edge source="textiles" target="reuse" id="255" weight="6" />
+      <edge source="textiles" target="material" id="256" weight="6" />
+      <edge source="textiles" target="used" id="257" weight="6" />
+      <edge source="textiles" target="development" id="258" weight="5" />
+      <edge source="textiles" target="electronics" id="259" weight="5" />
+      <edge source="textiles" target="local" id="260" weight="5" />
+      <edge source="textiles" target="systems" id="261" weight="5" />
+      <edge source="textiles" target="pollution" id="262" weight="5" />
+      <edge source="textiles" target="processing" id="263" weight="5" />
+      <edge source="netherlands" target="products" id="264" weight="8" />
+      <edge source="netherlands" target="trade" id="265" weight="7" />
+      <edge source="netherlands" target="risks" id="266" weight="7" />
+      <edge source="netherlands" target="impacts" id="267" weight="7" />
+      <edge source="netherlands" target="recycling" id="268" weight="7" />
+      <edge source="netherlands" target="cotton" id="269" weight="7" />
+      <edge source="netherlands" target="also" id="270" weight="6" />
+      <edge source="netherlands" target="discarded" id="271" weight="6" />
+      <edge source="netherlands" target="towards" id="272" weight="6" />
+      <edge source="netherlands" target="reuse" id="273" weight="6" />
+      <edge source="netherlands" target="material" id="274" weight="6" />
+      <edge source="netherlands" target="used" id="275" weight="6" />
+      <edge source="netherlands" target="development" id="276" weight="5" />
+      <edge source="netherlands" target="electronics" id="277" weight="5" />
+      <edge source="netherlands" target="local" id="278" weight="5" />
+      <edge source="netherlands" target="systems" id="279" weight="5" />
+      <edge source="netherlands" target="pollution" id="280" weight="5" />
+      <edge source="netherlands" target="processing" id="281" weight="5" />
+      <edge source="products" target="trade" id="282" weight="7" />
+      <edge source="products" target="risks" id="283" weight="7" />
+      <edge source="products" target="impacts" id="284" weight="7" />
+      <edge source="products" target="recycling" id="285" weight="7" />
+      <edge source="products" target="cotton" id="286" weight="7" />
+      <edge source="products" target="also" id="287" weight="6" />
+      <edge source="products" target="discarded" id="288" weight="6" />
+      <edge source="products" target="towards" id="289" weight="6" />
+      <edge source="products" target="reuse" id="290" weight="6" />
+      <edge source="products" target="material" id="291" weight="6" />
+      <edge source="products" target="used" id="292" weight="6" />
+      <edge source="products" target="development" id="293" weight="5" />
+      <edge source="products" target="electronics" id="294" weight="5" />
+      <edge source="products" target="local" id="295" weight="5" />
+      <edge source="products" target="systems" id="296" weight="5" />
+      <edge source="products" target="pollution" id="297" weight="5" />
+      <edge source="products" target="processing" id="298" weight="5" />
+      <edge source="trade" target="risks" id="299" weight="7" />
+      <edge source="trade" target="impacts" id="300" weight="7" />
+      <edge source="trade" target="recycling" id="301" weight="7" />
+      <edge source="trade" target="cotton" id="302" weight="7" />
+      <edge source="trade" target="also" id="303" weight="6" />
+      <edge source="trade" target="discarded" id="304" weight="6" />
+      <edge source="trade" target="towards" id="305" weight="6" />
+      <edge source="trade" target="reuse" id="306" weight="6" />
+      <edge source="trade" target="material" id="307" weight="6" />
+      <edge source="trade" target="used" id="308" weight="6" />
+      <edge source="trade" target="development" id="309" weight="5" />
+      <edge source="trade" target="electronics" id="310" weight="5" />
+      <edge source="trade" target="local" id="311" weight="5" />
+      <edge source="trade" target="systems" id="312" weight="5" />
+      <edge source="trade" target="pollution" id="313" weight="5" />
+      <edge source="trade" target="processing" id="314" weight="5" />
+      <edge source="risks" target="impacts" id="315" weight="7" />
+      <edge source="risks" target="recycling" id="316" weight="7" />
+      <edge source="risks" target="cotton" id="317" weight="7" />
+      <edge source="risks" target="also" id="318" weight="6" />
+      <edge source="risks" target="discarded" id="319" weight="6" />
+      <edge source="risks" target="towards" id="320" weight="6" />
+      <edge source="risks" target="reuse" id="321" weight="6" />
+      <edge source="risks" target="material" id="322" weight="6" />
+      <edge source="risks" target="used" id="323" weight="6" />
+      <edge source="risks" target="development" id="324" weight="5" />
+      <edge source="risks" target="electronics" id="325" weight="5" />
+      <edge source="risks" target="local" id="326" weight="5" />
+      <edge source="risks" target="systems" id="327" weight="5" />
+      <edge source="risks" target="pollution" id="328" weight="5" />
+      <edge source="risks" target="processing" id="329" weight="5" />
+      <edge source="impacts" target="recycling" id="330" weight="7" />
+      <edge source="impacts" target="cotton" id="331" weight="7" />
+      <edge source="impacts" target="also" id="332" weight="6" />
+      <edge source="impacts" target="discarded" id="333" weight="6" />
+      <edge source="impacts" target="towards" id="334" weight="6" />
+      <edge source="impacts" target="reuse" id="335" weight="6" />
+      <edge source="impacts" target="material" id="336" weight="6" />
+      <edge source="impacts" target="used" id="337" weight="6" />
+      <edge source="impacts" target="development" id="338" weight="5" />
+      <edge source="impacts" target="electronics" id="339" weight="5" />
+      <edge source="impacts" target="local" id="340" weight="5" />
+      <edge source="impacts" target="systems" id="341" weight="5" />
+      <edge source="impacts" target="pollution" id="342" weight="5" />
+      <edge source="impacts" target="processing" id="343" weight="5" />
+      <edge source="recycling" target="cotton" id="344" weight="7" />
+      <edge source="recycling" target="also" id="345" weight="6" />
+      <edge source="recycling" target="discarded" id="346" weight="6" />
+      <edge source="recycling" target="towards" id="347" weight="6" />
+      <edge source="recycling" target="reuse" id="348" weight="6" />
+      <edge source="recycling" target="material" id="349" weight="6" />
+      <edge source="recycling" target="used" id="350" weight="6" />
+      <edge source="recycling" target="development" id="351" weight="5" />
+      <edge source="recycling" target="electronics" id="352" weight="5" />
+      <edge source="recycling" target="local" id="353" weight="5" />
+      <edge source="recycling" target="systems" id="354" weight="5" />
+      <edge source="recycling" target="pollution" id="355" weight="5" />
+      <edge source="recycling" target="processing" id="356" weight="5" />
+      <edge source="cotton" target="also" id="357" weight="6" />
+      <edge source="cotton" target="discarded" id="358" weight="6" />
+      <edge source="cotton" target="towards" id="359" weight="6" />
+      <edge source="cotton" target="reuse" id="360" weight="6" />
+      <edge source="cotton" target="material" id="361" weight="6" />
+      <edge source="cotton" target="used" id="362" weight="6" />
+      <edge source="cotton" target="development" id="363" weight="5" />
+      <edge source="cotton" target="electronics" id="364" weight="5" />
+      <edge source="cotton" target="local" id="365" weight="5" />
+      <edge source="cotton" target="systems" id="366" weight="5" />
+      <edge source="cotton" target="pollution" id="367" weight="5" />
+      <edge source="cotton" target="processing" id="368" weight="5" />
+      <edge source="also" target="discarded" id="369" weight="6" />
+      <edge source="also" target="towards" id="370" weight="6" />
+      <edge source="also" target="reuse" id="371" weight="6" />
+      <edge source="also" target="material" id="372" weight="6" />
+      <edge source="also" target="used" id="373" weight="6" />
+      <edge source="also" target="development" id="374" weight="5" />
+      <edge source="also" target="electronics" id="375" weight="5" />
+      <edge source="also" target="local" id="376" weight="5" />
+      <edge source="also" target="systems" id="377" weight="5" />
+      <edge source="also" target="pollution" id="378" weight="5" />
+      <edge source="also" target="processing" id="379" weight="5" />
+      <edge source="discarded" target="towards" id="380" weight="6" />
+      <edge source="discarded" target="reuse" id="381" weight="6" />
+      <edge source="discarded" target="material" id="382" weight="6" />
+      <edge source="discarded" target="used" id="383" weight="6" />
+      <edge source="discarded" target="development" id="384" weight="5" />
+      <edge source="discarded" target="electronics" id="385" weight="5" />
+      <edge source="discarded" target="local" id="386" weight="5" />
+      <edge source="discarded" target="systems" id="387" weight="5" />
+      <edge source="discarded" target="pollution" id="388" weight="5" />
+      <edge source="discarded" target="processing" id="389" weight="5" />
+      <edge source="towards" target="reuse" id="390" weight="6" />
+      <edge source="towards" target="material" id="391" weight="6" />
+      <edge source="towards" target="used" id="392" weight="6" />
+      <edge source="towards" target="development" id="393" weight="5" />
+      <edge source="towards" target="electronics" id="394" weight="5" />
+      <edge source="towards" target="local" id="395" weight="5" />
+      <edge source="towards" target="systems" id="396" weight="5" />
+      <edge source="towards" target="pollution" id="397" weight="5" />
+      <edge source="towards" target="processing" id="398" weight="5" />
+      <edge source="reuse" target="material" id="399" weight="6" />
+      <edge source="reuse" target="used" id="400" weight="6" />
+      <edge source="reuse" target="development" id="401" weight="5" />
+      <edge source="reuse" target="electronics" id="402" weight="5" />
+      <edge source="reuse" target="local" id="403" weight="5" />
+      <edge source="reuse" target="systems" id="404" weight="5" />
+      <edge source="reuse" target="pollution" id="405" weight="5" />
+      <edge source="reuse" target="processing" id="406" weight="5" />
+      <edge source="material" target="used" id="407" weight="6" />
+      <edge source="material" target="development" id="408" weight="5" />
+      <edge source="material" target="electronics" id="409" weight="5" />
+      <edge source="material" target="local" id="410" weight="5" />
+      <edge source="material" target="systems" id="411" weight="5" />
+      <edge source="material" target="pollution" id="412" weight="5" />
+      <edge source="material" target="processing" id="413" weight="5" />
+      <edge source="used" target="development" id="414" weight="5" />
+      <edge source="used" target="electronics" id="415" weight="5" />
+      <edge source="used" target="local" id="416" weight="5" />
+      <edge source="used" target="systems" id="417" weight="5" />
+      <edge source="used" target="pollution" id="418" weight="5" />
+      <edge source="used" target="processing" id="419" weight="5" />
+      <edge source="development" target="electronics" id="420" weight="5" />
+      <edge source="development" target="local" id="421" weight="5" />
+      <edge source="development" target="systems" id="422" weight="5" />
+      <edge source="development" target="pollution" id="423" weight="5" />
+      <edge source="development" target="processing" id="424" weight="5" />
+      <edge source="electronics" target="local" id="425" weight="5" />
+      <edge source="electronics" target="systems" id="426" weight="5" />
+      <edge source="electronics" target="pollution" id="427" weight="5" />
+      <edge source="electronics" target="processing" id="428" weight="5" />
+      <edge source="local" target="systems" id="429" weight="5" />
+      <edge source="local" target="pollution" id="430" weight="5" />
+      <edge source="local" target="processing" id="431" weight="5" />
+      <edge source="systems" target="pollution" id="432" weight="5" />
+      <edge source="systems" target="processing" id="433" weight="5" />
+      <edge source="pollution" target="processing" id="434" weight="5" />
+    </edges>
+  </graph>
+</gexf>
