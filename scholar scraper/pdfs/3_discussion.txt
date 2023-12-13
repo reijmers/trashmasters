@@ -1,0 +1,29 @@
+This chapter ﬁrst discusses the results and assumptions used in the
+study. Second, the limitations of the methodology are reviewed.
+The system boundaries in this study exclude the household level,
+with storage in refrigerators and food preparation. As the meal leftover
+fraction stands for the largest share of avoidable food waste, its pre-
+vention would also in ﬂuence the amount of energy consumed. Further,
+the study did not account for the rebound e ﬀect. As households spend
+less on food when food waste is prevented, the environmental impacts
+might be reallocated with spending on other products. This aspect
+should be taken into account for a holistic environmental policy de-
+velopment.
+Comparing avoided emissions from improved waste management
+systems with the ones obtained from food waste prevention o ﬀer in-
+sights in the environmental potential of upstream versus downstreamclimate change mitigation strategies. In that regard, prevention strate-
+gies clearly result in larger bene ﬁts than recycling strategies. 30% re-
+duction in avoidable food waste gave more than 5 times larger bene ﬁts
+than what was obtained with improved recycling strategies in the CS
+scenario. It must be noted that these conclusions are based on the as-
+sumption that a reduction in food waste leads to a reduction of food
+production. Avoided emission from the food production process was
+hence the determining factor for the overall bene ﬁts of food waste
+prevention, as observed also by Bernstad and Andersson (2015) ;
+Gentil, Gallo, and Christensen (2011) andMatsuda et al. (2012) . There
+is however a risk that the amount of food waste prevented at thehousehold level will arise higher up in the food chain, e.g. at the retailor production level. Such a shift in waste production will hence not
+prevent any GHG emissions –it is then necessary to have good waste
+management recycling systems in place, and therefrom avoid emissionsthrough substituting carbon intensive products.
+Combining prevention measures and a switch to AD would, none-
+theless, o ﬀer optimal solutions for food waste management based onI. de Sadeleer, et al. Resources, Conservation & Recycling 160 (2020) 104908
+6

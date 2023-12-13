@@ -1,0 +1,130 @@
+Drawing on a national scale choice-experiment survey (n=1011),
+thepresentresearchoffersnewinsightsintohouseholdpreferencesfor
+waste sorting and handling in Denmark. We investigated the micro-
+economic aspects of household waste sorting preferences in Denmark,
+withthefocustoinvestigatehouseholdpreferencesfordifferentmodes
+of home waste sorting. More specifically, households were able to
+evaluate and hence make trade-offs between the following factors: al-
+ternativearrangementfordisposalofhazardouswaste,requirementfor
+sorting plastic and bio-waste, time demand for waste sorting and
+handling,thecapacityforrecyclingatmunicipalitylevel,thefrequency
+and the fee of waste collection and handling service by the munici-
+pality.
+Previous choice-experiment studies have analysed respondents'
+evaluation of the complexity of home waste sorting through the in-
+clusionofanattributeforthenumberofwastecategoriestobesorted.
+Based on a study on kerbside recycling services in London, Karousakis
+and Birol (2008) found that their respondents were more likely to
+choosekerbsideservicesthatcollectmorewastecategories.Inthesame
+vein,Czajkowskietal.(2014) andCzajkowskietal.(2017) foundthat,
+based on a study in Poland, their respondents preferred to sort waste
+into more categories compared to fewer categories. While the pre-
+viouslymentionedstudiesshowthattherespondentsaremorelikelyto
+chooseahomesortingsystemwithmorewastecategories,thecontrary
+was reported by Sakata (2007). Reporting on a study from Japan,
+Sakata (2007) found that increasing the number of categories to sort,Table 5
+Household's willingness to pay for different features of waste sorting alternatives.
+Willingness to pay (per year) for: ‘The frequent waste collection
+resisters’ (S1)‘The sceptics’ (S2) ‘The sorting enthusiastic’
+(S3)‘The bio-waste sortingresisters’ (S4)
+Local collection point for hazardous waste −229.20 DKK(−30.81 Euro)−337.13 DKK(−45.32 Euro) (ns)4832.14 DKK(649.60 Euro)−1413.77 DKK(190.06 Euro)
+Option to sort plastic 382.71 DKK (51.45 Euro) 907.22 DKK (121.96
+Euro)2611.02 DKK (351.01
+Euro)1152.77 DKK (154.97 Euro)
+Option to sort bio-waste 108.12 DKK (14.53 Euro) (ns) −507.95 DKK
+(−68.28 Euro) (ns)696.90 DKK (93.69 Euro) −1303.38 DKK
+(−175.22 Euro)
+Recycling capacity 17.90 DKK
+(2.41 Euro)40.30 DKK(5.42 Euro)17.37 DKK(2.33 Euro)
+(ns)43.58 DKK
+(5.86 Euro)
+Frequencyofwastecollection:onceeverytwoweeks(as
+opposed to once a week)541.27 DKK
+(72.76 Euro)163.24 DKK(21.94 Euro)
+(ns)−182.08 DKK
+(−24.48 Euro) (ns)−117.77 DKK(−15.83 Euro) (ns)
+Frequencyofwastecollection:twiceaweek(asopposed
+to once a week)69.89 DKK(9.39 Euro)
+(ns)−459.09 DKK
+(−61.72 Euro)
+(ns)113.98 DKK
+(15.32 Euro) (ns)419.81 DKK(56.43 Euro)
+(ns)
+ns: not statistically significant (p value > 0.05).
+Table 6
+Resultsfromprobitanalysis:socio-demographicandattitudinaldeterminantsof
+segmentation of household waste sorting preferences.
+Variables Parameter estimates
+Segment 1 –
+‘the frequent
+waste
+collection
+resisters’(S1)Segment 2 –
+‘the
+sceptics’
+(S2)Segment 3 –
+‘the sorting
+enthusiastic’
+(S3)Segment 4 –
+‘the bio-
+waste
+sorting
+resisters’(S4)
+Gender
+(Female=1)na −0.3140
+⁎⁎⁎
+(0.1173)0.3128⁎⁎⁎
+(0.1132)na
+Student (Yes=1) na na −0.4900⁎⁎
+(0.2183)na
+White collar (non-
+managerial)
+(Yes=1)na na na −0.2805⁎⁎
+(0.1183)
+Apartment
+(Yes=1)na na 0.3147⁎⁎
+(0.1320)na
+Villa/single-family
+house(Yes=1)na 0.3154
+⁎⁎
+(0.1309)na na
+RegionMidtjylland 0.1980
+(0.1064)(ns)na na na
+Current sorting
+effort (minutesper week)na na na 0.0076
+⁎⁎⁎
+(0.0027)
+Use of recycling
+centre >5
+times a year(Yes=1)0.2480
+⁎⁎⁎
+(0.0901)−0.2667⁎⁎
+(0.1301)−0.4118⁎⁎⁎
+(0.1288)na
+Sorting
+consciousness0.3766⁎⁎⁎
+(0.0943)−0.2797⁎⁎
+(0.1260)na −0.3336⁎⁎⁎
+(0.1017)
+Lifestyle for the
+environmentna −0.2534⁎⁎
+(0.1260)na na
+Collective work 0.1826
+(0.0935)(ns)na −0.2455⁎⁎
+(0.1202)na
+My neighbours'
+judgementna −0.5369⁎⁎⁎
+(0.1984)na na
+Constant −0.5058⁎⁎⁎
+(0.0938)−0.5973⁎⁎⁎
+(0.1198)−1.0073⁎⁎⁎
+(0.1238)−0.6585⁎⁎⁎
+(0.0959)
+Pseudo R2 0.0320 0.0667 0.0569 0.0274
+Standard errors are reported in (parentheses).
+ns=not statistically significant (p value > 0.05).
+na=removedduringstepwiseestimation(p value > 0.1)hencenotappearin
+the specification of the selected model.
+⁎⁎⁎Indicates significance at 1% level.
+⁎⁎Indicates significance at 5% level.D. Nainggolan, et al. Ecological Economics 166 (2019) 106402
+9

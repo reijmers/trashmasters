@@ -1,0 +1,49 @@
+4.1. Integrating ZWM technologies
+The review of state-of-the-art industry technologies and research
+revealed that there are many technology options that waste value chain
+stakeholders in Singapore and other countries can adopt to achieve
+ZWM. Applications of Internet-of-Things (IoT) technologies was found
+in the review to be an enabling factor for connecting di ﬀerent stake-
+holders along the waste value chain. IoT is the connection of all tech-nologies to the internet and to each other that builds o ﬀcloud com-
+puting and networks of sensors that continuously collect and monitordata. Devices in IoT are not limited to smartphones, but also include
+everyday equipment such as co ﬀee makers, washing machines, house-
+hold lighting, vehicles, and cash registers ( Risteska Stojkoska and
+Trivodaliev, 2017). IoT has risen due to swift expansion of basic and
+aﬀordable internet access and growth in smartphone adoption. Smart
+waste collection systems demonstrated the application of IoT in cities
+through the use of the internet to connect sensors, smart bins, waste
+hauling trucks, and the waste management system. IoT technologies are
+also applicable to collaborative platforms for industrial symbiosis. This
+is because data covering waste volume, type, and cost from waste
+producers and recyclers can be shared between stakeholders toTable 8
+E-waste metal recovery processes, inputs, and products.
+E-waste metal recovery
+methodProcess details and inputs Products extracted
+Pyrometallurgy Main processes include dismantling, smelting in a plasma arc furnace, drossing,
+sintering, melting and reactions in a gas phase at high temperatures. Crushedscraps containing base and precious metals are burned in a high temperaturefurnace. Metals are then volatilized by a chemical reaction or by heat, andimpurities are converted into slags.Improved treatment of pollutants from incineration and puri ﬁcation process
+compared to traditional pyrometallurgy.High quality copper. Other pure solid metals that havebeen extracted include silver, gold, palladium, nickel,selenium, and zinc.
+Hydrometallurgy Can achieve more targeted metal recovery and pre-treatment, better control of
+chemical reaction and produces less pollution.Uses more mild leaching agents such as chlorinate, ammonia-ammonium, non-cyanide lixiviants, and organic acids (i.e. citric acid and hydrogen peroxide).Metal extraction rates as high as 98% at lab/pilot scale.Copper, gold, silver, palladium extracted in solution
+Biometallurgy Bioleaching and biosorption are the two main techniques for metal recovery.
+Bioleaching uses acidophilic group of bacteria to bioleach heavy metals.
+Biosorption uses biological materials to remove substances from solution in a
+physico-chemical and metabolism independent process.
+Microorganisms used as biosorbents include bacteria, fungi, algae, actinomycetes,yeasts and some biowaste materials.Technology currently successful at laboratory scale and has not been industrializedyet.Copper, nickel, zinc, chromium, gold, silver extracted in
+solution
+Electrochemical technology Highly energy e ﬃciency process and uses a minimal amount of chemicals to
+dissolve and recover metals on a cathode for further processing. An
+electrochemical cell maximizes energy e ﬃciency of the process. The process of
+electrorecycling generates oxidizing agents at an anode in order to dissolve metals
+from the scrap matrix. The dissolved metals are then reduced at the cathode.Technology has not been commercialized yet.Pure solid copper, gold, silver
+Supercritical technology An environmentally friendly method that decomposes organic polymers and
+recycles metals since supercritical substances have unique properties such as lowviscosities, high mass transport coe ﬃcient, high di ﬀusivity, and high solubility.
+Example supercritical substances used are supercritical water, supercritical
+methanol. Technology has not been commercialized yet.Almost all metals can be extracted at a high recovery rate.
+Output is a solid mixture of metals.
+Vacuum metallurgical
+technologyMetals are separated based on di ﬀerence in water pressure of the metal elements at
+the same temperature. Can separate and recycle di ﬀerent metals from waste
+printed circuit boards under the guidance of separation criteria.Four crucial processes of vacuum distillation of metals are heat transfer,evaporation, mass transfer and condensation.Main environmental bene ﬁt is wastewater pollution is not produced.
+Technology is still immature and has not been commercialized yet.Cadmium, zinc, leadP. Kerdlap, et al.
+Resources, Conservation & Recycling 151 (2019) 104438
+12

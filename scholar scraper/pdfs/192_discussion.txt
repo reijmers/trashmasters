@@ -1,0 +1,69 @@
+This section provides a discussion of future study challenges and
+implications for the status of different regions.
+5.1. Future challenges and directions
+This subsection discusses challenges and future study gaps
+based on the top ﬁve indicators, which were determined to be
+incineration, LCA, plastic waste, sorting solid waste, and
+sustainability.
+5.1.1. Incineration
+Municipal solid waste is disposed of either by land ﬁlling or
+through incineration. In fact, waste incineration has recently
+become a fascinating treatment method. Continuous increases in
+waste generation, the absence of funding for land ﬁlls and their
+environmental and public health impacts have prompted anincreased interest in incineration ( Sebastian et al., 2019 ). Inciner-
+ation is a process of burning municipal solid waste to sterile ash
+with little environmental impact. In optimal energy recovery and
+ecological sustainability, incineration decreases the amount of
+waste by 90% and the volume of mass by 70%; it also provides a
+possibility of recovering energy in the form of electricity ( Joseph
+et al., 2018 ;Sebastian et al., 2018 ).Ashraf et al. (2019) proposed a
+clean closed-loop incineration procedure that utilizes municipal
+solid waste residues and helps reduce expensive land ﬁll taxes. The
+feasibility of municipal solid waste incineration is determined by
+the composition of the municipal solid waste, which is the most
+crucial criterion; in contrast, the sustainable MSWM selections that
+are made pose a threat to the environment ( Al-Salem et al., 2014 ).
+Although incineration is supposed to be a pathway to sustainable
+MSWM, it may not always be a feasible discarding technique, as it
+largely depends on the waste characteristics, which are dependent
+on the indigenous demography, sociocultural differences, seasonal
+changeability and landscape ( Rajaeifar et al., 2017 ). Incineration is a
+multifaceted, complicated process with trade-offs among
+numerous dimensions with a cost-intensive requirement for an
+extensive practicability assessment of implementation.
+In practice, the possibility of using incineration outputs such as
+ash, carbon dioxide, and energy to make cementing material
+through novel production stages allows a reproduction process
+within incinerator facilities ( Ghouleh and Shao, 2018 ). Eco-cement
+production is based exclusively on municipal solid waste inciner-
+ation residues to maximize the recycling potential. A simulation of
+solid waste incineration on an advanced technology-driven pack-
+aging bed with corrected boundary circumstances, homogeneous
+responses and control methods for pyrolysis products has been
+introduced ( Gu et al., 2019 ). Knowledge of changes in the amount of
+feed waste and waste characteristics is a tool to determine the
+economic and environmental feasibility of incineration technology
+(Milbrandt et al., 2018 ). However, this process remains unpopularTable 3
+List of bibliographic coupling of productive countries/territories according to region ( United Nations, 2019 ).
+Region Asia and Oceania North America Latin-America And Caribbean Europe Africa
+Countries/Territories Australia Canada Argentina Austria Cote D ’ivoire
+Bangladesh United States Bolivia Belarus EgyptChina Brazil Belgium GhanaHong Kong Chile Croatia KenyaIndia Colombia Cyprus South AfricaIran Ecuador Czech Republic Tanzania
+Israel Mexico Denmark Uganda
+Japan Estonia
+Jordan Finland
+Macau France
+Malaysia Georgia
+New Zealand Germany
+Pakistan Greece
+Qatar Hungary
+Saudi Arabia Ireland
+Singapore Italy
+South Korea Latvia
+Sri Lanka Lithuania
+Taiwan Netherlands
+Thailand Norway
+Turkey Poland
+Viet Nam Portugal
+Romania
+Russian FederationSerbiaSloveniaSpainSwedenSwitzerlandUnited KingdomF.M. Tsai, T.-D. Bui, M.-L. Tseng et al. Journal of Cleaner Production 275 (2020) 124132
+8

@@ -1,0 +1,85 @@
+s  
+Barriers  that have the highest  net causal-effect  (R-C) values, 
+therefore,  have the greatest  long-term  impact  on the system,  so 
+long-term  effort s should be made to address  these issues. Similarly,  
+the barriers  with the highest  prominence  values have the poten- 
+tial to affect and/or be affected  by other barriers.  Therefore,  man- 
+agers and policymakers  should prioritize  addressing  or circumvent-  
+ing these in the short-term,  presenting  a practical  approach  to 
+the otherwise  complex  web of political,  technological,  and insti- 
+tutional  structures  ( Papargyropoulou  et al., 2014 ). The interdepen-  
+dencies  and interrelationships  highlight  the previously  noted im- 
+portance  of integrated  decision  making  in CE activities  and design 
+( Lechner  and Reimann,  2020 ). 
+Table 10 summarizes  the overall results and provides  a com- 
+parison  of key cause and high prominence  barriers.  The results 
+reveal many similarities  in the responses  of the three evaluator  
+groups.  For example,  weak legal enforcement  (B1) is identiﬁed  as 
+a key cause barrier  by all three evaluator  groups.  This ﬁnding  is 
+in line with that of Farooque  et al. (2019b)  which focused  on bar- 
+riers to circular  food supply chains in China. All three evaluator  
+groups  also identify  the lack of environmental  education  and ac- 
+countability  (B9) as a cause barrier,  which conﬁrms  the ﬁnding  
+of Zhang et al. (2019) on the barriers  to smart waste manage-  
+ment in China. The strength  of legal enforcement  is a societal  ele- 
+ment that will affect all evaluator  groups.  These results enable us 
+to assess barriers  beyond  those that may be identiﬁed  with insti- 
+tutional  perspectives  (e.g., as in Ranta et al., 2017). While there 
+may be separate  legal requirements  that affect a given industry  
+or evaluator  group more than another,  there is a consensus  that 
+the weak enforcement  of the legal framework  in this area reduces  
+the need for action;  this result is different  to the identiﬁcation  
+of Yuan (2017) of an inadequate  regulatory  environment.  Simi- 
+larly, the low levels of environmental  education  would inﬂuence  
+individuals  acting within each of the evaluator  groups;  long-term  
+changes  to a national  curriculum  would lead to positive  changes  
+within each evaluator  group ( Zhang et al., 2019 ). Greater  education  
+will enable ﬁrms to enhance  their awareness  (addressing  concerns  identiﬁed  by Liu and Bai (2014) ), collect better data ( Yuan 2017 ), 
+and develop  improved  performance  monitoring  systems  (Su et al., 
+2013). 
+In the same way, there is a consensus  among  the study evalu- 
+ators on the role of barrier  B8 (lack of economies  of scale). Food 
+processors  consider  it as key cause barrier,  whereas  sales and dis- 
+tribution  channels  and consumers  view it as the most prominent  
+barrier.  The relatively  small scale that many food processors  oper- 
+ate on will mean that their lack of economies  of scale will lead 
+to and contribute  more to other barriers;  in contrast,  the scale of 
+many sales and distributions  ﬁrms will mean that this is less likely 
+to be a cause, however,  given its high prominence  score, it will be 
+one the short term challenges  for the sales and distribution  chan- 
+nels to address.  
+Moreover,  both the food processors  and sales and distribution  
+channels  identiﬁed  B2 (inadequate  infrastructure)  as the prominent  
+barrier.  This is reasonable  as these ﬁrms would rely on the provi- 
+sion of suﬃcient  infrastructure  to support  their effort s in sustain-  
+able food loss and waste management.  The inﬂuence  of infrastruc-  
+ture aligns with previous  discussions  on the need for more ﬁrms 
+along the supply chain( Boons and Lüdeke-Freund,  2013 ) and higher 
+numbers  of ﬁrms involved  ( Veleva et al., 2017 ). Lastly, B4 (lack of 
+investment  in advanced  equipment/technologies)  is identiﬁed  with 
+high prominence  by food processors  and consumers.  The barrier  
+has similarities  to the ﬁnancing  options  in general  CE studies  in 
+China (Su et al., 2014); however,  it is not considered  as a barrier  
+by sales and distribution  channel  members.  The reason they do 
+not perceive  it as a barrier  is likely due to the size of the ﬁrms; 
+many food producers  will be smaller  ﬁrms and they, along with 
+consumers,  will be less endowed  with ﬁnancial  resources  required  
+to make or invest in suﬃcient  changes  to improve  food loss and 
+waste management  processes.  The sales and distribution  ﬁrms tend 
+to be larger and will tend to have suﬃcient  slack resources  that 
+can be redeployed  to support  sustainable  food loss and waste man- 
+agement  activities.  
+Despite  these similarities,  there are some differences  as well. 
+For example,  the cost barrier  (B7) was identiﬁed  as the key cause 
+barrier  by sales and distribution  channels.  This identiﬁcation  may 
+relate to the relatively  small margins  and level of intensity  in many 
+retail and distribution  environments;  such tight margins  would 
+preclude  investments  with indeﬁnite  payoffs.  This suggests  oppor- 
+tunities  for the design and implementation  of improved  incen- 
+tivization  schemes  (Su et al., 2013). Lack of expertise  (B5) was 
+identiﬁed  by food processors  as the most prominent  barrier  in 
+their case. The lack of capability  and expertise  in the staff will  be 
+related  to the low levels of general  capabilities  in society  (partly 
+driven by low levels of education  in this area) and the sudden  need 
+for the ﬁrm to gain this expertise.  A general  need for expertise  
+1123
