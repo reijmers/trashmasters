@@ -1,0 +1,96 @@
+(POF) and ozone depletion (OD). HT captures the poten-
+tial harm of substances released to air, including carcinogens. Res-
+piratory and cardiovascular diseases have both been shown to be
+exacerbated and caused by PMF in the air, which is also attributed
+to causing impaired infant lung development ( Kim et al., 2015 ).
+POF or ‘‘summer smog”, and particularly tropospheric ozone, has
+also been shown to reduce lung function, exacerbate respiratory
+conditions, such as asthma, and cause long term tissue damage
+(Amann, 2008 ). Finally, OD increases the level of solar UV-B radia-
+tion on the earth, which has the potential to increase the inci-
+dences of skin cancers, genetic damage and macular
+degeneration; increased UV-B radiation also has the beneﬁt of
+increasing vitamin D levels in humans ( Norval et al., 2011 ).
+Therefore, these impacts have been assigned to the health
+aspect in the base case and all other scenarios ( Table 1 ). In addi-
+tion, GWP is assigned to this aspect in Scenarios 2 and 3. This is
+due to climate change endangering human health through the
+increased occurrence of extreme weather events, such as heat
+waves, droughts and hurricanes, and by changing the distribution
+of allergens and infectious diseases ( Franchini and Mannucci,
+2015 ).
+2.3. The nexus methodology and multi-criteria decision analysis
+An alternative method for estimating the total environmental
+impact within the FEWH nexus would be to use one of the
+multi-criteria decision analysis (MCDA) methods instead. To
+explore how the proposed nexus method compares to MCDA and
+whether the results of the illustrative case study differ between
+the two, multi-attribute value theory ( Azapagic and Perdan,
+2005b ) has been used in this study. As an illustration, only the base
+case is considered, with the same allocation of the impacts in the
+MCDA as in the nexus methodology; this is illustrated in the deci-
+sion tree in Fig. 2 .
+The scores for the four aspects are weighted and summed up to
+determine an overall nexus impact as follows:EInexus¼XA
+a¼1sa ð4Þ
+In this case, the nexus impact can range from 0 (the lowest) to 1
+(highest). Note that, in congruence with the nexus methodology,
+all the aspects are assumed to have equal importance.
+The aspect scores are estimated according to:
+sa¼XN
+n¼1wnEI0
+n;a ð5Þ
+where the normalised LCA impact EI’ n,aallocated to aspect ais esti-
+mated using Eq. (1).
+2.4. Illustrative case study: recovery of resources from food waste
+To illustrate the nexus methodology, the case study considers
+the life cycle environmental impact on the FEWH nexus of four
+options for food waste management used widely in the European
+Union ( Manfredi and Pant, 2011 ), each of which recovers energy
+and/or material resources: anaerobic digestion (AD), in-vessel
+composting (IVC), incineration and landﬁlling. The functional unit
+is deﬁned as the ‘‘treatment of 1 tonne of household food waste”
+and the system boundaries are given in Fig. 3 . The study is based
+in the UK. A brief description of the waste treatment methods is
+given below; for the original LCA results and further details, see
+Slorach et al. (2019) .
+Anaerobic digestion : AD of food waste takes place at a commer-
+cial facility with an annual capacity of 25,000 t/yr. The produced
+biogas is burned on-site in a combined heat and power engine with
+the excess electricity exported to the grid for which the system is
+credited. The digestate is used in agriculture, with the credits for
+displacing an equivalent amount of mineral fertiliser.
+In-vessel composting : A rotating drum is used to manage the
+composting of food waste at a 50,000 t/yr facility. The facility hasa controlled atmosphere with scrubbers to limit air emissions
+and odours. The waste is retained in the drums for four days before
+being matured in open air windrows. The compost is applied in
+agriculture and the system is credited for displacing mineral
+fertilisers.
+Incineration : The incineration process takes place in a large scale
+facility (300,000 t/yr) using a moving grate furnace, where the food
+waste is embedded in general municipal solid waste. The heat in
+combustion gases is used to produce steam, which drives a turbine
+to generate electricity; the process is credited for displacing the
+grid electricity. The ﬂue gases are treated before release to the
+atmosphere, including removal of ﬂy ash, which is sent to landﬁll
+together with bottom ashes.
+Landﬁlling : A modern sanitary landﬁll is considered with a con-
+tained system to capture landﬁll gas (68% capture rate) and collect
+leachate for wastewater treatment. A gas engine is used to gener-
+ate electricity from the gas for exporting to the grid; the system is
+credited for displacing the equivalent grid electricity.
+The LCA impacts of these options were estimated previously by
+Slorach et al. (2019) using the ReCiPe V1.08 methodology. These
+are summarised in Table 1 , together with their allocations to the
+different nexus aspects (as discussed in Section 2.2).
+3. Results and discussion
+3.1. Overall impact on the nexus
+The impacts on the nexus of the four food waste treatment
+options, estimated using Eqs. (1)–(3), are illustrated in the nexus
+quadrilaterals in Fig. 4 for the base case and Scenarios 1–3, with
+the total nexus impacts summarised in Table S1 in the Supplemen-
+tary Information (SI). For the full details of the estimations, see
+Table S2 and Figures S1-S4 in the SI. In all the cases, it is assumedFig. 2. MCDA decision tree for the four aspects of the FEWH nexus. (The allocation
+of the impacts to the different nexus aspects is the same as in the base case for the
+nexus methodology (see Table 1 ). The values in brackets represent the weights
+assumed for the aspects and the impacts, based on equal importance of each. Forthe impacts acronyms, see Nomenclature).P.C. Slorach et al. / Waste Management 113 (2020) 359–368 363

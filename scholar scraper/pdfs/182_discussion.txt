@@ -1,49 +1,89 @@
-4.1. Integrating ZWM technologies
-The review of state-of-the-art industry technologies and research
-revealed that there are many technology options that waste value chain
-stakeholders in Singapore and other countries can adopt to achieve
-ZWM. Applications of Internet-of-Things (IoT) technologies was found
-in the review to be an enabling factor for connecting di ﬀerent stake-
-holders along the waste value chain. IoT is the connection of all tech-nologies to the internet and to each other that builds o ﬀcloud com-
-puting and networks of sensors that continuously collect and monitordata. Devices in IoT are not limited to smartphones, but also include
-everyday equipment such as co ﬀee makers, washing machines, house-
-hold lighting, vehicles, and cash registers ( Risteska Stojkoska and
-Trivodaliev, 2017). IoT has risen due to swift expansion of basic and
-aﬀordable internet access and growth in smartphone adoption. Smart
-waste collection systems demonstrated the application of IoT in cities
-through the use of the internet to connect sensors, smart bins, waste
-hauling trucks, and the waste management system. IoT technologies are
-also applicable to collaborative platforms for industrial symbiosis. This
-is because data covering waste volume, type, and cost from waste
-producers and recyclers can be shared between stakeholders toTable 8
-E-waste metal recovery processes, inputs, and products.
-E-waste metal recovery
-methodProcess details and inputs Products extracted
-Pyrometallurgy Main processes include dismantling, smelting in a plasma arc furnace, drossing,
-sintering, melting and reactions in a gas phase at high temperatures. Crushedscraps containing base and precious metals are burned in a high temperaturefurnace. Metals are then volatilized by a chemical reaction or by heat, andimpurities are converted into slags.Improved treatment of pollutants from incineration and puri ﬁcation process
-compared to traditional pyrometallurgy.High quality copper. Other pure solid metals that havebeen extracted include silver, gold, palladium, nickel,selenium, and zinc.
-Hydrometallurgy Can achieve more targeted metal recovery and pre-treatment, better control of
-chemical reaction and produces less pollution.Uses more mild leaching agents such as chlorinate, ammonia-ammonium, non-cyanide lixiviants, and organic acids (i.e. citric acid and hydrogen peroxide).Metal extraction rates as high as 98% at lab/pilot scale.Copper, gold, silver, palladium extracted in solution
-Biometallurgy Bioleaching and biosorption are the two main techniques for metal recovery.
-Bioleaching uses acidophilic group of bacteria to bioleach heavy metals.
-Biosorption uses biological materials to remove substances from solution in a
-physico-chemical and metabolism independent process.
-Microorganisms used as biosorbents include bacteria, fungi, algae, actinomycetes,yeasts and some biowaste materials.Technology currently successful at laboratory scale and has not been industrializedyet.Copper, nickel, zinc, chromium, gold, silver extracted in
-solution
-Electrochemical technology Highly energy e ﬃciency process and uses a minimal amount of chemicals to
-dissolve and recover metals on a cathode for further processing. An
-electrochemical cell maximizes energy e ﬃciency of the process. The process of
-electrorecycling generates oxidizing agents at an anode in order to dissolve metals
-from the scrap matrix. The dissolved metals are then reduced at the cathode.Technology has not been commercialized yet.Pure solid copper, gold, silver
-Supercritical technology An environmentally friendly method that decomposes organic polymers and
-recycles metals since supercritical substances have unique properties such as lowviscosities, high mass transport coe ﬃcient, high di ﬀusivity, and high solubility.
-Example supercritical substances used are supercritical water, supercritical
-methanol. Technology has not been commercialized yet.Almost all metals can be extracted at a high recovery rate.
-Output is a solid mixture of metals.
-Vacuum metallurgical
-technologyMetals are separated based on di ﬀerence in water pressure of the metal elements at
-the same temperature. Can separate and recycle di ﬀerent metals from waste
-printed circuit boards under the guidance of separation criteria.Four crucial processes of vacuum distillation of metals are heat transfer,evaporation, mass transfer and condensation.Main environmental bene ﬁt is wastewater pollution is not produced.
-Technology is still immature and has not been commercialized yet.Cadmium, zinc, leadP. Kerdlap, et al.
-Resources, Conservation & Recycling 151 (2019) 104438
-12
+y selection and criteria
+The main criteria for shortlisting the search results under each of the
+six themes for further analysis was technology which included hard-
+ware, software, and services. Only studies and other information pub-
+lished in 2008 and onwards were included to obtain contemporary
+research and state-of-the-art technologies applied in practice. Each type
+of information source was screened in a di ﬀerent manner to ﬁlter out
+false positive results from the automated search engines as follows:
+1 Scienti ﬁc studies: The title and the abstract were screened
+2 Business reports: The executive summaries and introductions were
+screened
+3 Company websites: Homepages were screened
+4 News articles: The title and the ﬁrst three paragraphs of the article
+were screened
+Table 3 lists the criteria developed to determine topic relevance
+before further detailed selection.
+The screening determined which studies, reports, or news articles
+were directly relevant to the scope of this research and would gothrough a full text review. As shown in Table 4, criteria were then
+developed to ensure the information was relevant for answering theresearch question.
+The shortlist resulted in 52 research papers, business reports, web-
+sites, and news articles that went through a full text review.
+The subsequent sections of this research describe the ﬁndings of the
+thematic analysis of six pre-de ﬁned themes of ZWM and their tech-
+nologies. Section 4discusses how the technologies in the themes can be
+integrated to achieve ZWM and examines the limitations the ZWM
+technologies may face during implementation in dense urban settings.
+Section 5proposes future areas of research in ZWM that are needed to
+overcome the limitations of the technologies examined in this study.
+3. State-of-the-art technologies in zero waste manufacturing
+Each theme of ZWM addresses a group of technologies needed for
+waste generators, waste collectors, and waste to resource converters to
+move towards ZWM. Through the thematic review, technologies areidentiﬁed that the ZWM stakeholders could adopt to overcome their
+unique waste management challenges. An excel spreadsheet that clas-siﬁes the ZWM technologies and studies reviewed in this research is
+provided in the supporting information.
+3.1. Design for zero waste
+Design for zero waste focuses on designing products that use less
+materials and/or are easier to disassemble. This reduces the amount of
+waste generated, makes it easier to collect used parts, and makes it
+more feasible to recover parts or materials from the product at its end of
+life. In the manufacturing industry, design for disassembly (DfD) and
+additive manufacturing (AM) are able to achieve this goal. DfD is a
+design strategy that considers the future need to disassemble a product
+for repair, refurbishment, and recycling. Through DfD, valuable parts
+and materials that still have value can be easily recovered and used in
+the same or di ﬀerent products. AM technology constructs products by
+directly joining materials layer by layer following a digital designtemplate. AM products can be developed to more precise design spe-
+ciﬁcations and shapes from start to ﬁnish, which helps eliminate waste
+generated along the manufacturing process, compared to conventionalmanufacturing.
+3.1.1. Design for disassembly
+Ameliorating product design during the development phase can
+increase the recovery rate of products and their materials. DfD guide-
+lines state that maximizing a product ’s ability to be disassembled can be
+achieved during the design stage by looking at how to reduce thenumber of product parts, lower product disassembly costs, shorten
+disassembly time, and solve all the existing problems in disassembly
+(Soh et al., 2014 ). For DfD products to be successful and well received
+by customers, it is recommended that they meet 14 di ﬀerent char-
+acteristics provided by Wang et al. (2014) . To support decision-making
+in DfD, Low
+ et al. (2014) proposed a tool based on modular product
+architecture.
+Products with modular architectures are a notable example of DfD
+because they can be disassembled into a number of subassemblies,parts, and components. Each subassembly can be considered a module
+that can be independently created and then used again in other productTable 3
+Inclusion and exclusion criteria for title and abstract screening.
+Attribute Inclusion Exclusion
+Field of study Field of study must be related to waste management and recycling,
+manufacturing, and environmental sustainability.Field of study is not related to waste management and recycling,
+manufacturing, and environmental sustainability (e.g. policy, ﬁnance, urban
+management and planning).
+Context within ﬁeld Title/abstract contains cues on technology, systems, and processes to
+improve waste and resource management, reduction, and recycling in
+manufacturing industry practices.Title/abstract contains cues of related topics (e.g. advanced manufacturingtechnologies, material recovery technologies, computational methods), butdo not directly discuss applications to improving environmentalsustainability in manufacturing practices.
+Subject of discussion Title/abstract has to include discussion or description of the technology,
+systems, or process applied in improving waste and resource management,reduction and recycling in manufacturing processes. The technology,system, or process should elaborate on the functions and should beimplementable or has been implemented.Title/abstract discusses principles and fundamental zero waste concepts;
+history of zero waste; zero waste cases analysis with no relation to
+technology, systems, or processes that support the objectives of ZWM.
+Table 4
+Subject matter relevance criteria for full text review.
+Type of paper Content pro ﬁle of paper Paper must contain
+Conceptual Conceptual description of technology. Yet to present evidence of
+implementation.Concept of the technology, demonstrable by the logic and design and applicable to
+ZWM themes.
+Review and trends Description of industry trends and issues about a type of technology
+applicable to ZWM.Details about the development status, industry standards, challenges and gaps, of
+technology applicable to ZWM.
+Empirical Description of how the technology works, what it can achieve, with
+evidence of successful testing or implementation.Details about the functions, processes, and outputs of the technology and the
+relationships between the steps, and what issues the technology solves.P. Kerdlap, et al. Resources, Conservation & Recycling 151 (2019) 104438
+5

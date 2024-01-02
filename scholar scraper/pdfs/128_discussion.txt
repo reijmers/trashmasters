@@ -1,5 +1,95 @@
-5.1. The mismatch between theory and practice
-In Naivasha, the low level of useful knowledge (condition 2)
-could impede overall governance capacity. Knowledge is needed toD. Ddiba et al. / Earth System Governance xxx (xxxx) xxx 6
+e or impede environmental governance in cities. The
+framework consists of 27 indicators across nine conditions and
+three dimensions ( Table 1 ). The “knowing ”dimension addresses
+the need to be aware, understand and learn about the risks and
+impacts of environmental challenges, policy and strategic choices.
+The “wanting ”dimension examines the willingness of stakeholders
+to cooperate, express and act upon their ambitions and commit to
+using their capabilities to ﬁnd solutions. The “enabling ”dimension
+considers the network, resources and instruments that stake-
+holders have available to realize their ambitions ( Koop et al., 2017 ).
+The GCF approach was selected for two key reasons. First, the
+GCF is derived from an extensive knowledge base on how norma-
+tive principles, enabling efforts and adaptive capacity can be used
+to overcome governance gaps and barriers that result from inef-
+fective policy actions ( Koop et al., 2017 ). Second, since this paper
+aims to provide insights that may apply beyond the case study it-
+self, using the GCF's standardized triangulation approach provides
+the opportunity for reproducibility and comparability with other
+cases. This can serve as a basis for systematic research in the ﬁeld of
+governance for the CE in urban areas of low-income and middle-
+income countries. Previous case studies that applied the frame-work focused on governance challenges relating to the water sector
+and were largely in cities outside Africa (e.g. Brockhoff et al., 2019 ;
+Feingold et al., 2018 ;Kim et al., 2018 ;Koop et al., 2018 ;/C20Steﬂov/C19a
+et al., 2018 ). In this study, the GCF is applied to the CE in a
+context that involves multiple sectors connected to resource re-
+covery from organic waste streams.
+For Naivasha, we followed the prescribed methodological
+approach by Koop et al. (2017) but modi ﬁed the information about
+the indicators to re ﬂect the multi-sectoral context. After developing
+pre-de ﬁned questions for the 27 indicators, we conducted a desk
+study with a focus on reviewing scienti ﬁc and gray literature related
+to sanitation, waste management and resource recovery in Naivasha.
+Some literature came from online sources, while local stakeholders
+provided other documents. The desk study was guided by the pre-
+deﬁned questions (provided in the Supplementary Material) and itresulted in preliminary information and scores on the indicators.
+We then conducted a stakeholder identi ﬁcation exercise
+through a desk study and suggestions by local partners which
+resulted in a comprehensive list of potential stakeholders to involve
+in interviews. We categorized the stakeholders into various roles,
+types and stage of the sanitation and waste service chain such as
+waste generation, collection and transport, treatment and disposal/
+end-use, to allow selection of a diverse set of interviewees. Cate-
+gories of stakeholder types included national public authorities,
+local public authorities, private sector, research &innovation in-
+stitutions, non-governmental organizations (NGOs) &cluster or-
+ganizations, citizens and user groups. Selection of interviewees
+focused on those primarily based in Naivasha. Since some of thoserequested were not able to participate in the interviews, the se-
+lection was done iteratively. Altogether, we conducted interviews
+with 21 stakeholders. The list of stakeholders represented among
+the interviewees and details about their categorization is provided
+in the Supplementary Material.
+Each interviewee consented before participating and all in-
+terviews were recorded in audio except for two instances where
+the interviewees declined. The interviews typically occurred at theinterviewee's place of work and lasted between 30 to 90 min. The
+interviews were of semi-structured format with the pre-de ﬁned
+questions guiding the discussion and follow-up questions posed
+to enable the interviewees to further substantiate their statements.
+Rather than responding to questions for all the indicators, each
+interview focused on the indicators most connected to the inter-
+viewee's expertise and experience. Afterwards, a summary of each
+interviewee's responses was made and sent to the interviewee so
+that they could provide feedback and necessary corrections as well
+as any further substantiation related to the indicators. Half of the
+interviewees provided feedback but half had not by the time of
+analysis. The feedback provided was integrated and then responses
+from all interviewees for each indicator were combined with the
+information from the desk study into a summary drawing out
+highlights for each indicator. From the summary, scores were
+Table 1
+The Governance Capacity Framework. Together the dimensions, conditions and indicators are considered to determine the overall governance capacit yt o
+address a resource challenge ( Koop et al., 2017 ).
+Dimensions Conditions Indicators
+Knowing 1 Awareness 1.1 Community knowledge
+1.2 Local sense of urgency1.3 Behavioural internalization
+2 Useful knowledge 2.1 Information availability
+2.2 Information transparency2.3 Knowledge cohesion
+3 Continuous learning 3.1 Smart monitoring
+3.2 Evaluation
+3.3 Cross-stakeholder learning
+Wanting 4 Stakeholder engagement process 4.1 Stakeholder inclusiveness
+4.2 Protection of core values4.3 Progress and variety of options
+5 Management ambition 5.1 Ambitious and realistic management
+5.2 Discourse embedding
+5.3 Management cohesion
+6 Agents of change 6.1 Entrepreneurial agents
+6.2 Collaborative agents6.3 Visionary agents
+Enabling 7 Multi-level network potential 7.1 Room to manoeuvre
+7.2 Clear division of responsibilities7.3 Authority
+8 Financial viability 8.1 Affordability
+8.2 Consumer willingness-to-pay
+8.3 Financial continuation
+9 Implementing capacity 9.1 Policy instruments
+9.2 Statutory compliance9.3 PreparednessD. Ddiba et al. / Earth System Governance xxx (xxxx) xxx 3
 Please cite this article as: Ddiba, D et al., Governing the circular economy: Assessing the capacity to implement resource-oriented sanitation and
 waste management systems in low- and middle-income countries, Earth System Governance, https://doi.org/10.1016/j.esg.2020.100063

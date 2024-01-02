@@ -1,69 +1,123 @@
-This section provides a discussion of future study challenges and
-implications for the status of different regions.
-5.1. Future challenges and directions
-This subsection discusses challenges and future study gaps
-based on the top ﬁve indicators, which were determined to be
-incineration, LCA, plastic waste, sorting solid waste, and
-sustainability.
-5.1.1. Incineration
-Municipal solid waste is disposed of either by land ﬁlling or
-through incineration. In fact, waste incineration has recently
-become a fascinating treatment method. Continuous increases in
-waste generation, the absence of funding for land ﬁlls and their
-environmental and public health impacts have prompted anincreased interest in incineration ( Sebastian et al., 2019 ). Inciner-
-ation is a process of burning municipal solid waste to sterile ash
-with little environmental impact. In optimal energy recovery and
-ecological sustainability, incineration decreases the amount of
-waste by 90% and the volume of mass by 70%; it also provides a
-possibility of recovering energy in the form of electricity ( Joseph
-et al., 2018 ;Sebastian et al., 2018 ).Ashraf et al. (2019) proposed a
-clean closed-loop incineration procedure that utilizes municipal
-solid waste residues and helps reduce expensive land ﬁll taxes. The
-feasibility of municipal solid waste incineration is determined by
-the composition of the municipal solid waste, which is the most
-crucial criterion; in contrast, the sustainable MSWM selections that
-are made pose a threat to the environment ( Al-Salem et al., 2014 ).
-Although incineration is supposed to be a pathway to sustainable
-MSWM, it may not always be a feasible discarding technique, as it
-largely depends on the waste characteristics, which are dependent
-on the indigenous demography, sociocultural differences, seasonal
-changeability and landscape ( Rajaeifar et al., 2017 ). Incineration is a
-multifaceted, complicated process with trade-offs among
-numerous dimensions with a cost-intensive requirement for an
-extensive practicability assessment of implementation.
-In practice, the possibility of using incineration outputs such as
-ash, carbon dioxide, and energy to make cementing material
-through novel production stages allows a reproduction process
-within incinerator facilities ( Ghouleh and Shao, 2018 ). Eco-cement
-production is based exclusively on municipal solid waste inciner-
-ation residues to maximize the recycling potential. A simulation of
-solid waste incineration on an advanced technology-driven pack-
-aging bed with corrected boundary circumstances, homogeneous
-responses and control methods for pyrolysis products has been
-introduced ( Gu et al., 2019 ). Knowledge of changes in the amount of
-feed waste and waste characteristics is a tool to determine the
-economic and environmental feasibility of incineration technology
-(Milbrandt et al., 2018 ). However, this process remains unpopularTable 3
-List of bibliographic coupling of productive countries/territories according to region ( United Nations, 2019 ).
-Region Asia and Oceania North America Latin-America And Caribbean Europe Africa
-Countries/Territories Australia Canada Argentina Austria Cote D ’ivoire
-Bangladesh United States Bolivia Belarus EgyptChina Brazil Belgium GhanaHong Kong Chile Croatia KenyaIndia Colombia Cyprus South AfricaIran Ecuador Czech Republic Tanzania
-Israel Mexico Denmark Uganda
-Japan Estonia
-Jordan Finland
-Macau France
-Malaysia Georgia
-New Zealand Germany
-Pakistan Greece
-Qatar Hungary
-Saudi Arabia Ireland
-Singapore Italy
-South Korea Latvia
-Sri Lanka Lithuania
-Taiwan Netherlands
-Thailand Norway
-Turkey Poland
-Viet Nam Portugal
-Romania
-Russian FederationSerbiaSloveniaSpainSwedenSwitzerlandUnited KingdomF.M. Tsai, T.-D. Bui, M.-L. Tseng et al. Journal of Cleaner Production 275 (2020) 124132
-8
+f a unique regional position in a CE. Pires and Martinho
+(2019) argued that an understanding of regional CE knowledge is
+needed to foster environmental outcomes and the total resource
+management chain. Understanding MSWM in a CE at the regional
+level is necessary to improve practices. As previously mentioned,
+MSWM in a CE remains limited, and qualitative and quantitative
+approaches and analyses are lacking ( Korhonen et al., 2018a ;Pires
+and Martinho, 2019 ;Zeller et al., 2019 ). There are challenges and
+opportunities for the development of MSWM in a CE since MSWM
+is increasingly complex and a CE has problems in practice, while a
+systematic literature examination indicates that the contributions
+of MSWM in a CE remain unrevised and need to be clari ﬁed. Sys-
+tematic qualitative and quantitative approaches provide an over-
+view of the state of the art of MSWM in a CE for future study
+directions and improvements in practice. The objectives of this
+study are as follows:
+/C15To describe MSWM in a CE and map the ﬁeld with proposed
+indicators from valid data sources
+/C15To explore the knowledge gaps in geographical regions based on
+a proposed hybrid approach
+Quantitative and qualitative approaches are proposed to
+enhance the outcomes of the systematic review. A hybrid method,
+including bibliometric analysis, the fuzzy Delphi method, and the
+entropy weight method, is proposed. Bibliometric analysis is used
+to visualize an overview of the bibliometric status and to reveal the
+indicators of MSWM in a CE from the data of all publications in the
+Scopus database, and the results are presented as visual informa-
+tion ( Shukla et al., 2019 ). The fuzzy Delphi method aims to screen
+out unnecessary indicators based on expert judgments due to the
+complexity of a CE and the diversity of problems ( Tseng, 2009 ;
+Tseng and Bui, 2017 ). The entropy weight method is applied to
+transform the indicator frequency data into comparable weights to
+determine the performance of regions on the indicators and to
+identify the critical indicators for improvement in this study ( Wang
+et al., 2015 ;Tseng, 2017 ).
+This study contributes to (1) identifying important knowledge
+to assist further studies and the implementation of practices, (2)
+delivering guidelines regarding the directions of future studies by
+reviewing the bibliometric status of MSWM in a CE and identifying
+the critical indicators that need further examination, and (3)
+addressing the challenges and gaps among geographical regions to
+provide local viewpoints of MSWM in a CE.
+The second section discusses related literature on a CE and
+MSWM. The third section more clearly presents the data collection
+process, methodologies, and proposed analytical steps. The results
+are revealed in the fourth section. The ﬁfth section identi ﬁes future
+challenges and discusses regional comparisons of MSWM in a CE.
+Finally, conclusions are drawn in the last section.
+2. Literature review2.1. Municipal solid waste management
+MSWM is de ﬁned as complex procedures comprising waste
+collection routes, transfer station locations, treatment and energy
+recovery strategies, and waste treatment techniques are the core
+means to achieve objectives, including human health and envi-
+ronmental protection, economic development, and ful ﬁllment of
+social and regulatory requirements ( Dewi et al., 2010 ).Sharholy
+et al. (2008) claimed that ef ﬁcient MSWM requires support from
+both authorities and citizens, where the latter are individuals with
+evolving community awareness and societal interest. Soltani et al.
+(2015) presented that MSWM is a complex procedure involvingmultiple decisive factors, such as environmental effects, related
+economic outlays and bene ﬁ
+ts, regional features, and political and
+social issues. Therefore, sustainable MSWM is necessary for all
+stages of the system, from design, scheduling and neutralization to
+the preservation of environmental quality for future development
+goals ( Pires et al., 2011 ). It is necessary to identify planning and
+monitoring methods for SWM to reduce the generated amount of
+waste, to recycle some waste with high economic value, and to
+deﬁne indicators that support that a suitable direction is important
+(Arıkan et al., 2017 ).
+For solid waste intervention in a CE, Lee (2019) developed a
+recycling investment sustainability framework that involves un-
+certain petitions and nonlinear recycling expenses to balance
+existing manufacturing restrictions, production bene ﬁts, and
+recycling investments for a sustainable CE. Tisserant et al. (2017)
+presented waste treatment and waste footprint scales to design
+and assess policy instruments for a CE. Murphy and Pincetl (2013)
+showed that material ﬂows are rounded up in a CE, with mate-
+rials being used repeatedly to optimize consumption with no
+wasted materials; the products are reused, repaired or redis-
+tributed within the system at the end of life. If they cannot bereused or repaired, products can be recycled or recovered from
+waste and used as inputs, replacing the need to exploit natural
+resources ( Song et al., 2015 ).Ghisellini et al. (2016) andRicha et al.
+(2017) suggested that a CE aims to prevent and eliminate waste by
+cycling materials or used products within a closed-loop scheme to
+obtain energy and resource effectiveness and pro ﬁtability. Ness and
+Xing (2017) proposed that a CE aims to have no remaining in ﬂuence
+on the ecosystem by recovering resource procurement damage
+while minimizing the waste produced through manufacturing and
+product life cycles. Waste reduction through recycling is stressed
+under the principal points of reducing raw material consumption,
+designing products in an eco-design manner, lengthening product
+lifetimes through maintenance and repair, and recycling and using
+products and raw materials recovered from waste ﬂows. However,
+theoretical developments are not coherent for this concept and do
+not align with MSWM and a CE because zero-waste perceptions are
+limited, as even in closed-loop systems, resources are consumed
+and at least some waste is certainly produced ( Blomsma and
+Brennan, 2017 ;Niero and Kalbar, 2019 ). In lieu of this discussion,
+the role of MSWM in a CE is irreplaceable and important for
+guaranteeing the precision of this supplementary approach.
+2.2. Circular economy
+A CE is a business operationalization concept whose imple-
+mentation for sustainable development has been much debated.
+The concept stems from the Earth ’s limited capability to acclimatize
+to contamination in reaction to the necessity of economic devel-
+opment and resource consumption along with environmental in-
+ﬂuences ( Korhonen et al., 2018a ).Jiao and Boons (2014) indicated
+that the concept involves the actions of reducing, reusing, and
+recycling in the progression of production, consumption and cir-
+culation. Van Buren et al. (2016) proposed creating a triple bottom
+line with the social, environmental and economic dimensions of a
+CE.Mendoza et al. (2017) stated that a CE should take full advantage
+of resource ef ﬁciency, including (1) conserving and improving
+natural wealth by monitoring
+ﬁnite stocks and assessing renewable
+resource ﬂows; (2) optimizing resource utility, products, processes,
+and materials within technological and biological circularity; and
+(3) promoting ef ﬁcient coordination by disclosing and controlling
+undesirable externalities. Ness and Xing (2017) suggested that a CE
+aims to achieve more value and to reduce material throughput by
+involving resource utilization and management, closed-loop ap-
+proaches, adaptation strategies, and sharing economy models.F.M. Tsai, T.-D. Bui, M.-L. Tseng et al. Journal of Cleaner Production 275 (2020) 124132
+2

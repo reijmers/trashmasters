@@ -1,25 +1,125 @@
-: a synthesis of research streams and research 
-agenda 
-The findings from KCN analysis in Section 4 suggested that impact 
-assessment, biorefinery and nutrient recycling are three underlying 
-research lines in extant literature. This is supported by a significant 
-number of articles found on these topics from the structural dimension 
-analysis (Section 5). However, the fine-grained analysis in Section 5 also 
-gave rise to other critical factors of FLW management under the CE 
-framework. Methodological analysis indicated the important role of the 
-FLW flows quantification and statistical assessment. Three types of FLW 
-flows – surplus, homogeneity and heterogeneity – follow different pre-
-vention and management pathways, but they encounter challenges 
-arising from the following sources: technologies, supply, quantification, 
-logistics, market factors, policy. Grounded in the detailed and extensive 
-analysis, we propose a novel way of classifying the literature in FLW 
-management under the CE into six research streams: (i) FLW stream 
-supply and quantification, (ii) practices and technological aspects, (iii) 
-logistics and supply chain management, (vi) market demand, (v) SIA, 
-(vi) policy and legislation. This novel classification aims to push further 
-evolution in this ever-increasing research agenda (Table 5). 
-6.1. FLW supply and quantification 
-The reliable quantification of potential FLW flows is the first and 
-crucial step in supporting the formation of effective FLW interventions 
-and policies in all three flows of FLW (Corrado and Sala, 2018 ; Hamelin 
- Fig. 9.Types of sustainability impact assessments.  Q. Do et al.
+onal Journal of Production Economics 239 (2021) 108209
+2Development Goal (SDG 12.3) to “by 2030, halve per capita global food 
+waste at the retail and consumer levels and reduce food losses along pro-
+duction and supply chains, including post-harvest losses ” (Flanagan et al., 
+2018 ). 
+As the instrumental role in the transition towards the CE, FLW has 
+gained momentum in the CE-related academic discourse with expo-
+nential growth in related publications over the last five years (Kyr-
+iakopoulos et al., 2019 ). To better position our study and highlight our 
+contribution to this significant and ever-increasing published research 
+base, we have examined a considerable amount of extant literature that 
+deals with FLW in the CE. Appendix 1 presents a summary of these 
+studies, providing authors ’ names, year of publication, the number of 
+articles reviewed and main focuses in term of stages of the supply chain, 
+waste prevention and management options, and the considered evalu -
+ation criteria. The earliest was published in 2014. This extensive list is 
+grouped into seven focused topic areas: (i) FLW conversion technologies 
+(ii) biorefinery models (iii) life cycle assessment (LCA) methods for FLW 
+prevention and management routes (iv) methods for quantifying the 
+FLW flows (v) FLW-related policies (vi) the FLW hierarchy framework 
+(vii) FLW prevention behaviours. The difference between the first two 
+topics lies in the cascading concept, where the former focuses on a 
+specific technology, while the latter aims at a combination of multiple 
+technologies for a plethora of outputs. Although the prior literature re-
+views represent the crucial starting point for our study, two limitations 
+are identified. First, their focus is constrained to a specific topic area, 
+predominantly focused on technological feasibility in a fragmented 
+manner. Since FLW in the CE thinking is a complex and multi-faceted 
+issue that cannot be attributed to a single variable (Schanes et al., 
+2018 ; Kyriakopoulos et al., 2019 ), a singular or micro perspective is not 
+recommended. Otherwise, the CE discourse is simply a refurbished 
+notion of the triple R principle – reduce, reuse, recycle, where a single 
+solution is chosen according to the environmental criteria (Crist ˘obal 
+et al., 2018a , 2018b ; Ingrao et al., 2018 ), while economic and social 
+evaluations, as well as the optimal cascade of individual bioprocesses for 
+the authentic transformation of the linear to the circular economy 
+(Dahiya et al., 2018 ) are completely neglected. Second, the review 
+protocol in many cases is not illustrated. As such, most papers either do 
+not mention the number of reviewed articles or review a limited set of 
+articles with unclear selection criteria. This narrative method of syn-
+thesising previous studies is criticised as being devoid of replicability, 
+transparency and thoroughness and thus can be biased by the re-
+searchers in making sense of extant literature (Tranfield et al., 2003 ). 
+We, therefore, attempt to overcome these limitations. 
+As shown in Appendix 1, our scope includes the above-mentioned 
+topic areas in order to provide a comprehensive literature review. We 
+considered 297 articles published in all areas of focus and all stages of 
+the supply chain, irrespective of the chosen FLW prevention and man-
+agement options that are linked to the CE and FLW. We have chosen a 
+systematic literature review (SLR) method over other review approaches 
+because of its replicable and transparent process, which contributes to 
+giving a balanced and unbiased result (Tranfield et al., 2003 ). The main 
+objectives of this extensive review are threefold: (i) to offer an analytical 
+overview of existing research relying on bibliometric tools, such as 
+keyword co-occurrence analysis; (ii) to carry out the structural dimen -
+sion analysis on research methodology, FLW types, FLW prevention and 
+management options with the associated opportunities and challenges, 
+and sustainability assessment indicators; (iii) to derive a taxonomy 
+framework for the classification of the critical aspects of the reviewed 
+papers and offer potential future research avenues. 
+After the introduction, the paper proceeds as follows. Theoretical 
+background (Section 2) sheds light on the FLW definitional scoping, 
+concept of CE and its relevant principles in FLW prevention and man-
+agement. The SLR methodology is presented in Section 3, which is fol-
+lowed by a keyword co-occurrence network analysis to identify 
+emerging research themes (Section 4) and structural dimension analysis 
+to critically appraise different relevant dimensions (Section 5). The discussion (Section 6) encapsulates current research lines and proposes 
+the research agenda. The conclusions and limitations of this study are 
+presented in Section 7. 
+2.Theoretical background 
+2.1. FLW definitional scoping – a review boundary 
+Clearly stating the boundaries of the topic is essential when per-
+forming a SLR. This is of great importance due to a lack of consensus 
+with reference to a precise definition of food loss and waste resulting in 
+an interchangeable use of the concepts of loss and waste (FAO, 2019 ). 
+The existence of multiple FLW definitions complicates the data collec -
+tion and comparability of FLW levels (Corrado and Sala, 2018 ), chal-
+lenges the measure of the distance towards the SDG 12.3 target 
+(Teigiserova et al., 2020 ), and hampers the analysis of FLW (FAO, 2019 ). 
+FLW definitions are different in two major aspects: the types of wastes 
+(edible and inedible1 parts of foods) and the boundaries in the FSC to be 
+included (Corrado and Sala, 2018 ). For instance, FAO (2019, p. 4) define 
+FLW as “the decrease in quantity or quality of food along the food supply 
+chain ”, but distinguish food loss from food waste based on the stages of 
+the FSC. Food loss refers to the amount of the edible parts of crops, 
+livestock and fish leaving the upper part of the FSC – from the 
+post-harvesting, slaughtering, and catching stage up to but not including 
+the retail stage – by being discarded or disposed of or incinerated (FAO, 
+2019 ). These stages typically consist of storage, transportation, pro-
+cessing and importing activities. Food waste arises at the downstream 
+stages from retail to the consumption points. Of note, the FLW ’s scope 
+under the FAO ’s conceptual framework excludes not only inedible parts 
+of foods but also the edible foods that are destined to an economically 
+productive non-food use, such as animal feeds or industrial use. FU-
+SIONS (2014) , on the other hand, does include both edible and inedible 
+parts of foods in its proposed FLW definition, but it does not distinguish 
+food loss and food waste. FUSIONS (2014, p. 6) defined food waste as 
+foods that “are removed from (lost to or diverted from) the food supply 
+chain ” and flow into nine destinations. FUSIONS (2014) also highlighted 
+the difference between food surplus and food waste . Although food sur-
+plus is still a part of FSC and fit for human consumption, it would end up 
+as waste if no prevention or reuse is carried out. As a result, prevention 
+and redistribution to humans are only applicable to food surplus (Ng 
+et al., 2019 ). While the paper acknowledges differences between various 
+concepts, the scope of FLW terminology used hereinafter in this review 
+paper will encompass food losses, food wastes, edible and inedible 
+portions of food loss and wastes as well as food surplus that arise from all 
+stages of the FSC. 
+2.2. Circular economy concept 
+A circular economy is defined as “an industrial system that is restorative 
+or regenerative by intention and design ” (Ellen MacArthur Foundation, 
+2012 , p. 7). According to Bocken et al. (2016) , the CE includes strategies 
+for closing, slowing or narrowing resource loops. Closing completes a 
+resource circle by connecting the post-use of a resource with the pro-
+duction stage via recycling, while slowing loops reduces the speed of 
+resource flow by extending the in-use period with long-life design 
+and/or maintenance, repairs, remanufacturing services. Finally, nar-
+rowing the loop means lowering resources embedded in each product. 
+The CE concept cannot be traced back to any particular authors or 
+dates but is rather considered as the synthesis of various schools of 
+thought, prominently cradle-to-cradle philosophy, performance econ-
+omy, blue economy, biomimicry, and industrial ecology (Ghisellini 
+et al., 2016 ; Geissdoerfer et al., 2017 ; Merli et al., 2018 ). The 
+cradle-to-cradle philosophy fosters the superior design of products for 
+1 For example: shells, peels, bones, pulps, husks, leaves, pomaces. Q. Do et al.

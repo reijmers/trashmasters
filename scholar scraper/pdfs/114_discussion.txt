@@ -1,0 +1,124 @@
+g of baby nappies or diapers ’,‘recovery of nutrients from baby
+nappies ’,‘phosphorus recovery from baby nappies ’,‘composting of
+baby nappies ’,‘sustainable management baby nappies ’and ‘circular
+economy of baby nappies ’. Through a quick reading of the title and ab-
+stract (if needed) for each article, we have initially screened 45 journal
+articles from around the world that somewhat addressed the recycling
+of baby nappies, and ﬁnally, we have selected 22 studies following the
+below criteria to perform a thorough review:
+i) The article adequately assessed/explained a particular technol-
+ogy or method for recycling baby nappies or resource recovery
+from baby nappies.
+ii) The article published in peer-reviewed journals in English be-
+tween 2010 and 2020 that captured the recent advancement in
+recycling of baby nappies.
+iii) Information necessary to perform the current review is possible
+to extract and organize in a systematic order.
+2.2.2. Approach for extraction of key information from selected literature
+To perform an in-depth and systematic review, we have developed a
+methodical approach that allows extracting all key information from the
+selected articles for this review. In this approach, we have initially dis-
+sected each journal articles into three major parts i. Purpose and meth-
+odology, ii. ﬁndings/results and discussion, and iii. recommendations
+and future research needs, and did careful reading of each part to extract
+the key information. We eventually came up with a tabular structure
+with a number of columns with headings i.e., ‘recovery/recycling tech-
+nology or method used ’,‘location of the study ’,‘considerations for
+recycling (nutrient recovery/minimizing waste volume) ’,‘extent of ap-
+plication (lab/pilot project/industry scale) ’,‘positive/bene ﬁcial aspect ’
+and ‘limitations ’that allowed to systematically capture the key informa-
+tion from each of the selected article.
+3. Results and discussion
+3.1. Quantitative picture of national P loss through baby nappies in
+Australia
+Each year, around 2 billion disposable baby nappies are used in
+Australia that eventually ends up in land ﬁlls (ABC News, 2015 ), with
+traditional disposable baby nappies estimated to take up to 150 years
+to break down ( Sustainability Victoria, 2021 ). The human excreta
+(urine and feces) that ends up through baby nappies in Australian land-
+ﬁll also cause the emission of methane, a greenhouse gas that is 21 times
+more potent than Carbon dioxide. By weight, nearly 75% of the used
+baby nappies is urine ( Colón et al., 2011 ), containing a considerable
+amount of P ( Mihelcic et al., 2011 ). Thus, a substantial amount of
+human excreta bound P and other nutrients (e.g., nitrogen) also ends
+up in land ﬁlls through disposal of used baby nappies. Although a num-
+ber of city councils (local government administrative bodies) in
+Australia currently offer rebates to households that switch to cloth
+nappies from disposable baby nappies mainly with the aim to reduce
+the amount of wastes reaching to land ﬁlls (Cook, 2021 ), initiatives for
+the recovery and recycling of P and other nutrients from disposable
+baby nappies are still lacking.
+Theﬁrst substance ﬂow analysis of P relating to disposable baby
+nappies in Australia as performed in this study indicates that nearly
+308 t of P ended up in land ﬁll areas in 2019, which accounts for approx-
+imately 2.5% of the overall P (12,507 t) excreted as human waste in that
+year ( Fig. 1 ). Although the amount looks small in percentage term for a
+single year, if not recovered and recycled through a circular economy
+approach, this could result in the loss of a signi ﬁcant amount of P over
+a longer term. The multi-year analysis of P loss through baby nappies
+as presented in Fig. 2 indicates that over the period of 2001 –2019,
+nearly 5452 t of P was lost in land ﬁll areas of Australia. Considering P
+is a non-substitutable, non-renewable/ ﬁnite, and geographicallyrestricted resources and the urgency of closing the loops in the global
+P cycle ( Cordell et al., 2009 ;Chowdhury et al., 2017 ), recovering and
+recycling that amount of P is essential. Moreover, considering the asso-
+ciated life cycle environmental impacts ( Ng et al., 2013 ;Cordella et al.,
+2015 ), systematic recycling of disposable baby nappies is much re-
+quired. Although the application of circular economy approaches for
+recycling baby nappies is underway ( Khoo et al., 2019 ;Mendoza et al.,
+2019 ), it is essential to consider the perspective of P loss associated
+with baby nappies and ﬁnding recycling techniques or methods effec-
+tive in recovery of nutrients along with other elements. Compared to
+other pathways of P ﬂoss mainly from the agricultural system such as
+soil erosion and runoff loss, it is comparatively easier to track down
+and manage P ﬂow associated with baby nappies as systematic collec-
+tion of household wastes and recovery of P through formal municipal
+waste management system is possible ( Rahman et al., 2019 ).
+This study only presents the quantitative picture of P loss through
+baby nappies in the case of Australia. However, other developed nations
+with similar socio-economic conditions likely to have more or less sim-
+ilar types and magnitudes of P loss through baby nappies. Utilizing the
+conceptual model that present systems and system boundaries and
+pathways of P ﬂow through baby nappies ( Fig. 1 ) as well as the methods
+for calculation of P ﬂow as presented in this study, similar quantitative
+assessments should be performed for other economically developed
+countries where disposable baby nappies are commonly used. Accord-
+ingly, it is required to perform a SFA for quantifying the total global P
+loss through baby nappies, which could be done in our future study.
+Currently, there is a clear knowledge gap in this regard.
+3.2. Review of available technologies/methods for recycling disposable baby
+nappies
+The review of available published peer-reviewed journal articles on
+various baby nappy recycling technologies/methods as presented in
+Table 1 helped to understand the potential and limitations in terms of
+P and other nutrient recovery.
+3.2.1. Technologies/methods suitable for nutrient recycling
+A number of studies attempted to understand the potential for
+recycling baby nappies through composting with food and other organic
+wastes. For instance, Tsigkou et al. (2020a) examined the potential for
+composting of anaerobic sludge from the co-digestion of used dispos-
+able nappies and expired food products, while Colón et al. (2011)
+assessed the potential for composting of nappies with source-
+separated organic fraction of municipal solid waste (OFMSW). Although
+both composting methods were found quite suitable for nutrient recov-
+ery, they have some bene ﬁcial aspects and limitations as presented in
+Table 1 . For instance, the composting method of Tsigkou et al. (2020a)
+identi ﬁed inability to eliminate harmful bacteria like Salmonella and En-
+terococcus spp. due to low composting temperature as one of the limi-
+tations, while the study of Colón et al. (2011) found slightly higher
+concentration of zinc as the shortcoming.
+In an experiment of composting of door-to-door collected organic
+fraction of municipal solid waste with a 3% w/w (weight per weight)
+of compostable nappies in Barcelona, Spain, Colón et al. (2013) identi-
+ﬁed that both the composting process and the ﬁnal compost product
+are not altered by the use of compostable nappies in some important as-
+pects like the content of pathogen, stability and elemental (e.g., nutrient
+and heavy metal) composition. Although they suggested the use of
+compostable nappies as a real alternative to disposable nappies with
+no technical issues, they emphasized on the need for a complete life
+cycle assessment (LCA) of all the processes to assess the sustainability
+and environmental impact. Another study of the Municipality of Coroico
+in Bolivia, where the organic fraction (fecal residues and cellulosic poly-
+mers) is separated from the plastic part and composted that with locally
+available components like cow dung, activated bacteria, and Californian
+red earthworms. Although this was the ﬁrst approach for utilizingR.B. Chowdhury and M. Wijayasundara Science of the Total Environment 799 (2021) 149339
+4

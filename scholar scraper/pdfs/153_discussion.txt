@@ -1,33 +1,134 @@
-Reduction of FLW at each stage of the agri-food supply chain passes 
-through the implementation of a CE approach (Vilariño et al., 2017). 
-Technological solutions are one but fundamental piece of such ap
+et al., 2017). 
+In particular, Food Waste Hierarchy (FWH) frameworks suggest 
+different available options for organizations to tackle food waste, 
+identifying a set of priority actions (Redlingshöfer et al., 2020), which 
+are ranked mostly from an environmental impact perspective, from the 
+most sound environmental option to the least one (Cristóbal et al., 
+2018). Nevertheless, the actions and strategies connected with the 
+layers in the upper part of the FWH, i.e., food waste prevention, are 
+underrepresented in the current literature (Redlingshöfer et al., 2020). 
+The gap in the understanding of the potential benefits of such solutions, 
+leads to a lack of guidance to choose the most effective technologies for 
+FLW prevention. 
+On the technological side, in the recent years the urging challenge of 
+food waste has represented a fertile ground for technological innova -
+tions. All in all, different technologies can support the valorization of food waste at different levels of the FWH (
+Vandermeersch et al., 
+2014a,b), thus tackling the issue while opening up new business op -
+portunities. 
+Notwithstanding the priority role assigned, the adoption of the in -
+novative technological solutions for food waste prevention
+, can bring 
+relevant challenges for the companies in the food supply chain. The key competences and technical expertise related to such infrastructures and 
+technologies (e.g., innovative food packaging or innovative process 
+technologies - Mourad, 2016), lie outside the agri-food supply chain, 
+therefore immediate and potential performance are uncertain and dif
 -
-proach. Our study proposes a taxonomy of possible technological so -
-lutions that clarifies the portfolio of technological options that are 
-available for the different stages of the agri-food supply chain, with 
-particular reference to the fruits and vegetables segment. The different 
-technological solutions are linked to the different objectives to reach 
-FLW reduction, then clarifying how different types of collaborations can 
-reinforce the reaching of the different objectives pursued by the tech -
-nological solutions. We have therefore enriched the discussion around the CE approach to tackle the challenge of FLW with some keys ele
+ficult to be fully understood by agri-food players. These solutions might 
+end up in becoming “weak” forms of prevention, if not properly sup -
+ported by a shift in the business model (
+Mourad, 2016). This uncertain 
+scenario does not clarify what are the extra efforts and costs that these 
+technologies might represent for some actors within the chain and 
+whether or not they would be compensated by extra benefits for one or 
+more players along the agri-food supply chain. 
+Hence, these technologies are just partially explored in the literature 
+and little is known about the implications connected to their adoption 
+by the players in the food supply chain. The present paper, through a 
+set of 34 semi-structured interviews explores i) the typologies of tech -
+nological solutions proposed by different technology providers for FLW 
+prevention; and ii) which factors stimulate or hinder their adoption 
+under different forms and the application within the agri-food supply 
+chain. 
+The paper develops as follows, Section 2 reports a synthetic over -
+view on the literature background. Section 3 present the research 
+questions and methodology, while Section 4
+, 5 and 6 are focused on the 
+presentation of the results and their discussion and conclusions re -
+spectively. 
+2. Background 
+2.1. The sustainability challenges of food loss and waste 
+Food loss and waste (FLW) is a relevant issue from the social, en -
+vironmental and economic standpoint. 
+As for the economic dimension, reducing FLW represents a saving 
+for all the actors in the supply chain (
+Chaboud and Daviron, 2017). 
+Notably, initiatives that tackle FLW at its roots are beneficial for food 
+producers that aim to sell more, but also to consumers who could have 
+access to available food which is more affordable (De Steur et al., 
+2016). Whether and to what extent managing surplus food to prevent 
+FLW can outweigh the cost connected to the extra operations needed to 
+handle this surplus food, is still subject to a debate in the literature 
+(Chaboud and Daviron, 2017). 
+Regarding the environmental dimension, a significant amount of 
+agricultural inputs such as fertilizers, energy, and water are used to 
+produce, then process, transport, distribute, store, and make food 
+available for human consumption. Consequently, FLW is also a waste of 
+land, water, energy and inputs (Gustavsson et al., 2011). Yet, all the actions that aim not only at managing surplus food but preventing its generation, can decrease the pressure that is exerted on natural re
 -
-ments related to: i) an overview of the state-of-the art technologies available to move up the FWH and to translate the concept of “pre
+sources (
+Timmermans et al., 2014; Chaboud and Daviron, 2017). 
+In addition to the important implications for the environment, 
+surplus food and food waste prevention can also have a considerable 
+impact on the society. 
+A reduction in the FLW generates indeed higher food security that 
+extends the benefits to households (Timmermans et al., 2014;  
+Chaboud and Daviron, 2017). When surplus food is redistributed thanks 
+to food aid organizations or food banks to people who normally struggle 
+to have access to nutritional food, food waste from a social point of 
+view is avoided (Garrone et al., 2014) and thus there is a direct impact 
+on the social dimension. Moreover, the increasing awareness around 
+the so-called “food paradox”, i.e., having a large amount of food waste 
+in a world which is still food insecure (FAO, 2018), represents a re -
+levant social driver for the implementation of FLW reduction strategies. 
+The food that is wasted every year could indeed feed the nearly one in 
+nine people all over the world who suffers from hunger, especially in 
+developing and under-developed countries (
+Godfray et al., 2010). 
+2.2. Circular economy and food waste management hierarchies 
+Circular Economy represents a compelling reference framework for 
+the management of food waste (Teigiserova et al., 2020). Put differently, 
+food waste valorization options, like reduction, reuse and recycling 
+support the aims of the circular economy paradigm (Geueke et al., 2018). 
+Food waste hierarchies, as waste hierarchies in general, represent a 
+powerful guidance for practitioners and policy makers to understand 
+possible practices to be adopted. As Table 1 exhibits, different priorities 
+of actions and different policies to follow for food waste management are embedded into different hierarchical frameworks that have been devel
 -
-vention” in hands-on applications that are currently on the market; ii) the potential role of such technologies in limiting the loss of sustainable 
-value embedded in food products; iii) how collaborations with tech
+oped after the Waste Framework Directive 2008/98/EC (
+European 
+Commission, 2008). In the Food Waste Hierarchy (FWH) framework 
+introduced by Papargyropoulou et al. (2014) for example, the strategies 
+of avoiding surplus food generation as well as the strategy of reusing 
+surplus food for human consumption are high priority strategies because 
+they allow to reduce the depletion of natural resources and to limit the 
+negative social and ethical implications of FLW. Garrone et al. (2014) is 
+aligned with the view that prevention of FLW through different redis -
+tribution and reuse options still targets human consumption, thus mini -
+mizing the waste from a social perspective. Garrone et al. (2016) iden-
+tifies different reuse options (e.g., remanufacturing and repacking, sales 
+with promotions and discounts, sales in secondary channels as ad-hoc 
+distributor for surplus food) as well as redistribution, both internal to the 
+employees of a company and external, through the collaboration with 
+food aid organizations. Rood et al. (2017) classify the different redis -
+tribution and reuse options, not implying reprocessing, as forms of human 
+food recovery
+. In a distinct layer in the ladder they instead consider 
+converting into human food, in those cases in which food products are transformed into new edible products, so they are not consumed in their 
+original forms. Interestingly, while most of the frameworks are aligned in 
+terms of available options in the lower parts of the waste hierarchy 
+(ranging from recycling of food products into not-edible alternatives, 
+food recovery for the generation of energy and then incineration and 
+disposal) some differences can be found moving up the waste hierarchy. 
+When referring to prevention policies Garrone et al. (2016) and  
+Vandermeersch et al. (2014a,b) refer to the prevention of food waste and loss, and not the reduction or avoidance of surplus food. This approach 
+focuses on avoiding the post harvest losses and thus considering the 
+possible generation of food waste from the moment in which food pro
 -
-nology providers and vertical supply chain collaborations can facilitate the effectiveness of the technologies to reach FLW objectives. 
-It must be said that, in our overview of the possible solutions, we 
-have excluded “redistribution” (i.e. distribution of edible food to people 
-in need) as an option, although it is a high priority practice especially 
-for the social impact that it generates. Technologies are available also 
-for supporting the challenging operations and logistics activities con
--
-nected with the execution of such strategy, but they are mostly in the 
-form of apps or web-platforms facilitating the effective communication 
-among actors involved in the redistribution cycle and they can hence be 
-considered less state-of-the art technologies. 
-Moreover, moving down the ladder, despite the positive impact 
-connected to the avoidance of the social impact of food waste, proces -
-sing technologies can be considered lower priority for the F. Ciccullo, et al.   Resources, Conservation & Recycling 164 (2021) 105114
-10
+ducts are ready to be harvested (
+Chaboud and Daviron, 2017). The Food 
+Recovery Hierarchy (United States Environmental Protection Agency - EPA, 2012) esplicitly considers the reduction of the volume of surplus 
+food generated as the strategy having highest priority. As a whole, extant 
+food waste hierarchies focus primarly on priorities of actions to manage 
+surplus food, considering harvesting losses as unavoidable, hence F. Ciccullo, et al.   Resources, Conservation & Recycling 164 (2021) 105114
+2

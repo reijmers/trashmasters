@@ -1,35 +1,32 @@
-and Conclusions 
-Countries considering adopting the circular economy approach and PAYT need to 
-determine whether the charge for MW services will b e based on volume-based or weight-based 
-of the waste collected. Both weight-based and volum e-based methods are very different in design 
-and equipment requirements. In a volume-based progr am, residents are charged for waste 
-collection based on the number of bags or cans they  use, indicating size of waste containers. On 
-the other hand, in a weight-based program, waste is  weighed at the curb where collection crews 
-measure the amount of waste residents set out for c ollection and they are billed for collection and 
-disposal accordingly. Although most countries use v olume-based systems which are significantly 
-less expensive to set up, operate and manage than w eight-based systems, to administer the MW 
-service as part of their transition to the circular  economy, Egypt neither adopts the circular 34.93 34.93 
-25.14 
-14 
--9.8 
--20.94 16.55 
-9.23 
--18.39 -25.71 -30 -20 -10 010 20 30 40 
-Weight-base-method Volume-base-method Case scenario A 
-Case scenario B: 
-average cost 
-Case scenario B: 
-average difference 
-Case scenario C: 
-average cost 
-Case scenario C: 
-average difference 
-34.93 34.93 70.72 
-62.13 59.58 54.81 92.7 
-77.64 
-67.1 
-56.43 
-020 40 60 80 100 
-Case scenario B Case scenario C Case scenario A Weight- base – Full cost Volume-base– Full cost 
-Recyclables value Enviro.& social value 
+highest circular economy benefits (food, pollu tion, and energy). In Egypt, the MW is not 
+separated or sorted at source before collection, bu t waste pickers remove recyclables at disposal 
+sites prior to collection processes by municipaliti es. The growing stream of MW in Egypt, either 
+solid or food wastes, requires a sustainable waste management strategy  (Egypt's Vision 2030 
+Website, 2016), in addition to raising people’s and  organizational awareness towards this problem 
+(Elmenofi et al., 2015). To adopt separated waste c ollection schemes and for raising public 
+awareness, implementation of the PAYT accounting ap proach is essential. There are three 
+technical pillars to implementing the PAYT approach : identifying the waste generator, measuring 
+the waste amount that needs treatment, and unit pri cing per emptying household and/or per kg or 
+tonne. Both councils and households would get direc t benefits of a cost-effective MW 
+management system. Therefore, this study contribute s to highlighting the best collection method 
+that leads to the lowest cost and maximum benefit f or all interested parties in MW management 
+systems in Egypt by considering direct and indirect  benefits to achieve sustainability. A second 
+benefit is to support the design and the applicatio n of the effective PAYT accounting approach for 
+pricing MW collection systems in Egypt by integrati ng economic, environmental and social 
+aspects which are still lacking in the literature a nd in real practice. The proposed PAYT model 
+aims to fill this gap by designing an integrated fr amework to support policy makers and waste 
+managers in the adoption of PAYT schemes. It can cr eate substantial economic, social & 
+environmental benefits for industry, energy & food security, especially if it is managed properly 
+with reasonable implementation of an integrated sus tainable weight-based or volume-based 
+PAYT costing approach.  Such an accounting approach  is still lacking in the literature and real 
+practice in Egypt. Therefore, it is expected that t he paper would contribute to the reevaluation of 
+the current policy measures and the modification of  the pricing policy design for municipalities. 
+The remainder of the paper is organized as follows:  Section 2 briefly highlights the 
+existing Egyptian municipal waste management and st rategic vision 2030 for adopting the 
+circular economy approach. Section 3 describes the methodology undertaken for an integrated 
+sustainable framework for the PAYT accounting model  for pricing MW collection systems, 
+Section 4 extends the comparative analysis of the r esults and discussion with a suggested PAYT 
+scenario implementation in Egypt (two suggested PAY T methods, i.e. weight-based pricing 
+model and volume-based pricing model, have been pro posed for implementation in Egypt). 
+Finally, Section 5 proceeds with conclusions of the  study. 
 Journal Pre-proof

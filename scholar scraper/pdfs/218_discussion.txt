@@ -1,1 +1,36 @@
-4.1. Maturity level of current waste management sys tem
+able Circular Economy Approach for Smart W aste Management System to 
+achieve sustainable development goals :  Case Study in Indonesia 
+ 
+Yun Arifatul Fatimah a Kannan Govindan b, c,1  Rochiyati Murniningsih a 
+ Agus Setiawan a 
+aUniversitas Muhammadiyah Magelang, Engineering Facu lty, Magelang, Indonesia  
+bChina Institute of FTZ Supply Chain, Shanghai Marit ime University, Shanghai, 201306, China 
+cCenter for Sustainable Supply Chain Engineering, De partment of Technology and Innovation, Danish 
+Institute for Advanced Study, University of Souther n Denmark, Campusvej 55, Odense M, Denmark 
+ 
+Abstract 
+Indonesia is facing a number of independently manag ed challenges related to the 
+collection, transportation, processing (composting,  recycling), and landfill dependence 
+on waste management. An intervention is needed to b ring stakeholders together to 
+solve these waste challenges. The objectives of this study are to investigate the  fundamental 
+issues and opportunities and to develop a sustainab le and smart country-wide waste 
+management system. The system should provide a mult i-dimensional approach, determine the 
+maturity level of the waste management system in a technical method, and pursue the goal of 
+designing a new strategy to minimise waste manageme nt problems. A comprehensive 
+systematic literature review, intensive focus group  discussions, and direct observation 
+in Indonesian cities were approaches used to develo p waste management business 
+processes and their system design. Waste business p rocesses consist of mixed-
+collecting, sorting, transporting, varied-treatment , and chained-disposal. The design of 
+the proposed waste management system presents circu lar economy processes that can 
+separate municipal waste, identify waste characteri stics, and determine sustainable 
+waste treatment technologies through the use of Int ernet of Thing (IoT) as the 
+integrator. This study contributes to the sustainable developme nt goals (SDG’s) such as Good 
+health, and wellbeing (SDG 3); Clean water and sani tation (SDG 6); Decent Work and 
+Economic Growth (SDG 8); Responsible Consumption an d Production (SDG 12) and Climate 
+Action (SDG 13). The study proposes a new design of smart and sustai nable waste 
+management which could achieve satisfactory economi c, social, and environmental 
+waste management performances.  
+Keywords:  Sustainability; Sustainable circular economy; Smart waste management;  
+                                                      
+1 Corresponding author. China Institute of FTZ Suppl y Chain, Shanghai Maritime University, Shanghai, 20 1306, China. 
+kgov@iti.sdu.dk

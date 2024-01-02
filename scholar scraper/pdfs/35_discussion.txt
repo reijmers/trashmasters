@@ -1,0 +1,94 @@
+uction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................. 0 0
+2. Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . ............................. 0 0
+2.1. Study area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..................................................... 0 0
+2.2. Data acquisition and analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .......................................... 0 0
+3. Results and discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................. 0 0
+3.1. MSWM practices in BW: a case study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................... 0 0
+3.2. Promoting economic instruments for waste management in Indonesia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .................... 0 0
+3.3. Policy implications of introducing economic instruments in Indonesia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .................... 0 0
+3.4. Applying CE paradigm to waste sector eexperiences of Sukunan village (Yogyakarta) . . . . . . . . . . . . . . . . . . . . . . . . . . . .................... 0 0
+4. Concluding remarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................. 0 0
+Declaration of competing interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .......................................... 0 0
+Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .................................................... 0 0
+Supplementary data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ............................. 0 0
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..................................................... 0 0
+1. Introduction
+As one of the world ’s emerging market economies, Indonesia
+has confronted MSW problems over the past years. With an area of
+1.9 million km2, currently Indonesia is home to about 274 million of
+inhabitants in 2020, accounting for 3.5% of the world ’s population.
+Presently about 200,000 Mt of MSW is generated nationwide daily.
+On average, about 384 large cities in Indonesia generate about
+2.2e2.7 kg of MSW per capita daily ( Brotosusilo and Handayani,
+2020 ). In Indonesia, the MSW mostly consists of organic waste,
+paper, and glass ( Sudibyo et al., 2017 ). The refuse is classi ﬁed either
+as residential or non-residential waste. Sixty percent of residential
+waste (by weight) consists of degradable organic materials, while
+their amount in non-residential waste varies depending on mois-
+ture content.
+With an annual population growth of 1.4%, it is anticipated that
+by the end of 2020, the amount of MSW generation in Indonesia
+would reach 1.5 times more than that of the last decade ( Gunawan
+et al., 2020 ). The increment in the magnitude and complexity of the
+MSW generated re ﬂects the challenges that need to be tackled at
+local and national levels ( Nzediegwu and Chang, 2020 ).
+In recent years, MSWM has become the responsibility of local
+governments and communities. However, waste management is
+often handled in a fragmented and uncoordinated manner. Hence,
+there is a growing need for both integrated approaches and in-
+vestment in the waste sector to address the uncontrolled genera-tion of MSW. Harnessing investment capacity and technical know-
+how of private sectors such as manufacturers and recyclers arerequired if the government is determined to tackle waste man-
+agement challenges by promoting a CE paradigm in the waste
+sector in the framework of resource recovery ( Luttenberger, 2020 ).
+The phrase of CE itself refers to ‘an economy in which resources are
+used for as long as possible, their maximum value is extracted
+whilst in use, and the materials are recovered at the end of each
+service ’s life cycle ( Millete et al., 2020 ).
+For most cities in Indonesia, waste management is undertaken
+as a public service with high expenses that include labour, equip-
+ment, and infrastructure cost. Their expenditures range between
+80% and 90% of the MSWM budget for collection costs alone
+(Melakessou et al., 2020 ). Therefore, most of the cities in devel-
+oping countries could not manage (collection and disposal of MSW)
+properly with the limited resources they have ( Mak et al., 2019 ).
+In Yogyakarta, the provincial government spent US$105,000 for
+the MSW to be collected and transported to local land ﬁlls
+(Rusqiyati, 2015 ). In Jakarta, over 35% of the government budget has
+been allocated for MSWM, of which almost 90% is used to cover
+waste collection, while the rest of the expenditure is allocated for
+transportation and waste disposal ( Kurniawan et al., 2013 ). How-
+ever, there is still 40% of the waste uncollected and only 50% of the
+city ’s urban population is served by the collection service
+(Ruohoma and Ivanova, 2019 ). As a result, the rest is collected by
+scavengers for recovery and/or recycle. Subsequently, they trade
+the sorted waste to wholesalers.
+While low budget allocations, less community participation,
+insufﬁcient waste management from its collection to disposal, and
+the availability of empty land that can be used as disposal sites areList of abbreviations
+BW Baden-Württemberg
+BTP Bandung Techno Park
+CBSWM community-based solid waste management
+CE circular economy
+DRS deposit refund system
+DSD duales system Deutschland (Dual system Germany)
+EPR extended product responsibility
+ESBW entsorgungsbettiebe der Stadt Baden-Württemberg
+(Waste disposal companies of the Baden-
+Württemberg state)
+GDP gross domestic product
+GRDP gross regional domestic product
+GHG greenhouse gasesGWP global warming potential
+ISWM integrated solid waste management
+LCA life cycle analysis
+MSWM municipal solid waste management
+MSW municipal solid waste
+MT metric tonnes
+NGO non-governmental organizations
+PAYT pay-as-you-throw
+SDGs sustainable development goals
+SMEs small and medium enterprises
+UNEP United Nations environment program
+USD United States dollar
+WTE waste-to-energy
+5R reduce, reuse, recycle, recovery, and repairT.A. Kurniawan, R. Avtar, D. Singh et al. Journal of Cleaner Production xxx (xxxx) xxx
+2

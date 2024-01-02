@@ -1,0 +1,123 @@
+rgy consumption, Gross Domestic Product (GDP), and CO 2
+emissions has been extensively performed10(Lozano and Gutierrez,
+2008 ;Magazzino, 2016 ;Magazzino and Cerulli, 2019 ;Sarkodie, 2021 ).
+Being of central importance in growth theory and providing far-
+reaching policy implications, linking waste-GDP and GDP-
+environmental pollution data in a unique estimation model can repre-
+sent a fruitful research direction. If it is con ﬁrmed that GHG emissions
+from the waste sector are both driven by per capita MSW and income,
+then focusing on these key factors would help policymakers mitigating
+global warming. Reciprocally, if income is identi ﬁed as the main deter-
+minant of waste generation, then adequate measures can be imple-
+mented. Accordingly, this is where our paper ﬁnds the ﬁrst of its ﬁve
+contributions.
+Looking with closer scrutiny, most published works have focused on
+large groups of advanced economies (EU, OECD) including often hetero-
+geneous panel members in a single estimation. Due to the well-known
+waste data constraint,11it is not clear that the results obtained based
+on wide income groups can be generalized for each member. Besides,
+OECD and EU datasets may differ depending on the national waste clas-
+siﬁcations ( Johnstone and Labonne, 2004 ). Yet, the knowledge on MSW
+with readily available waste statistics allow for single-country
+analysis.12While never studied in previous research, analysing the
+waste sector in Denmark stands as the second contribution of the pres-
+ent work.
+Third, studies on the waste sector remain sporadic and limited de-
+spite its signi ﬁcant global warming contributor. The Sustainable devel-
+opment goal 12 accentuates the importance of sustainable production
+and consumption ( United Nations, 2015 ), hence, a part of the debate
+on Sustainable Development (SD) should focus on waste management.
+Accordingly, this paper follows Domingos et al. (2017) and contributes
+to the literature in analysing the waste sector.
+A fourth novelty aspect is methodological. This research relies on a
+Machine Learning (ML) methodology through the Arti ﬁcial Neural Net-
+works (ANNs). Our empirical approach differs from the great majority
+of existing analyses on this topic. Nonetheless, the few studies that
+used ML models on waste data failed to include additional variables
+within a multivariate predictive causality framework ( Kannangara
+et al., 2018 ;Meza et al., 2019 ;Pan et al., 2019 ). Beyond a simple fore-
+casting purpose, the present study relies on an innovative algorithm to
+perform a strong causal analysis among multiple variables.
+Finally, urbanization is included as an additional explanatory factor
+to land and air degradation. This last original aspect is based on the
+household utility maximization proposed by Kinnaman and Fullerton
+(1997) . The authors identi ﬁed a vector of demographic characteristics
+towards which the use of household MSW is dependent, and notably
+the fact to live in urban areas or not. Then, Johnstone and Labonne
+(2004) adapted this model with macroeconomic data to assess the de-
+terminants of MSW generation for 30 OECD countries. To do so, they
+rely on the proportion of the urban population. A more urbanized pop-
+ulation is said to exert growing pressure on urban resources and envi-
+ronment ( Kasman and Duman, 2015 ;Magazzino and Cerulli, 2019 ).
+Undoubtedly, this factor is thought to be a non-negligible driver of
+MSW generation and GHG emissions. Hence, there is a point in incorpo-
+rating it within our framework.Overall, this paper aims at performing an in-depth assessment on
+Denmark: a case study characterized by a promising (but fragile) path
+to MSW sustainability. With ﬁve distinct novelty aspects, this research
+seeks to contribute to the literature. We exploit the most recent and
+available data period (1994 –2018) and investigate the causal relation-
+ship between per capita GDP, urbanization, MSW generation per capita,
+and GHG emissions from the waste sector in Denmark. FollowingMagazzino et al. (2020a) , this study applies two independent empirical
+strategies: a time-series analysis (the Breitung-Candelon Spectral
+Granger-causality test) and a Machine Learning approach (Arti ﬁcial
+Neural Networks experiments), useful for policy formulation.
+Besides this introduction, the remainder of the paper is organized as
+follows. Section 2 presents the literature. Section 3 introduces and de-
+scribes the data and methodology employed. Section 4 shows the em-
+pirical results and discussion of the results. Finally, Section 5 provides
+concluding remarks and careful policy recommendations.
+2. Literature review
+The literature on the relationship between economic activity and en-
+vironmental degradation can be divided into two main components.
+Theﬁrst focuses on the economic growth-environmental pollution
+nexus (mainly carbon dioxide (CO
+2) emissions). The second concen-
+trates on the link between economic growth and land degradation
+(i.e., waste generation). In the third part, this review highlights studies
+on green supply processes and a speci ﬁc focus is made on waste treat-
+ment within circular models. Being nonetheless exhaustive, this survey
+emphasizes the suitability of assessing the Danish case and shed light on
+the key gaps in the literature.
+2.1. Economic growth-environmental pollution nexus
+As mentioned previously, the relationship between economic activ-
+ity and environmental pollution has been abundantly studied using the
+EKC framework. The origins of this assessment can be traced back to the
+seminal study from Grossman and Krueger (1991) . When con ﬁrmed,
+this hypothesis claims that environmental pollution would ﬁrst increase
+with income, and then decreases as GDP grows and technological prog-
+ress emerges ( Rothman and De Bruyn, 1998 ;Lee et al., 2016 ). From a
+policy standpoint, it is of high interest to know what relation character-
+izes the GDP-CO 2emissions nexus for a country ( Magazzino and Cerulli,
+2019 ). Despite abundant empirical examinations, studies differ from
+each other in terms of methodologies, time periods, and samples
+(Acaravci and Ozturk, 2010 ;Bowden and Payne, 2009 ;Bilgili et al.,
+2016 ). This review focuses on our country of interest: Denmark. Since
+the economic growth-waste generation nexus is the explicit aim ofthis paper, we select the only relevant information related to previous
+GDP-environmental pollution investigations. Nonetheless, an extensive
+overview can be found in Bilgili et al. (2016) .
+13
+The EKC is validated in Acaravci and Ozturk (2010) for 19 European
+(EU) countries (including Denmark), and using Autoregressive Distrib-
+uted Lag (ARDL) bounds cointegration analysis ( Pesaran and Shin,
+1998 ;Pesaran et al., 2001 ) and Error Correction Model (ECM). Subse-
+quently, the EKC is supported in Ben Jebli et al. (2013) for 25 OECD (Or-
+ganization for Economic Cooperation and Development) countries
+(including Denmark). While results provided little evidence supporting
+the existence of the EKC hypothesis for Artic countries ( Baek, 2015 ),
+Bilgili et al. (2016) conﬁrmed the EKC hypothesis for 17 OECD countries
+(including Denmark), through Fully Modi ﬁed Ordinary Least Squares
+(FMOLS) and Dynamic Ordinary Least Squares (DOLS) estimations.
+Overall, despite not explicitly providing support for the EKC hypothesis,
+Saidi and Hammami (2015) showed that CO 2emissions have a strong10Outside the waste framework, the empirical relationship between GDP, CO2 emissions
+and various sources of energy has been extensively tested. See Pao and Tsai (2011) ;Tiwari
+(2011) ,Farhani and Ben Rejeb (2012) ;Magazzino (2014) ;Kasman and Duman (2015) ;
+Munir et al. (2020) for the relevant literature on this topic, which is not the explicit aim
+of this paper.
+11The literature lacks single-country case studies mainly because of the data constraint.
+Waste classi ﬁcations may vary across countries and care must be taken when working
+with data reported before the 1990s. For an interesting discussion on the data quality issuerelated to the waste sector, see Mazzanti et al. (2006) .
+12Beforehand, Mazzanti (2008) used the information available at that time and investi-
+gated the waste-GDP nexus for 15 EU countries. Due to a time-limited dataset(1997 –2001), the authors stated that his research would only provide “preliminary evi-
+dence ”. Hence, the current available statistics allow us to make a step forward here.13Broad critical surveys are also presented in Dasgupta et al. (2002) ,Dinda (2004) ,a n d
+Stern (2004) .C. Magazzino, M. Mele, N. Schneider et al. Science of the Total Environment 755 (2021) 142510
+3

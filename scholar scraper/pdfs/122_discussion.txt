@@ -1,27 +1,33 @@
-Paper. 
-Updating the National Waste Policy: Less waste, more resources. Online: 
-http://www.environment.gov.au/protection/national-waste-policy/
-consultation-on-updating-national-waste-policy .
-Dewan, T., & Spirling, A. (2011). Strategic opposition and government cohesion 
-in Westminster democracies. American Political Science Review , 337–358.
-Dijkema, G. P. J., Reuter, M. A., & Verhoef, E. V. (2000). A new paradigm for 
-waste management. Waste Management, 20 (8), 633–638.
-Durose, C., & Richardson, L. (2015). Designing public policy for co-production: 
-Theory, practice and change . Bristol, England: Policy Press.
-EEA. (2019). Recycling municipal waste. Retrieved from https://www.eea.
-europa.eu/airs/2018/resource-  efficiency-  and-  low-  carbon-  economy/
-recycling-  of- municipal-  waste
-EPA (Environmental Protection Agency). (2019). Basic information about landfill 
-gas. Retrieved from https://www.epa.gov/lmop/basic-  information-  about-   
-landfill-  gas
-European Commission. (2018). COMMISSION STAFF WORKING 
-DOCUMENT Measuring progress towards circular economy in the European 
-Union—Key indicators for a monitoring framework Accompanying the docu -
-ment COMMUNICATION FROM THE COMMISSION TO THE 
-EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPE (No. SWD 
-(2018) 17). Retrieved from https://eur-  lex.europa.eu/legal-  content/EN/
-TXT/PDF/?uri=CELEX:52018SC0017&from=EN
-European Parliament. (2018). Circular economy: More recycling of household 
-waste, less landfilling. Retrieved from https://www.europarl.europa.eu/news/
-en/press-  room/20180411IPR01518/circular-  economy-  more-  recycling-  of-  
-household-  waste-  less- landfilling S. M. JONES
+nability, and, as a result, so does the modern economic system 
+(Korhonen et al. 2018 ). The twin issues of reliance on finite resources and 
+the environmental damage caused by waste mean that discussions on the 
+future of the model have been given potency in contemporary debates on 
+climate change mitigation and sustainable development. The circular 
+model is discussed as a more sustainable cyclical flow model which reduces 
+negative environmental impact by reducing reliance on virgin resources 
+and recycling existing resources from waste. Academically, the concept 
+emerges from industrial ecology, industrial symbiosis, product-service sys -
+tems, remanufacturing, corporate responsibility, sharing economy and 
+zero waste (Ranta et al. 2018 ). The circular approach places emphasis on 
+product, component and material reuse, remanufacturing, refurbishment, 
+repair, renewable energy utilisation throughout the product value chain, 
+and cradle-to-cradle life cycle. Andersen ( 2007 ) also presents a simple 
+model of a circular model (Fig.  3.2).
+In this model, the components of (r) for recycling and (W) for waste 
+are added to close the loop so the economy becomes circular. Andersen 
+(2007 , 134) points out that not all waste can be recycled, ‘partly due to 
+missed opportunities and partly due to some basic physical laws’. How 
+such waste can be managed remains a challenging issue involving the 
+potentially environmentally harmful options of landfill and incineration.RP CU
+KFig. 3.1  The 
+conventional open-  
+ended economy 
+(Andersen 2007 )
+R
+rP
+W
+Environment
+as waste sinkCUFig. 3.2  The simplified 
+closed-loop cir cular 
+economy 
+(Andersen 2007 )3 THE PROMISE OF THE CIRCULAR

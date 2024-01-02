@@ -1,34 +1,72 @@
-: steering solutions 
-Following our theoretical model, the research results confirm that 
-municipalities identify the circular economy mostly as waste manage -
-ment and seek to contribute as much as defined by the legal framework. 
-Hence, knowledge about the circular economy is uncertain (Voβ et al., 
-2007 ), and this hinders the implementation of the circular economy on a 
-wider scale. Historical functions of municipalities, that is, waste col-
-lecting and waste recycling, limit implementation of circular solutions 
-(Termeer and Metze, 2019 ). 
-In line with Johansson and Henriksson ’s (2020) study about circu-
-larity shifts in Swedish environmental policy, an identified problem is 
-also the lock-in of legislation in the linear economy. For example, ac-
-cording to the legal acts, RATC cannot deliver waste directly to Table 3 
-Summary of results.  
-Elements of theoretical frame Axial codes Sub-codes Definition 
-Challenges for implementing 
-the circular economy Gaps (uncertain knowledge, 
-ambivalence) Municipal waste 
-management Problems related to the waste management, such as low quality of sorting, lack of 
-motivation to sort, bulky waste, etc. 
-Textile waste Problems related to the textile waste, such as lack of collecting infrastructure, lack of 
-information, etc. 
-Local business Problems related to the local business (e.g. insufficient business environmental 
-responsibility, waste generation management accounting system [GPAIS] problems, 
-problems of waste from illegal businesses, etc.). 
-Key stakeholders (distributed 
-power, uncertain knowledge) Human resources Problems related to the distribution of human resources at local governance. 
-Networking Collaboration between municipalities, RATC, and stakeholders (such as residents, 
-academia, waste management companies, etc.). 
-Steering solutions Drivers Education and 
-publicity Citizens ’ education (training, courses, etc.) and environmental publicity initiatives. 
-Provision of 
-infrastructure Infrastructure which helps ensure the implementation of the circular economy, such as 
-deposit system, battery collection system, purchasing of equipment.  L. Dagilien le et al.
+f Cleaner Production 310 (2021) 127340
+Available online 13 May 2021
+0959-6526/© 2021 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/ ).Local governments ’ perspective on implementing the circular economy: A 
+framework for future solutions☆ 
+Lina Dagilien le*, Viktorija Varani ßutle, Jurgita Bruneckien le 
+School of Economics and Business, Kaunas University of Technology, Gedimino St. 50, LT-44239, Kaunas, Lithuania   
+ARTICLE INFO  
+Handling editor: Zhifu Mi  
+Keywords: 
+Circular economy 
+Local governments 
+Waste management 
+Solutions 
+Lithuania ABSTRACT  
+With half of the global population living in urban areas, prevailing unsustainable production and consumption 
+patterns, and ecological crises, the circular economy topic gains momentum. However, the implementation of the 
+circular economy from a local governance point of view has been explored in a rather fragmented manner, 
+although public policies remain crucial in driving countries towards more circular systems. This paper aims to 
+explore whether and how local governments contribute to circular economy implementation by applying Voβ 
+et al.‘s (2007) steering framework for sustainable development. By using desk research analysis and focus group 
+and individual interview discussions with representatives of municipalities and regional waste management 
+centres, we identified challenges for implementing the circular economy with a lack of local governments ’ 
+contribution, namely municipal waste management, textile waste, distribution of human resources, networking, 
+and local business. Finally, we created a framework for circular solutions by mapping national and foreign 
+practices through five perspectives, namely learning, sharing vision, reflexive governance, regulation, and 
+negotiation in networks.   
+1.Introduction 
+In the context of prevailing unsustainable production and con-
+sumption models and ecological crises, the circular economy topic gains 
+momentum. A circular economy is often presented as a practical strategy 
+for implementing sustainable development (Geissdoerfer et al., 2017 ; 
+Van den Bergh, 2020 ). The circular economy puts environmental sus-
+tainability forward and acknowledges the need for favourable economic 
+settings (Homrich et al., 2018 ), but social sustainability is usually absent 
+and may even reinforce social inequality (Johansson and Henriksson, 
+2020 ). The circular economy may be the expression towards weak sus-
+tainability (Kirchherr et al., 2017 ; Johansson and Henriksson, 2020 ) as it 
+suggests a system where recycling and reuse are assumed as substitutes 
+for raw materials. The urgency behind a circular transformation is based 
+on a looming resource and ecological crisis (Hobson and Lynch, 2016 ) as 
+well as globalisation and increase of resources consumption (Bonciu, 
+2014 ). 
+In practice, the circular economy is implemented in diverse contexts, 
+from resource efficiency (Blomsa and Brennan, 2017 ), product design (Lacy et al., 2020 ; Van den Bergh, 2020 ) and product integrity (Stahel, 
+2010 ), appropriate waste management and recycling (Ghisellini et al., 
+2016 ; Murray et al., 2017 ; Knickmeyer, 2020 ), companies ’ practices of 
+reuse and repair caf˘es (Ghisellini and Ulgiati, 2020 ), post-consumption 
+waste transformation into valuable materials (Braungart and McDo -
+nough, 2002 ), and urban circular initiatives (Russell et al., 2020 ). 
+Interestingly, the implementation of the circular economy from a 
+local governance point of view has been explored in a rather fragmented 
+manner, although public policies remain crucial in driving the EU to-
+wards a full circular implementation (Cainelli et al., 2020 ). Historically, 
+the EU waste legislation is very detailed and mature, since launching the 
+first EU Packaging Directive in 1994, the End of Life Vehicles Directive 
+in the late 1990s, and the 2008 Waste Framework Directive. Govern -
+ments and policy makers mainly of developed countries have attempted 
+to direct the growing material waste streams back into industry through 
+recycling programs in order to close the material loop (Lieder and 
+Rashid, 2016 ). Obviously, it has a direct impact on towns and cities by 
+laying down waste management priorities and specific targets (e.g. 
+management of municipal waste, e-waste). More recently, the circular 
+☆This work was supported by the Research Council of Lithuania, contract no. S-MIP-19-38 under the project title “Circular economy modelling and empowerment 
+perspective in small open economy ” (CEMESOE). 
+*Corresponding author. 
+E-mail addresses: lina.dagiliene@ktu.lt (L. Dagilien le), viktorija.varaniute@ktu.lt (V. Varani ßutle), jurgita.bruneckiene@ktu.lt (J. Bruneckien le).  
+Contents lists available at ScienceDirect 
+Journal of Cleaner Production 
+u{�~zkw! s{yo| kro>! ÐÐÐ1ow �o�to~1m{y2w {mk�o2umwo|~{!
+https://doi.org/10.1016/j.jclepro.2021.127340 
+Received 24 October 2020; Received in revised form 16 March 2021; Accepted 28 April 2021

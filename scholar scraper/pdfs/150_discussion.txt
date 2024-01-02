@@ -1,49 +1,121 @@
-: the role of cities and local governments in the
-transformation towards a circular economy
-Recent research has indicated that cities and local governments
-can play an important role in the creation of closed-loop production
-and consumption systems ( Bolger and Doyon, 2019 ;Petit-Boix and
-Leipold, 2018 ). In political science, the traditional state-centred
-research, which typically sees the national state as a single sover-
-eign authority, has been contested by researchers arguing that a
-broader perspective on governance is needed to fully understand
-the complex functioning of the public sector and to understand the
-interaction between public authorities and stakeholders in the
-private sector ( Ehnert et al., 2018 ). This movement has led to a
-change in perspective from “government ”to“governance ”and as
-part of this process highlighted the role of cities and local govern-
-ments. The exact role of local governments may differ from country
-to country due to the varying relationships between central gov-
-ernments and local governments resulting in different degrees of
-ﬁnancial interdependence, different administrative structures, etc
-(Bulkeley and Kern, 2006 ;
-Ehnert et al., 2018 ). Despite these na-
-tional differences, there is a clear trend that cities and local gov-
-ernments are increasingly de ﬁning policies, taking action, creating
-demonstration projects and collaborating in partnerships with
-private companies, citizens and knowledge institutions to facilitate
-and support the transition towards a circular economy ( Bernhardt
-et al., 2018 ;Petit-Boix and Leipold, 2018 ). The so-called gover-
-nance perspective not only pays increasing attention to the role of
-local governments but also emphasises the changing understand-
-ing of the role of local governments, from traditional command-
-and-control regulation to non-hierarchical modes of coordination
-and decision-making ( Zvolska et al., 2019 ).Table 3
-Results from the ﬁrst demolition: expected resources versus achieved.
-Part Material Expected, resource mapping Demolished, achieved amounts
-Outside parts
-Rafter Rafter (wood) 31 pieces 23 piecesCellar, outer wall Nature stone, mortar 63 m
-30m3
-Facade wall Red bricks 63 m358 m3
-Outer stairs Granite 7 pieces 7 piecesInside parts
-Beams Painted wood beams 14 pieces 14 pieces
-Partition Claystone 125 m
-37.6 m3
-Mirrors on walls, painted wood 12 lbm 9 lbmGerichter 2 pieces 2 pieces
-Floors Wooden ﬂoors 110 m
-220 m2
-Tiles 15 m25m2
-Doors, inside Doors and frames 16 pieces 16 pieces
-Other Woodburning stove 1 piece 1 piece
-Source: Bornholm MunicipalityT.B. Christensen Journal of Cleaner Production 305 (2021) 127058
-9
+ion between the levels of government, a lack of horizontal
+coordination between cities and a lack of public sector coordination
+and support for private CE initiatives.
+The current CE literature on cities and municipalities can be
+divided into two primary lines of research. The ﬁrst line of literature
+focuses on developing indicator systems to monitor and evaluate
+the CE at a city level ( Avdiushchenko and Zajaç, 2019 ). The second
+line of literature aims to compare and identify the similarities and
+differences between projects, sectors and initiatives that are the
+targets of cities in CE-related activities ( Bolger and Doyon, 2019 ;
+Gravagnuolo et al., 2019 ;Obersteg et al., 2019 ). However, less
+attention is given in the literature to exploring how cities and
+municipalities collaborate with stakeholders to accelerate the
+development of a CE and further research on municipal and city-
+level governance is required to accelerate the transformation to a
+circular economy. Consequently, this article aims to contribute to
+closing this knowledge gap.
+Cities and local governments can play an important role as
+change agents to create sustainable cities ( Bulkeley and Betsill,
+2005 ).Bolger and Doyon (2019) conducted a comparative study
+of the cities of Malm €o and Melbourne to analyse how municipal
+planning could support the transition to a CE and found that stra-
+tegic urban planning could function as a vehicle for the trans-
+formation of CE objectives into speci ﬁc actions. In attempting to
+understand how the role of a strategic planner and change agent
+unfolds, scholars have moved from focussing on hierarchical,
+topedown-oriented command-and-control regulation, often
+labelled “government ”, to a perspective focussing on non-
+hierarchical modes of coordination and decision-making, termed
+“governance ”(Bulkeley and Kern, 2006 ;Corfee-Morlot et al., 2009 ;
+Zvolska et al., 2019 ).Bulkeley and Kern (2006) studied the role of
+municipalities in climate change mitigation policies and developed
+a typology for local governments, whereby actions could be divided
+into four main modes of governance as described below. This ty-
+pology based on the four roles can be applied to other areas of
+municipal planning as well, although the speci ﬁc character of the
+four modes of governance may differ. In a study of the sharing
+economies in four Swedish cities, Palm et al. (2019) extended the
+typology by adding “governing by partnership ”; however, this
+could also be characterised as a sub-form of “governing by
+enabling ”.Cavicchi et al. (2017) used the same framework to
+analyse sustainability and bioenergy development in Emilia
+Romagna, Italy. Based on Bulkeley and Kern (2006) , this paper
+applies the following typology for the modes of governance:
+1)Self-governance ,d eﬁned as the capacity of a municipality to
+govern its own assets and activities. This mode of governance is
+often described as governing the municipality as a company,
+focussing on activities that take place within the legal bound-
+aries of the municipal organisation.
+2)Governing by provision ,d eﬁned as governance through the
+provision of services and resources. This mode of governance
+often involves governance through municipality-owned
+agencies and companies in, for example, wastewater, utilities,
+heating companies, transport companies and waste companies.
+3)Governing by authority ,d eﬁned as governance using authority,
+such as regulation. This mode of governance involves govern-
+ing through rules and enforcement, including direct and eco-
+nomic regulation (rules, taxes, tariffs, etc.), but also through
+planning activities that are legally binding on companies and
+citizens.
+4)Governing through enabling, deﬁned as governance through
+facilitating, coordination, collaboration and encouraging. This
+mode of governance can take many diverse forms, spanning
+from formal partnerships to informal community engagement.The distribution of authority between the levels of governance
+varies from country to country, and the potential for municipalities
+to engage in, for example, legally binding planning activities or to
+govern by authority may be quite different. Scandinavian countries
+have a tradition of a deep distribution of power to local
+governments.
+The purpose of the present paper is to explore how cities and
+municipalities can combine multiple modes of governance to
+support and facilitate a local level transition from a linear economy
+towards a circular economy, in which physical ﬂows are looped
+back into the production of new products and services. The analysis
+in this paper is based on two in-depth case studies of Danish mu-
+nicipalities working in collaboration with local stakeholders to
+close the material loops of two targeted waste streams. The ﬁrst
+case study explores the recycling of textile waste, while the second
+case study explores a circular economy in the construction and
+demolition ﬁeld. The case studies are discussed in detail, followed
+by a discussion about how municipalities can support and facilitate
+the transition to a circular economy using different modes of
+governance.
+2.3. Local governments in Denmark
+A report from the Nordic Ministers Council ( Christiansen et al.,
+2019 ) focussing on circular economies in municipalities in the
+Nordic countries identi ﬁed a broad variety of projects and activities
+targeting the circular economy, stretching from small-scale projects
+with a few partners to large-scale inter-municipal projects.
+Like most Scandinavian countries, the political system in
+Denmark distributes relatively large autonomy to local govern-
+ments (municipalities) compared to the political systems in many
+other countries. Denmark is divided into 5 regions and 98 munic-
+ipalities. The regions ’main obligation is to manage healthcare
+(hospitals and psychiatry services), whereas the municipalities
+have a broad spectrum of responsibilities. This also implies that the
+central government and the municipalities are the most important
+government levels for promoting circular economy activities. In
+Denmark, the municipalities are the primary level of governmentinvolved in waste management, with the overall responsibility for
+all household waste. The municipalities must adopt waste plans
+that cover four years and point 10 years into the future. Addition-
+ally, Danish municipalities usually hold joint ownership of waste
+management companies, which operate the recycling stations in
+Denmark as well as the 19 Danish combined heat and power waste
+incineration plants. This ownership relation provides an often-used
+opportunity for governing by provision.
+3. Methods
+This article presents the results from a multi-stakeholder, co-
+innovation project called “Partnership for Circular Municipalities ”
+that was undertaken in the Capital Region of Denmark. The purpose
+of the partnership was to support, demonstrate and develop therole of local governments (municipalities) in promoting the tran-
+sition to a circular economy through partnerships between mu-
+nicipalities, waste companies and knowledge institutions.
+The project was ﬁnanced by Regional Council Development
+Funds. The consortium comprised ﬁve municipalities (Bornholm,
+Copenhagen, Albertslund, Rudersdal and Hørsholm), three waste
+companies (BOFA, Vestforbrænding and Norfors), and three
+knowledge institutions (Roskilde University, the think tank CON-CITO and Gate21).
+Four demonstration projects were carried out as part of the
+project:T.B. Christensen Journal of Cleaner Production 305 (2021) 127058
+3

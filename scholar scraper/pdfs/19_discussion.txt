@@ -1,0 +1,82 @@
+s and discussion
+The results are ﬁrst presented for the functional unit of 1 t of house-
+hold FW treated, starting with the environmental impacts and followed
+by the life cycle costs. The environmental and economic implications of
+managing household FW at the UK level are discussed in Section 3.3 .
+3.1. Life cycle environmental impacts
+The environmental impacts of the four waste management routes
+for the treatment of 1 t of food waste are presented in Fig. 4 and
+Table S7 in the SI. The results refer to the average, minimum and maxi-
+mum inventory values in Tables 1, 3, 5 and 7 . The minimum and maxi-
+mum values have been used in the uncertainty analysis to estimate the
+90th and 10th percentile values of the impacts, shown as error bars in
+Fig. 4 .
+As can be inferred from Fig. 4 , in the average case, anaerobic diges-
+tion has the lowest impacts for 13 out of 19 categories, including global
+warming potential. Incineration has the best values for marine eutro-
+phication and agricultural land occupation, and land ﬁll for terrestrial
+acidiﬁcation, particulate matter formation and natural land transforma-
+tion. In-vessel composting is overall the worst option, with 12 impacts
+being higher than for any other method. However, its urban landoccupation is the lowest among the alternatives considered. Land ﬁlling
+leads to the highest global warming potential, alongside human toxicity,
+marine eutrophication and urban land occupation. Incineration is the
+least preferred method for metal depletion, freshwater eutrophication
+and particulate matter formation. These results are discussed in more
+detail in the following sections.
+3.1.1. Primary energy demand (PED)
+For the average case, AD has a net-negative PED of −1.93 GJ/t FW.
+This is primarily attributable to the grid electricity displaced but also
+to the avoided production of mineral fertilisers. Incineration with en-
+ergy also has a net-negative PED ( −0.9 GJ/t FW) for the average case,
+but this is highly dependent on the ef ﬁciency of energy recovery and
+parasitic use. For example, in the 90th percentile case, the electricity
+from FW cannot cover the parasitic load and the system becomes a
+net user of energy (0.07 GJ/t FW). The modest recovery of energy
+from the land ﬁll gas is not suf ﬁcient to exceed the energy demand of
+the land ﬁll process and, in the average case, it is a net consumer with
+a PED of 0.14 GJ/t FW. In the 10th percentile case, where land ﬁll gas cap-
+ture rate approaches the upper range of 85%, the process becomes a net
+saver of PED at −0.15 GJ/t FW. IVC has the highest PED, with 1.31 GJ/t
+FW in the average case and ranging from 0.82 to 1.99 GJ/t FW. This is
+due to the energy-intensive air handling system required for theTable 5
+Inventory data for the treatment of household food waste via incineration with energy recovery.
+Parameter Unit Average Min. Max. Reference
+Gross electricity produced kWh/t FW 255 172 338 Environment Agency (2016)
+Electricity consumed on site kWh/t FW 81 48 179 Environment Agency (2016)
+Natural gas (auxiliary fuel) kWh/t FW 11.7 Ecoinvent (2008)
+DeNox process consumables
+Ammonia kg/t FW 0.4 ~II~
+Chromium oxide g/t FW 0.25 ~II~
+Scrubber consumables
+Sodium hydroxide kg/t FW 0.5 ~II~Hydrochloric acid g/t FW 0.59 ~II~
+Wastewater treatment consumables
+Quicklime (CaO) g/t FW 4.2 ~II~Iron (III) chloride g/t FW 0.33 ~II~
+Bottom ash land ﬁlled kg/t FW 6.2 ~II~
+Residual waste land ﬁlled ( ﬂy ash and dewatered sludge) kg/t FW 2.7 ~II~
+Emissions to air
+a
+Ammonia g/t FW 6.8 Ecoinvent (2008)
+Carbon monoxide kg/t FW 0.22 ~II~Methane g/t FW 6.4 ~II~Nitrogen oxides kg/t FW 0.27 ~II~Nitrous oxides kg/t FW 0.036 ~II~
+Sulphur dioxide g/t FW 5.8 ~II~
+Particulates, PM
+10 kg/t FW 0.063 ~II~
+Heavy metals to air mg/t FW 0.44 ~II~
+Emissions to watera
+Nitrate kg/t FW 0.42 Ecoinvent (2008)
+Sulphate kg/t FW 4.1 ~II~Phosphate kg/t FW 0.027 ~II~
+Heavy metals to water mg/t FW 4.8 ~II~
+aDirect emissions from the combustion of food waste.
+Table 6
+Life cycle costs of the treatment of food waste via incineration with energy recovery.
+Incineration costs Unit Amount Reference
+Capital (overnight) costsa£ m 213 Ryan (2013) ;Amec Foster Wheeler (2015) ;Green Investment Group (2016)
+Operating costs
+Maintenance cost £/t FW 6 Amec Foster Wheeler (2015)
+Consumables £/t FW 5 Amec Foster Wheeler (2015)
+Auxiliary fuel (natural gas) £/kWh th 0.039 Eurostat (2018)
+Disposal of ashes £/t FW 14 Amec Foster Wheeler (2015)
+Disposal costs
+Gate fees £/t FW 83 WRAP (2017a)
+Revenue
+Electricity export price £/kWh e 0.05 Ofgem (2018)
+aEqual to £28 per tonne FW treated, based on the treatment of 300,000 t of waste per year over a 25 year lifespan.8 P.C. Slorach et al. / Science of the Total Environment 693 (2019) 133516

@@ -1,0 +1,26 @@
+ion
+Outbreak of the terribly uncontrolled menacing pandemic COVID-19 caused due to the Severe
+Acute Respiratory Syndrome Coronavirus version 2 (SARS-CoV-2), has affected 220 coun-
+tries and territories globally, causing 169,648,062 confirmed cases of infection and 3,525,426confirmed deaths, as of 28th May 2021 [ 1,2]. In the beginning months of 2020, a state of
+emergency was announced worldwide and imposed forthwith by World Health Organisation(WHO). As the primary measure of defence in an absolutely cureless situation, WHO hasurged public health authorities in the respective affected countries to contain the spread of thevirus within social spheres as small as possible to disrupt the chain of transmission of theoutbreak. The virus transmits through micro/macro droplets produced during sneezing or
+coughing by an infected human [ 3]. Personal protective equipment (PPE) such as masks,
+gloves, PPE wearable kits, face shields, and personal hygiene products like alcohol-basedsanitizers and surface sterilizers are the primary protections and commodities that werepromptly put to compulsory use by the non-homebound people to minimize the risk ofinfection. This led to a sudden and enormous upsurge in the use of PPEs, majorly in themedical and human transport sectors. Fast forward to May 2021, some vaccines have surfacedsuch as BNT162b2 by Pfizer-BioNTech, Moderna by AstraZeneca, and COVISHIELD bySerum Institute of India [ 4–6]. Mass vaccination is slowly taking pace and amidst this, the
+world is experiencing the tsunami of the second wave, with countries like India being highly
+affected [ 7]. These breakthroughs in vaccine development are commendable but recent
+concerns have emerged with the efficacy related to mutated variations of the virus [ 8].
+Despite all these, the continual use and demand for the PPE are increasing exponentially.
+As a result of their majorly “single-use ”nature, the used and disposed PPEs are adding up to
+the ever-growing piles of complex anthropogenic solid waste. The overall composition of thesolid waste stream has changed strikingly during this pandemic situation. Fear and anxietyhave driven unnecessary stockpiling of food and groceries due to nationwide imposition of
+lockdown and consequent uncertainties have significantly altered the food waste generation
+dynamics. Considering the dry waste only, several used masks, gloves, PPE, empty sanitizerbottles, used tissue papers, and lots of packaging waste have increased in a typical “urban ”
+waste stream generated in the metros and cities [ 9]. Another contributor to the rise in the
+quantity of packaging waste is due to a steep increase in e-commerce shopping, which hasbecome a habit during the lockdown periods and to some extent, fear of contracting theCOVID-19 virus [ 10]. On the embarkment of the COVID-19, medical waste generation
+reached up to 240 tons per day, in Wuhan city, China [ 11], whereas there was a 30% increase
+in medical waste generation in Malaysia by March 2020 [ 12]. To keep things simple, we term
+these infectious wastes as “COVID-waste ”that includes medical waste, PPE waste, and other
+household waste with potential infectious components including discarded packaging waste.According to Prata et al. [ 13], the global monthly demand of gloves was almost 65 billion
+whereas for facemasks it was 129 billion to tackle COVID-19. The daily usage of facemaskshas been estimated to be 7 billion per day [ 1,2]. As estimated by Hantoko et al. [ 14], North
+America generated nearly 72 kilotons of medical waste; followed by Europe, Asia, and SouthAmerica with 70 kilotons, 55.6 kilotons, and 37 kilotons respectively, whereas Africa and
+Oceania are generating least amount of medical waste with 8.3kilotons and 0.12 kilotons
+respectively, based on facemasks only. The demand in PPE kits is projected to increase by40% due to COVID-19 by WHO [ 15]. This article presents discussions on the ongoing
+thermochemical management efforts of COVID-waste, specifically focusing on conversionCircular Economy and Sustainability

@@ -1,52 +1,108 @@
-focus Reference Summary 
-MPs Abbondanza and Souza (2019)  ≡MPs are the fastest growing e-waste items than CRT monitors, refrigerators and 
-freezers, and CRT TVs 
-Cai et al. (2020)  ≡On average, consumers use MP for 6 h per day 
-Borthakur and Singh (2020)  ≡Although the potential life span of a mobile phone is around ten years, the present-day 
-scenario is such that people will not use their phone longer. 
-Bhatt et al. (2017)  ≡Consumers in different parts of India is also changing their MPs in 1–2 years. 
-Thi˘ebaud et al. (2018)  ≡MPs’ service life is often connected to mobile phone contracts. Consumers ’ expected 
-service life for MPs was four years, while, MPs became obsolete (no longer in use) 
-after three years. 
-Liu et al. (2019)  ≡The lifespan of MPs was considerably shorter than the technical life expectancy and 
-reduced from 3 years to 1 year (within the analyzed period 2011 –2018) 
-Cai et al. (2020)  ≡MPs’ service life is longer than the average life that included storage time 
-Jayaraman et al. (2019)  ≡Modular repair work, for example, a broken screen of a mobile phone, could extend 
-the product lifespan. 
-Ongondo and Williams (2011)  ≡Network operators ’ motivations and management strategies were identified as one of 
-the undiscovered investigations, with operator promoting a culture of quick new 
-technology obsolescence and product upgrades, with this seen as necessary for 
-network providers to retain consumers 
-Comparison between small 
-and LE Botelho et al. (2016) , Cao et al. (2016) , Chi et al. (2014) ,  
-Echegaray and Hansstein (2017) , Ravindra and Mor 
-(2019)  ≡Small IT equipment such as MPs, digital camcorders has a shorter lifespan (consumers 
-changed every 2–3 years) than screens and LE such as TV sets, WM, and refrigerators 
-Nowakowski (2016)  ≡The average lifespan for refrigerators was higher than for TV sets and WMs. 
-Islam et al. (2016)  ≡Frequent repairing for refrigerators and TV sets was an economic burden for 
-consumers, but essential to reach consumers ’ expected product lifespan rather than 
-extend product lifespan   
-≡most EEE used by the households were phased out within the product lifespan, and 
-devices were updated within two-thirds of the products ’ designed lifespan. TV sets 
-and computers were notable.   
-≡the average lifespan of devices was three years, and old portable electronic devices 
-have been replaced three times within the device ownership period 
-Factors associated with 
-product lifespan Zhang, L. et al. (2019)  ≡The product lifespan of SE is shorter among university students than the general 
-population 
-Shaikh et al. (2020)  ≡Lifespan of flat panel television, routers and modems, laptops, notebooks, and tablets 
-were higher among women. 
-Echegaray (2016)  ≡Individuals ’ past experiences with products (falling short of a reasonable lifetime) 
-should relate to the informed decision making of consumers ’ expectations and specific 
-product durability 
-Pandebesie et al. (2019)  ≡EEE’s lifespan depends on the quality of the goods rather than the availability and 
-quality of electricity. 
-Product lifespan – an 
-indicator for future 
-planning Abbondanza and Souza (2019)  ≡Efficiency and efficacy of a take-back system largely depend on local data on product 
-lifespan, required for future policy planning, especially location and capacity of WEEE 
-dismantling units and WEEE collection routing. 
-Chung et al. (2011)  ≡Regional data on product lifespan data is incredibly useful, and lifespan-related data 
-collection methods should be more efficient and accurate 
-Gok et al. (2017)  ≡Service life of product is inversely proportional to the quantity of EG 
-Yin et al. (2014)  ≡Product service life is directly associated with energy and resource use  M.T. Islam et al.
+f Cleaner Production 316 (2021) 128297
+3attention among researchers worldwide. Broadly, consumer behavior 
+focusing on e-waste can be categorized into several areas: consumption, 
+storage, repair and reuse (R&R), disposal, and recycling (Bovea, M.D. 
+et al., 2018 ). Knowledge and awareness about the formal collection 
+system among consumers are also critical aspects that determine the 
+sustainability of the system in the socio-economic sphere. Several 
+studies, such as the study by Islam et al. (2020a) , Ramzan et al. (2019) , 
+Saphores et al. (2007) and others, emphasized the issue. E-waste-related 
+policy, management system architecture, country-specific consumer 
+culture and behavior, and availability of a diverse range of product 
+categories in the market and their interaction with consumers create a 
+complex phenomenon defining and connecting building blocks and 
+definitions of circular economy with a sustainable e-waste management 
+system. Literature related to the consumer behaviors around e-waste is 
+proliferating; however, no comprehensive review article is found that 
+analyzed all the behaviors to spot the future research directions and 
+developing a consumer-centric circular economy framework focusing on 
+e-waste. This paper tries to eliminate such gaps by reviewing 109 articles 
+published between 2005 and March 2021 using content analysis meth -
+odology. The main research questions (RQs) of the article are: 
+RQ 1: How do the issues related to consumer awareness and 
+behavior with a particular focus on the e-waste sector contribute to the 
+essential operational framework in achieving a CE? 
+RQ 2: How can the general understanding contribute to informing 
+policymakers and researchers in identifying future policy measures to be 
+taken and the necessity of performing research studies in the area? 
+After reviewing articles published on consumer behavior around e- 
+waste in Section 4, a consumer-centric CE framework is proposed with 
+policy implications and business model innovation under Section 5. 
+With this, RQ 1 was answered. Based on the in-depth literature review of 
+the selected articles, research gaps were identified, proposing critical 
+future research directions in Section 5.3, by which RQ 2 was addressed. 
+The research contributions of this review article are: (1) it provided a 
+guide or reference for future researchers to accumulate all the infor-
+mation and knowledge surrounding consumer behavior-related topics 
+focusing on e-waste; (2) it attempted to propose measures achieving a 
+circular economy more holistically, from a framework perspective 
+focusing on sustainable consumer behavior and e-waste. In many cases, 
+published papers did not consider the CE concept into their central 
+research theme, focusing instead on various behavioral aspects. The 
+framework incorporated behavior-specific aspects into CE pathways, 
+creating interdisciplinary research opportunities in the field; (3) besides, 
+presenting, a quantitative assessment of the research progress in the 
+field, the article provided a transparent and replicable methodology, 
+which could also be utilized collecting materials from other available 
+databases; (4) in this paper issues related to policy and business model innovation are discussed, respectively, which provide suggestions for 
+both researchers and policymakers in system-level development and 
+future research areas; and (5) on the research topic, potential future 
+research directions have been identified, which could be useful for 
+future researchers. 
+The remainder of the paper is organized as follows: Section 2 dis-
+cusses some earlier review articles. Section 3 describes the research 
+methodology. An in-depth analysis of the literature is presented in 
+Section 4. Results and discussion are illustrated in Section 5. Finally, 
+Section 6 ends with the conclusion. 
+2.Literature review 
+To clarify the need of this review article, some of the previously 
+published review articles worth mentioning. Table 2 provides details of 
+the previous articles on the topic which also helped to perform a 
+structured literature review based on the content analysis methodology. 
+Details of the methodology is described in Section 3. 
+Based on Table 2, it is evident that in recent time, no comprehensive 
+literature review article has been published on all the consumers ’ 
+behavioral aspects focusing on e-waste. Scopes of the articles also 
+showed that consideration of various product types was not given in the 
+previous review articles, and issues were discussed more in the local 
+context. Thus, a significant knowledge gap exists in understanding a 
+holistic picture of consumers ’ behavior around e-waste. This is the first 
+attempt at reviewing consumer awareness, and behavior focused on e- 
+waste, considering all the behavioral aspects to the best of the authors ’ 
+knowledge. 
+3.Research methodology 
+According to Easterby-Smith et al. (2012) and Brocke et al. (2009) , a 
+literature review plays a critical role in understanding and exploring a 
+specific research field ’s structure. New theory development and inves -
+tigation scope could further progress the knowledge base by identifying 
+a useful literature review (Machi and McEvoy, 2016 ). In this study, the 
+four-steps systematic literature review technique proposed by Mayring 
+(2001) under the qualitative content analysis method is utilized. Fig. 3 
+shows the four steps process model for the content analysis method 
+consisting of material collection, descriptive analysis, category selec-
+tion, and material evaluation. Mayring (2014) provided an extensive 
+discussion on the method. Previously, several literature review articles 
+have applied the research methodology to e-waste research (e.g., Wati 
+and Koo (2010) ; Islam and Huda (2018b) ; Islam and Huda (2019b) ; 
+Ismail and Hanafiah (2020) ; Ismail and Hanafiah (2019) ; P˘erez-Belis 
+et al. (2015b) ). Table 1 
+WEEE product categories with targets of EU WEEE Directive, 2012 /19/EU, adapted from P˘erez-Belis et al. (2015b) , Islam and Huda (2018b) and (StEP, 2019 ).  
+Sl. 
+No. E-waste category Sample e-waste product Target 
+Recovered 
+(%) Prepared for re-use 
+or recycled (%) 
+1 Temperature exchange equipment Temperature exchange equipment, more commonly referred to as cooling and freezing 
+equipment: refrigerators, freezers, air conditioners (ACs), heat pumps 85 80 
+2 Screens, monitors, equip. 
+withsurface screens F100 cm2 Televisions, monitors, laptops, notebooks, and tablets 80 70 
+3 Lamps Fluorescent lamps, high intensity discharge lamps, and light emitting diode (LED) lamps – 80 
+4 Large equipment (LE) Washing machines (WM), clothes dryers, dish-washing machines, electric stoves, large 
+printing machines, copying equipment, and photovoltaic panels 85 80 
+5 Small equipment (SE) Vacuum cleaners, microwaves, ventilation equipment, toasters, electric kettles, electric 
+shavers, scales, calculators, radio sets, video cameras, electrical and electronic (EE) toys, 
+small electrical and electronic (SEE) tools, small medical devices, small monitoring, and 
+control instruments 75 55 
+6 Small IT and telecommunication 
+equipment Mobile phones (MPs), Global Positioning Systems (GPS), pocket calculators, routers, 
+personal computers (PCs)/desktop computers (DCs), printers, telephones 75 55  M.T. Islam et al.

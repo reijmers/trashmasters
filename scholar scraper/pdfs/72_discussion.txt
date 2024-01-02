@@ -1,0 +1,63 @@
+lists available at ScienceDirect
+Resources, Conservation & Recycling: X
+journal homepage: www.journals.elsevier.com/resources-conservation-and-recycling-x
+Behavioral change for the circular economy: A review with focus on
+electronic waste management in the EU
+Keshav Parajulya,b,*, Colin Fitzpatrickb, Orla Muldoonc, Ruediger Kuehra
+aUnited Nations University, Vice Rectorate in Europe, Sustainable Cycles Programme (SCYCLE), Platz der Vereinten Nationen 1, 53113, Bonn, Germany
+bDept. of Electronic & Computer Engineering, University of Limerick, Limerick, V94 T9PX, Ireland
+cDept. of Psychology, University of Limerick, Limerick, V94 T9PX, Ireland
+ARTICLE INFO
+Keywords:
+Consumer behavior
+Circular economyE-wasteWEEEElectronic wasteSustainable consumptionBehavior changeABSTRACT
+In recent years, electrical and electronic products (e-products) have been central to the discussion of resource
+sustainability due to their growing demand, use of critical resources, and challenges in managing the resultingwaste stream (e-waste). As such, the concept of circular economy, which seeks to ‘design out ’waste by better
+products, practices and business models, is deemed to be very relevant for e-products. The nature of circularsystems mandates a collective eﬀ ort of businesses, consumers, and governments. While the techno-economic
+sides of the circular economy have attracted large attention in recent years, the role of consumer behavior –a
+critical factor in de ﬁning the long-term success of ‘sustainable production and consumption ’initiatives –remains
+less explored. In this context, this paper explores the potential of integrating lessons from behavioral sciences tofacilitate circular economy in e-waste management. It o ﬀers a review of prominent behavioral theories and their
+application in the context of sustainable consumption and pro-environmental behaviors. Finally, the paper
+identiﬁes opportunities for behavioral interventions in improving e-waste management and in achieving a more
+circular economy.
+1. Introduction
+1.1. Background
+Electrical and electronic products (e-products) have been one of the
+focus areas in the discussion of resource sustainability mainly due to a)
+their growing demand, b) the use of critical resources, and c) challenges
+in properly managing the end-of-life (EoL) for e-products (known as e-
+waste) ( Breivik et al., 2014 ;Habib et al., 2015 ). E-waste is a fast-
+growing waste stream globally, which with the current trend, is ex-pected to double by 2045 ( Parajuly et al., 2019 ). E-waste is also a
+mixture of valuable resources and toxic substances that demandscareful handling. E-products have evolved to become complex and
+ubiquitous in everyday lives but e-waste collection and management
+systems have not caught up –largely failing to ensure proper handling
+of e-waste. This entails potential risks of resource losses and negativeimpacts on environment as well as human health ( Wang et al., 2016b ).
+Governments and other actors have taken actions to tackle the
+growing e-waste problem. In Europe, for example, the Waste Electrical
+and Electronic Equipment (WEEE) Directive sets targets for collectionand subsequent processing of e-waste for material recovery ( European
+Parliament, 2003 ). The Directive mandates all member states of the
+European Union to facilitate separate collection of and resource re-covery from e-waste. More importantly, the system based on Extended
+Producer Responsibility (EPR) principle has made producers re-
+sponsible for their e-products with the aim of improving recyclability
+and encouraging the integration of EoL aspects during product design
+(Atasu, 2018 ). For more than two decades, concepts such as ‘design-for-
+recycling ’have also been in circulation ( Kriwet et al., 1995 ) and more
+recently, the European Ecodesign Directive has begun to set design
+requirements for energy-related products to include all stages of pro-
+duct lifecycle, including product EoL ( European Parliament, 2009).
+The results of these collective e ﬀorts, however, have not been sa-
+tisfactory. Despite relatively well-established waste management in-
+frastructure in place, European countries only collect about one third of
+the generated e-waste under the o ﬃcial collection systems with sig-
+niﬁcant quantities going to non-compliant waste management channels
+(Balde et al., 2015). As for products themselves, little evidence of design
+supporting EoL resource recovery exists. Classic design ﬂaws are still
+found even in modern e-products ( Parajuly et al., 2016). Due to their
+https://doi.org/10.1016/j.rcrx.2020.100035
+Received 15 August 2019; Received in revised form 20 November 2019; Accepted 24 February 2020⁎Corresponding author at: United Nations University, Vice Rectorate in Europe, Sustainable Cycles Programme (SCYCLE), Platz der Vereinten Nationen 1, 53113,
+Bonn, Germany.
+E-mail address: parajuly@vie.unu.edu (K. Parajuly).Resources, Conservation & Recycling: X 6 (2020) 100035
+Available online 25 February 2020
+2590-289X/ © 2020 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+T

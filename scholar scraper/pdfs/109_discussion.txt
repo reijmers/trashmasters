@@ -1,0 +1,126 @@
+n and consumption continue at this rate and in this manner, it
+will not be possible to sustain development and preserve the planet for
+future generations ( Stahel, 2016 ). The strategic need for an alternative
+model of growth emerged in terms of the debate about the circular
+economy (CE), described as an economy with closed material loops.
+Over the last decade the CE, also due to the challenges posed by of
+the Circular Economy Action Plan, CE issues have attracted a great dealof attention. The efforts made by the Member States to shift their social
+and economic activities towards “circularity ”have fostered changes in
+the business model and labor market, with new business models and
+new opportunities resulting from the implementation of the Reduction,
+Reused and Recycling (3Rs) actions able to create four million new jobs,
+to generate €147 billion in value added and promote €17.5 billion worth
+of investments ( European Commission, 2015a ). Furthermore, the
+recycling of municipal waste and the percentage of recycled material
+reuse (with respect to overall materials demand) increased during the
+last ten years. Despite this, the recycled materials do not even reach
+the 12% of the EU materials demand, and, a full circularity is applied to
+only 9% of the world economy, which indicates that there are still
+wide margins for improvement ( European Commission, 2019d ). This
+idea of CE considers it as a transformative economy rede ﬁning produc-
+tion and consumption patterns, inspired by ecosystems principles and
+restorative by design, which increases resilience, eliminates waste and
+creates shared value through an enhanced circulation of material and
+immaterial ﬂows ( Kirchherr et al., 2017 ). This concept highlights the
+key factors of the paradigm: resources ef ﬁciency, sustainable economic
+growth, environmental protection and social development. Following
+Hislop and Hill (2011, p. 2) :“The circular economy represents a develop-
+ment strategy that maximizes resource ef ﬁciency and minimizes waste pro-
+duction, within the context of sustainable economic and social
+development ”. With the reference to social-economic aspects, for
+Preston (2012, p. 1) “A circular economy is an approach that would trans-
+form the function of resources in the economy. Waste from factories would
+become a valuable input to another process –and products could be
+repaired, reused or upgraded instead of thrown away ”. Despite the differ-
+ent emphases, perspectives and approaches these de ﬁnitions evolve
+around the central idea that the CE is a 3R system with mainly environ-
+mental, economic and social impacts. Many studies analyzed the issues
+from a theoretical point of view. Kirchherr et al. (2017) elaborated a
+comparison analysis with 114 CE de ﬁnitions, Ghisellini et al. (2016) per-
+formed an ample review on CE issues at micro, meso and macro level.
+More recently, Korhonen et al. (2018) analyzed the emergent literature
+from several ﬁelds to identify concepts and account for the complexity
+of the issues and the perspectives of different contributions. However,
+only a few authors focused on the operative application at macro level
+(Ghisellini et al., 2016 ) for an extended geographical area (i.e.
+Europe), and followed a quantitative approach as well. This paper in-
+tends to contribute in bridging this gap. Firstly, the relevant knowledge
+is gathered and organized so as to rank the 28EU member states accord-
+ing to their performances in terms of their transition towards the CE. In
+particular, the indicators, relating to environmental (Produced Munici-
+pal Waste, Produced Food Waste, Municipal waste recycling rate), eco-
+nomic (Domestic Material Consumption, Market rate of recyclable raw
+materials, Production Material Reuse rate), and socio-economic (Pat-ents related to Circular Economy, Implemented Best Practices) vari-
+ables, are used to assess outcomes and highlight good practices, so as
+to identify which of these are more likely to be conducive to a CE as
+envisioned by the EU. In order to assess the degree of transition towards
+the CE, we also evaluated GDP in PPS and the ratio of GDP/CEI correlat-
+ing this information with the quantitative indicators. The performances
+of the 28EU Member State was analyzed in the period 2006 –2016. The
+study was developed, ﬁrstly carrying out a performance analysis of
+each Member State in terms of the implementation of CE activities
+and the progress made towards the achievement of EU circular objec-
+tives. The accumulation of knowledge and application of quantitative
+indicators, should allow for the design of a CE achievement process.The present analysis will be of interest for researchers, policy makers
+and government planners, who can acquire information for the devel-
+opment of CE strategies in long term plans.
+The paper is organized as follow: sections two outlines a conceptual
+background on the CE will be developed. Moreover, Section 3 shows the
+state of art of the European context, Section 4 explains the elaborated
+methodology, and Section 5 displays the results and related discussion.
+Finally, Section 6 shows the conclusions of the paper.
+2. Conceptual background
+The literature and the EU directive and recommendations indicate
+that most of the issues concerning the CE transition evolve around
+waste, its production, its reuse and its disposal. In fact, the waste man-
+agement is considered by European Commission (2019a) in overall
+28EU Member States a strategic issue to address the transition from lin-
+ear to circular economy. Liu et al. (2017) focused on the sustainable
+waste management under the concepts of the CE through “Reduce,
+Reuse and Recycle ”(3R) rules. They underlined the need for an ade-
+quate legal framework and highlighted the importance of investing
+both in technologies for the ef ﬁcient resource recycling and waste man-
+agement infrastructures. Furthermore, Iacovidou et al. (2017b) pre-
+sented an innovative approach “Complex Value Optimisation for
+Resource ”(CVORR) that seeks to assess how complex value is created,
+destroyed and distributed in resource recovery from waste systems. In
+addition, in line with the Waste Framework Directive ( European Parlia-
+ment, 2018 ) the municipal waste is a complex bottleneck in waste man-
+agement because even if it does not represent the main part of the total
+waste generated in the European Union (7 –10% measured by weight), it
+is amongst the most complex ones to manage ( Malinauskaite et al.,
+2017 ). In particular, according to OECD (2016) the municipal waste is
+deﬁned as the household waste and waste similar in nature and compo-
+sition to household waste. Its mixed and dispersed nature typically
+makes it dif ﬁcult to treat ( European Parliament, 2017b ). Amongst
+these kinds of wastes, food waste is potentially the largest un-tapped re-cyclable component of the municipal waste stream. Food waste accord-
+ing to Food and Agriculture Organizations of the United Nation ( FAO,
+2011 ) refers to the decrease in the quantity or quality of food resulting
+from decisions and actions by retailers, food service providers and con-
+sumers. It represents a growing problem in our society with almost
+88 million tons of waste were generated every year. In particular, this
+implies that valuable and often scarce resources such as water, soil,
+and energy are being lost, and that climate change is being affected. At
+worldwide level, only 6.3% of food waste is diverted towards land ﬁlls
+and incinerators for composting. It represents 22% of discarded munici-
+pal waste ( European Parliament, 2017b ). In addition, as acknowledged
+by the Waste Framework Directive ( European Parliament, 2018 ), sets
+a target of 50% of municipal waste to be recycled and prepared for
+reuse by 2020 in EU Member States. The Directive identi ﬁes the
+recycling actions (material recycling, composting and digestion) as a
+strategic drivers and strengths of the CE policy in Europe. Minelgait ė
+and Liobikien ė(2019) focused on the importance of reducing, reusing,
+and recycling behaviors as effective tools for solving the waste problem
+in the European Union, and pointed out that the countries seeking to
+minimize waste generation should also pay more attention to the pro-
+motion of ef ﬁcient consumption and production patterns. Despite
+their importance, these actions alone do not ensure the transition to-
+wards a total circularity. Winkler, 2011 (2011) reinforces this concept,
+identifying two structural barriers to the improvement the circularity
+in terms of product reuse. The ﬁrst barrier is that a large part of the
+used materials is still accumulated as in-use stocks, and the second is
+that a large amount of unrecycled materials is sent to land ﬁll. Reusing
+used materials as raw materials (second raw material) is another strate-
+gic cornerstone. Considering that the rates for some materials are al-
+ready high, considerable improvements still seem possible ( Iacovidou
+et al., 2017a ;Horodytska et al., 2018 ;Hahladakis and Iacovidou,2 A. Marino, P. Pariso / Science of the Total Environment 729 (2020) 138142

@@ -1,23 +1,25 @@
-5.1 Limitations  
-5.1.1 The challenge of measuring  FSWL  
-Our work introduced several new terms to make it easier to deal with food waste in the 
-upcoming era of the circular economy. Yet, the boundaries of wording clarification and 
-concepts categorization must also meet those of  quantification when it comes to 
-implementing concrete policies  and evaluate their efficiency . 
-Up till now, consistently with the famous adage ―you cannot manage what cannot be 
-measured‖, most studies have focused on quantifiable recycling and recovery strategies 
-(Eriksson et al., 2015;  Vea et al., 2018; Galanakis, 2012) . The complexity of quantifyi ng 
-prevention, the top priority policy -wise, has already been acknowledged.  In fact, it has been 
-highlighted as the least measurable among the waste hierarchy treatments (Mourad, 2016) . 
-Prevention from the primary production to the retail can be achieved by  more efficient 
-management. However, the consumer stage is pa rticularly challenging to influence and 
-measure as it involves many factors that interact together. These factors include economic 
-motives, soci al drivers and cultural pressure as well as individual preference s. While 
-economic reasons, e.g. saving money, are a driving force for behavioral change (Thyberg and 
-Tonjes, 2016) , socio -psychological motivations, such as conservatism, misinformation and 
-bureaucratic resistance, can rep resent up to 40% of difficulties for waste prevention 
-(Henningsson et al., 2004) . Economic factors are further influenced by geographic, cultural, 
-political and personal reasons linked to food waste generation (Thyberg and Tonjes, 2016) , 
-with different countries having different waste generation patterns.  This being said, 
-Searchinger et al. (2019) highlighted different generic easy -to-operate strategies for 
-prevention, such as smaller portion sizes in r estaurants at a different price, and avoiding Journal Pre-proof
+re-proof
+5 
+ first one considers  the variable  definitions of food waste , and therefore  the possibility of  
+developing  coherent regulatory  metrics for quantification  (accounting).  Actual glob al losses 
+are an estimate (Parfitt et al., 2010) . The existing data include high uncertainty (Corrado et 
+al., 2019)  and different scopes for measurement s, making extrapolation and comparison of 
+data very challenging.   
+The second challenge lies in a failure to  distinguish food waste into appropriate categories 
+that could be linked with a corresponding waste hierarchy. The current waste hierarchy is not 
+properly distinguishing terminology in accordance with sustainable management. The terms 
+used in the hierarchy  do not have a clear scope  and are often used as synonyms, such as  ―food 
+loss‖ and ―food surplus‖, ―recycling‖  and ―reuse‖ , ―recycling‖  and ―recovery‖  (UNEP, 2014;  
+Bernstad Saraiva Schott et al., 2013) . A food  waste hierarchy distinguishing food surplus and 
+waste, but not clear end-of-life (EoL) pathways,  was proposed by  Papargyropoulou et al. 
+(2014) , while Garcia -Garcia et al. (2017)  expanded EoL the most , but with no distinctions of 
+surplus, waste and loss , and U.S. EPA classified industrial use in their hierarchy (Dou et al., 
+2016) . Although there is  an agreement on the prevention  and avoidance of disposal, there is a 
+continuing discussion and confusion in other EoL treatments.  There is a need for  clarification 
+and harmonization combining feedstock specifics , surplus food, and  food waste as a 
+secondary resource and its EoL treatments . As waste hierarchy is used in policies, this lack of 
+clarity can result in  regulation s that are not aligned, such as European marketing standards 
+that lead to wastage of nutritious food  that could have been prevented  (Priefer et al., 2016) . 
+In light of these issues, the goals of this article are as follows:  
+1. Summarize current food waste terminology and definiti ons and propose a clear -
+cutting categorization for the various types of food waste, losses and surpluses  Journal Pre-proof

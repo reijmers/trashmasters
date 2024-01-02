@@ -1,23 +1,124 @@
-The results of this study combined insights from bottom-up
-(local intervention) and top-down (at the national level) methods
-to discuss the approach of the research question presented in
-Section 1 . The CE approach calls for mechanisms and policyTable 4
-Organizational structure of Belo Horizonte’s recycling networks.
-CataUnidos RedeSol
-Strategy of cooperatives Expansionist Concentrated
-Function of waste pickers Member Service
-provider
-Handcrafting activities Existent NoneInteraction between cooperative Large FewPerformance of functionalities Rotational CompetenceShare of income Equitable Weight
-sorted/month
-Adaptation to a new technical
-instrument (e.g., conveyors)Slow Fast
-Partnership with the city yes yes
-Partnership with recycling industry Providers of
-secondarymaterialStill under
-development
-Foundation of 1st cooperative Since 1992 Since 2002
-Number of WP cooperatives from Belo
-Horizonte15
-Number of partner WP cooperatives
-from the metropolitan region33 7M. Fuss, Raphael T.V. Barros and Witold-Roger Poganietz Waste Management 121 (2021) 215–225
-222
+2018; Rateau and Tovar, 2019 ). In such a challenging
+situation, could a socio-integrated recycling system with inte-
+grated WPs be a robust strategy to boost a CE?
+Transparency regarding the deﬁnition (and understanding) of
+the CE concept and socio-integrated recycling system is needed
+to answer the research question. According to Kirchherr et al.
+(2017) ,‘‘The circularity approach seeks for an economic system that
+replaces the ‘end-of-life’ concept by reducing, alternatively reusing,
+recycling and recovering materials in production, distribution and
+consumption processes within the aim to accomplish sustainable
+development ”.Rutkowski and Rutkowski (2015) considered a
+socio-integrated recycling system, i.e., ‘‘ the procedure of combining
+informal sectors in urban services by giving WPs socio-economic
+opportunities whereby the operational costs and environmental
+impacts of landﬁlling can be minimised ”. Beneﬁts exist in favor of a
+socio-integrated recycling system, but economic prosperity is still
+the primary aim of the CE and might imply tradeoffs in terms of
+economic growth ( Kirchherr et al., 2017 ).Kirchherr et al. (2017)
+have correlated CE as an approach toward sustainability to bring
+the perspective that is considered in this study, and which stands
+for creating environmental quality, economic prosperity and social
+equity, to the beneﬁt of current and future generations
+simultaneously ”.
+The integration of WPs in circularity initiatives is an issue to be
+analyzed on a local scale. The situation of WPs can differ among
+countries or cities because of, for example, legal issues, social
+behavior, and culture. Belo Horizonte is a learning platform to
+answer the research question mentioned above. Belo Horizonte is
+Brazil’s fourth economic axis and a reliable reference for the orga-
+nizational structure of WPs into cooperatives worldwide ( Alfaia
+et al., 2017; Campos, 2014; IBGE, 2018; Tirado-Soto and
+Zamberlan, 2013; UN-HABITAT, 2014 ). Through the study case, this
+paper aims to analyze the socio-integration development of indi-
+vidual groups that directly execute or inﬂuence an action in HSW
+management and to discuss the barriers that WP communities face
+towards the circular economy’s purposes.
+The work applies the combination of participant observation
+(Kawulich, 2005 ), material ﬂow analysis (MFA), and structural
+agent analysis (SAA) developed by Binder ( Binder, 2007a, b ). The
+methodological approach brings the focus on the role of agents sel-
+dom studied in HSW management and is fundamental for opera-
+tionalizing CE ( Bugge et al., 2019; Marshall and Farahbakhsh,
+2013 ).
+This paper is structured as follows. Section 2 describes the back-
+ground information of Belo Horizonte’s case study. Section 3 outli-
+nes the methodological framework and the respective research
+steps carried out in this study. Section 4 presents the results of
+the case study and the discussion. Sections 5 and 6 summarize
+the conclusions.
+2. A literature review about the situation of Belo Horizonte
+Belo Horizonte, the capital of Minas Gerais’ state, is located in
+southeast Brazil with a population of about 2.5 million (2014)
+and an average growth rate of 0.6% per year since 2001 ( IBGE,
+2018 ). The mainstays of its economy range over all three economic
+sectors, with iron and steel mining industries, packaging, food,
+biotechnology, business, and tourism jewelry as the main
+branches.
+Belo Horizonte is characterized by high social inequalities, with
+a Gini coefﬁcient of 0.60 ( IBGE, 2018 ). This socio-economic situa-
+tion is reﬂected by the high relevance of informal collecting and
+sorting of HSW ( Varella, 2011 ). Belo Horizonte launched its Munic-
+ipal Solid Waste Plan in 2017, after three years of the target having
+been deﬁned by the Brazilian National Policy on Solid Waste(NPSW) ( HORIZONTE, 2017 ). NPSW is a political action for munic-
+ipalities to pay attention to the mismanagement of HSW and the
+integration of WP cooperatives ( Brazil 2010 ).
+The plan is based on the status quo of Belo Horizonte’s HSW
+management in 2014 ( HORIZONTE, 2017 ). Belo Horizonte presents
+an advantage regarding the integration of WP cooperatives in com-
+parison to other Brazilian cities. Belo Horizonte had the ﬁrst polit-
+ical initiative to recognize waste pickers as agents of HSW
+management in the 1990s ( Campos 2014; Jacobi and Teixeira
+1997 ). The political initiative demonstrated the working value of
+WPs, who were often confused as being part of the marginalized
+groups of that time, and caused a social and political movement
+nationally and internationally ( Campos 2014 ).Campos (2014)
+described how Belo Horizonte’s political initiative opened opportu-
+nities in line with Eco 92 and helped to establish social and govern-mental programs such as ‘‘Garbage and Citizenship” and the
+‘‘National Forum Garbage and Citizenship”. Both programs aimed
+to promote campaigns against child labor in dumpsites and partic-
+ipative dialogue between governments and WPs funded by the
+United Nations Children’s Funds and the Brazilian government in
+1997 and 2000, respectively ( Campos 2014 ).
+No technological treatment takes place in Belo Horizonte, as
+shown in Fig. 1 . The conventional system relies on landﬁlling after
+HSW is reloaded into larger vehicles at the transfer station ( SLU,
+2014 ). Consequently, the long-term collection of mixed waste
+motivated social interventions in HSW management activities
+accompanied by constant popular movements ( Rutkowski, 2008;
+Varella, 2011 ). The recycling network system started with CataUni-
+dos in 2004. The recycling network systems promote joint action
+for marketing and technical support to reduce the inﬂuences of
+the informal sector ( Tirado-Soto and Zamberlan, 2013; Varella,
+2011 ). As shown in Fig. 1 , the formal and the informal waste sec-
+tors still run in parallel in Belo Horizonte. The informal sector helps
+small and medium-sized middlemen businesses by creating the
+opportunity to generate fast income by selling recyclable waste
+at the lowest market prices ( Varella, 2011 ).
+The difference between the formal (registered) WP cooperatives
+and the informal sector is the services that formal WP cooperatives
+provide for the city hall of Belo Horizonte. They perform door-to-
+door collection followed by sorting of recyclables at working sheds
+(Varella, 2011 ). Thus, for formal WPs, not only the economic aspect
+of waste collecting and sorting is of relevance, but also their posi-
+tion in the society as service providers for the city ( Rutkowski,
+2008; Rutkowski and Rutkowski, 2015; Varella, 2011 ).
+It is due to a signiﬁcant gap regarding the efﬁciency of the
+socio-integrated recycling system that many decision-makers con-
+sider the Belo Horizonte HSW management to be stagnating
+(HORIZONTE, 2017 ). New perspectives from industries bring hope
+for WP cooperatives to create best practices for the socio-
+integrated system in the context of a circular economy ( Ometto
+et al., 2018 ). Although the socio-integrated system is part of the
+national policy ( BRAZIL, 2010b ), industries and Belo Horizonte’s
+city council remain locked in a stalemate when it comes to invest-
+ing in HSW management.
+3. Research method and data
+3.1. Overview
+This study carried out three main stages that enable an in-depth
+analysis of the dynamics of a real-life setting of the case study cho-
+sen, as displayed in Fig. 2 .
+The ﬁrst stage aimed to disclose the characteristics of the
+system under review in-depth and to gather primary data. This
+step followed the qualitative method approach of participatoryM. Fuss, Raphael T.V. Barros and Witold-Roger Poganietz Waste Management 121 (2021) 215–225
+216

@@ -1,0 +1,122 @@
+d municipalities on the SNIS database. Municipal gross
+domestic product (GDP) ( IBGE, 2016 ) and the human development
+index (HDI) ( UNDP, 2010 ) were used as independent variables for
+projecting selective collection masses.
+The SNIS (2017a) report presented a proportional rate of MSW
+selectively collected by public agencies, private agencies, and for-
+mal waste picker organizations. Thus, we determined transfer coef-
+ﬁcients for each agency who undertook the selective collection by
+extracting their respective rate information from the SNIS (2017a)
+report.
+After calculating the masses of MSW collections, we estimated
+the proportion of plastic packaging in the MSW. For the proportion
+of plastic from selective collection, the SNIS (2019a) information
+was taken from 2017 as published in its report. For the proportion
+of plastic from mixed collection, information was taken from IPEA
+(2012) study, which is the only national research on Brazilian MSW
+composition. The proportion of plastic waste that is packaging in
+selective and mixed collections was expressed by Geyer et al.’s
+(2017) worldwide estimate, because there are no Brazilian studies
+about the levels of PPW in MSW.
+Finally, the mass of PPW which was recycled was obtained from
+the Technical Report of the Brazilian Sectoral Agreement for the
+implementation of reverse logistics of general packaging ( SINIR,
+2017 ).
+Data on manufacturing new products by recycling PPW was
+extracted from the Brazilian PET Industry Association ( ABIPET,
+2016 ) report, which referred to PET products. The report presents
+the breakdown of ﬁnal uses of recycled PET in Brazil in 2016. The
+rates of PPW recycled for new plastic packaging and for non-
+packaging applications were extracted from this report and used
+as a transfer coefﬁcient in the MFA system.
+2.3. Data quality
+Data availability to quantify material ﬂows is often limited,
+owing to data scarcity or missing data ( Laner et al., 2016 ). Data
+used for MFA are interdisciplinary, have heterogeneous sources,
+and may vary on formats and qualities ( Schwab et al., 2017 ). There-
+fore, assessing the reliability of the ﬂows provides the quantiﬁca-
+tion of the data limitations for system understanding.
+The quality of the data sources was assessed using the uncer-
+tainty characterization method developed by Laner et al. (2016) .
+The approach was developed to include data quality indicators
+within the pedigree matrix presented by Weidema and Wesn æs
+(1996) , combined with the quantiﬁcation of uncertainty based on
+data source classiﬁcation as proposed by Hedbrant and Sörme
+(2001) . Firstly, data quality of all MFA input ﬂows was evaluated
+by data quality indicator scores ( Sieber et al., 2020 ), presented in
+Support Information S8. These indicators encompass the geograph-
+ical and temporal representativeness, the investigated material,
+and the completeness and reliability of the source ( Sieber et al.,
+2020 ). The assigned scores for each information source are pre-
+sented in Support Information S10.
+These various data quality indicators were translated into
+uncertainty by coefﬁcients of variation (CVs) ( Muchangos et al.,
+2019 ). Uncertainty was assumed to increase exponentially with
+poor data quality ( Laner et al., 2016 ). Data uncertainty was
+assumed to be normally distributed, because of its mathematical
+convenience ( Tran et al., 2018 ). These assumptions have also been
+made by Muchangos et al. (2019), Eygen et al. (2018), Tran et al.
+(2018), Makarichi et al. (2018) , and Warrings and Fellner (2018)
+while executing Laner et al. (2016) approach. The CVs are the stan-
+dard deviation divided by the mean ( Eygen et al., 2017 ). The
+detailed procedure for the CV calculation is shown in the Support
+Information S9.2.4. MFa
+The input ﬂows that we used to perform the MFA are summa-
+rized in Support Information S7. We used the previously calculated
+CVs as input uncertainty values for the input ﬂows (Support Infor-
+mation S11).
+MFA is based on the law of conservation of matter within the
+system and all its processes ( Brunner and Rechberger, 2004 ). The
+ﬂows are calculated by using a material balance to compare the
+mass of all ﬂows entering, leaving, and stocked at a process
+(Eygen et al 2017 ). Therefore, the mass of all ﬂows entering a pro-
+cess must equal the mass of ﬂows leaving this process plus the
+stock change ( Allesch et al., 2017 ). Support Information S12 pre-
+sents the mass balance equations. Using this procedure, unknown
+ﬂows can be calculated by balancing the system ( Eygen et al.,
+2017 ). Therefore, the previously unknown ﬂows of the system —
+the informal collection of PPW, the PPW tailing in sorting units,
+and the amount of non-monitored PPW— were estimated by the
+MFA (Table S2.3).
+We used STAN 2.6 software, developed by Tu Wien, to perform
+the MFA and for data visualization through a Sankey diagram, in
+which the thickness of the ﬂows was proportional to their value
+(Cencic and Rechberger, 2008 ). We used STAN to reconcile data
+and to perform error propagation. STAN is a free software that
+has been used widely in the scientiﬁc literature for several MFAs,
+such as the studies performed by Boh and Clark (2020), Tazi
+et al. (2019) and Brouwer et al. (2018) .
+Input redundant information are used to reconcile the MFA
+input data ( Cencic and Rechberger, 2008 ). The method of least
+squares is used for data reconciliation, in which uncertainties are
+used as weighing factors ( Cencic, 2016 ). By data reconciliation,
+we calculated the values for the MFA output ﬂows – with previous
+information. Subsequentially, the reconciled values were used to
+calculate previously unknown ﬂows ( Cencic and Rechberger,
+2008 ) by balancing the system.
+STAN presents a data reconciliation quality (DRQ) indicator
+(Brouwer et al., 2018 ), which expresses the difference between 1
+and the mean value of measurement adjustments per maximum
+allowed adjustment. DQR ranges from 0 to 1 ( Cencic, 2016 ), and
+DQR close to 1 indicates that the reconciled data matched the orig-
+inal data well ( Brouwer et al., 2018 ).
+3. Results and discussion
+Firstly, we present the results for the projections of the selec-
+tive and mixed collections of MSW. Subsequently, we show the
+input data quality uncertainty of the MFA input ﬂows. Finally,
+we display the PPW modeled system and the values of the out-
+puts ﬂows.
+3.1. MSW collections projections
+There were 1,771 municipalities served by a selective collec-
+tion service in Brazil, accounting for 32% of all Brazilian munici-
+palities. The SNIS (2019b) database lacked information on
+selective collection mass for 536 of these municipalities, which
+had their mass estimated by linear regression. The multiple linear
+regression equation, established to predict the mass of selectively
+collected MSW in Brazil in 2017, is shown in Formula (3),i n
+which SCM is the selective collection mass (t). This regression
+model explains 36% of the original variability (Table S5.1). The
+regression residuals follow the normal distribution ( Figure S5.1
+and Figure S5.2 ).
+SCM¼10ð/C01:18þ0:57log10GPD/C00:81log10ð1/C0HDIÞÞð3ÞI. Pimentel Pincelli, A. Borges de Castilhos Júnior, M. Seleme Matias et al. Waste Management 126 (2021) 781–790
+784

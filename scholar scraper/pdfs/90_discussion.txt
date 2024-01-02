@@ -1,0 +1,67 @@
+f Hazardous Materials 422 (2022) 126724
+3program, the Environmental Partnership Program for Accession was 
+funded by the European Union for a duration of three years (2019 –2022) 
+to support the development in environmental governance in the Western 
+Balkans and Turkey (EU, 2020 ). These initiatives are followed by laws, 
+policies, strategies, action plans, guidelines, and steering committees at 
+the national level in each country and are considered and followed by 
+local communities, including zero-waste NGOs, business sectors, local 
+scientific communities, and other local stakeholders. 
+The status of HCW management systems in most Western Pacific 
+Region and South-East Asia Region countries is presented in the WHO 
+reports (WHO, 2017, 2015b ). Despite some good practices outlined in 
+these reports, compliance with HCW management remains a significant 
+challenge in many countries. For instance, some developing countries 
+use open burning and incinerating in single-chamber incinerators as the 
+major means of treating waste (Khan et al., 2019; WHO, 2017 ). 
+Furthermore, in low- to middle-income countries, HCW is mixed with 
+general domestic waste and disposed of in municipal waste facilities or 
+dumped illegally as the main disposal route in these countries (Bald˘e 
+et al., 2017; UN, 2011 ). Consequently, a proper approach for HCW 
+management seems to be vital to be adopted in these countries and 
+continued or improved in countries already considering them. 
+The CE has been introduced in the literature as a potential approach 
+to reduce the negative environmental impacts of the HCW (Kane et al., 
+2018; van Straten et al., 2021 ). The CE approach refers to a regenerative 
+system in which, through slowing, closing, and narrowing supply chain 
+loops, material input, waste, and emissions are minimized (Geissdoerfer 
+et al., 2017 ). Accordingly, the design framework for the CE is increas -
+ingly used in industry to build up product circularity in terms of its 
+multiple-use and recycling (Linder et al., 2020; Shevchenko et al., 2021 ) 
+and product sustainability in terms of minimizing its negative impact on 
+the environment (Dyllick and Rost, 2017 ). Some limited CE practices 
+already exist within the HCW management system in various forms and 
+maturity levels (Kane et al., 2018 ). For instance, the CE approach has 
+been highlighted in the literature as a means of reducing HCW through 
+reusing and recycling durable medical equipment (Ordway et al., 2020 ), repairing and recycling hospital instruments and surgical stainless steel 
+wastes (van Straten et al., 2021 ), and replacing disposable products with 
+reusable ones in medical and dental sectors (Antoniadou et al., 2021 ). 
+Besides, recovering value from disposables, such as using medical nee-
+dles in concrete production, has also been stressed in the existing studies 
+(Hamada and Ismail, 2021 ). However, there is a lack of decent academic 
+discussion regarding the application of CE principles and practices to 
+increase resource efficiency in the healthcare industry and reduce the 
+adverse environmental effects of both hazardous and non-hazardous 
+HCW. 
+3.Research design 
+The present research followed a mixed-method approach adopted 
+from Ranjbari et al. (2021b) by employing an analytical method to map 
+the scientific literature of HCW, as illustrated in Fig. 2. The rationales 
+behind adopting this mixed-method approach are (1) unfolding the 
+theoretical foundations and developments of HCW research by con-
+ducting an analysis based on a massive database and (2) taking advan -
+tage of the ability of bibliometric and text mining analyses to identify 
+established past evolutions and emerging topical areas (Ertz and 
+Leblanc-Proulx, 2018 ) within a huge amount of publications in the 
+literature in a reasonable manner. Data collection and the process of 
+analyzing the data are explained in the following sections. 
+3.1. Data collection and preparation 
+The Web of Science (WoS) database, as one of the most trusted 
+publisher-independent global citation databases in academia, was 
+selected for collecting data herein. A combination of different keywords 
+directly addressing the scope of our study was extracted from literature 
+and elaborated to design the following search string: "healthcare waste" 
+OR "medical waste" OR "hospital waste" OR "clinical waste" OR "infec -
+tious waste" OR "sharps waste" OR "pathological waste" OR "pharma -
+ceutical waste" OR "biomedical waste" (search in the title of articles) 
+Fig. 1.Various levels of healthcare waste (HCW) governance with a focus on European Union countries.  M. Ranjbari et al.

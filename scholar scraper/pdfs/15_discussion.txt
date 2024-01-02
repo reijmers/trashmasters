@@ -1,43 +1,99 @@
-and future research  
-The plastic companies  in the country  reuse/reprocess  the scrap 
-left from the production  lines. This prevents  the scrap to end-up  
-in landﬁlls  and damage  environment.  Nevertheless,  the reprocess  
-means more energy  is needed  to recover  material  through  post- 
-industrial  pellets.  Thus, more analysis  is needed  to evaluate  the to- 
-tal damage  done to the environment  between  the two choices  by 
-life cycle assessment,  which is a systematic  analysis  of the envi- 
-ronmental  impact  of products  during their entire life cycle (pro- 
-duction,  use and disposal  phases).  
-This ﬁrst attempt  to demonstrate  the mechanical  recyclability  
-of EPS single use products,  in Ecuador,  proves the potential  for the 
-development  of a circular  economy  around  this type of waste ma- 
-terial. However,  more trials are need to be set in place to diminish  
-the difference  in values for weight  and resistance.  In practice,  un- 
-fortunately,  remelting  and forming  new post-consume  resin often 
-degrades  the properties  of the recycled  items products.  Thus, the 
-amount  of virgin resin shall increase  to keep the quality  of the ﬁ- 
-nal product  and some waste will always be created.  
-Also, in order to develop  a circular  economy  around  domes-  
-tic waste, people need to participate  in the process  of separa-  
-tion. Studies  indicate  that when made available  people will use 
-the colored  recycle  bins. Government  intervention  is important,  
-to surveillance  and reinforcement  of already  made policies,  for 
-managing  possible  recycling  items. Also, reprocess  companies  must 
-have the technology  to decontaminate  the polymers  before melting  
-and resell high quality  recycled  plastic raw material  to the manu- 
-facturers.  
-Acknowledgements  
-The authors  would like to thank Marco Roche, Eng.; Technical  
-Manager  of Plásticos  del Litoral S.A. (PLASTLIT)  for its involvement  
-and compromise  in this project.  This paper is supported  by the 
-National  Secretary  of Superior  Education,  Science,  Technology  and 
-Innovation  (SENESCYT)  –I N E D I T A  program,  project  “Characteriza-  
-tion of urban household  waste in Guayaquil  for the classiﬁcation  of 
-plastic and organic  waste and reuse in local industry”.  
-Table 2 
-Migration  test results. 
-Parameter  Results Normal EPS container  (mg/dm 2 ) Results Recycled  EPS container  (mg/dm 2 ) 
-Global Migration  Test (ISO Octane Simulant)  4.3 4.6 
-Global migration  test (Simulant  Ethanol 10%) 0.8 1.6 
-Global Migration  Test (Distilled  Water Simulant)  0.5 1.2 
-Global Migration  Test (Acetic Acid Simulant)  1.0 1.0
+algo-Crespo,  F.X. Jervis and C.M. Moreira et al. / Procedia CIRP 90 (2020) 49–54 
+use plastics  ( PlasticsEurope,  2018 , Xanthos  and Walker,  2017 ), such 
+as expanded  polystyrene  (EPS) which represents  6.26% of all the 
+plastic waste in the country.  
+EPS is an excellent  material  for packaging  and construction,  be- 
+cause of its light weight,  rigidity,  highly desirables  insulation  prop- 
+erties and shock resistance.  On the other hand, polystyrene  is very 
+stable and extremely  hard to degrade  in the environment  after dis- 
+posal ( Ho et al., 2018 ). One study on life cycle analysis  concludes  
+that to produce  1.716 g of EPS, 87.47 mg of CO 2 are released  in the 
+atmosphere  ( Tan and Khoo, 2005 , Leejarkpai  et al., 2016 ). 
+The city hall of Guayaquil,  aims to regulate  the manufacture,  
+trade (of any type), distribution  and delivery  of single-use  plastics.  
+Within  this ordinance,  the manufacturers  of single-use  EPS items 
+must change  the formula  in their process,  to a new formula  or 
+product  agreeing  with any of the following  options:  1) products  are 
+100% biodegradable,  2) 70% of total product  mass comes from recy- 
+cled materials  and 3) using other reusable  materials  in the lapse of 
+30 months  ( Ecuador.  Autonomous  Decentralized  Government  Mu- 
+nicipality  of Guayaquil,  2018 ). In concordance  with the local ordi- 
+nance are international  regulations  that the country  needs to ac- 
+complish.  For example,  in July 2019, the Associated  States of the 
+Paciﬁc Alliance,  from which Ecuador  is a new member,  referred  to 
+the importance  of developing  new policies  to promote  the integral  
+management  of waste and reducing  the production  of single-use  
+plastics  ( Ecuador.  Autonomous  Decentralized  Government  Munici-  
+pality of Guayaquil,  2019 ). 
+Importantly,  Guayaquil  is the city with highest  plastic manufac-  
+turing, according  to the Ecuadorian  Plastic Associantion  (ASEPLAS),  
+64% of the 600 companies  nationwide  are localted  in this impor- 
+tant and this single industry  generates  more than 19,0 0 0 direct 
+and 120,0 0 0 indirect  jobs ( Magazine,  20 08 ). Furthermore,  nation-  
+wide EPS container  manufacturers  do not comply  with any of the 
+three choices  the city hall ordinance  has set as acceptable.  This is 
+the main reason why EPS item producer  ´s opinion  is that the local 
+ordinance  could harm the industry  in its production  processes  and 
+risk the stability  of many workers.  
+Thus, the following  question  arises: what strategy  should plastic 
+manufacturing  companies  follow to survive  in this new local eco- 
+friendly  environment?  
+One contributing  solution  is shifting  from a linear economy  to 
+a circular  economy  in single-use  items production  by means of 
+reusing  and recycling  expanded  polystyrene  products.  Manufactur-  
+ers already  reuse their scrap as part of their production  process  
+(between  30 to 40%), so if they add post-consume  resin as raw ma- 
+terial, they could achieve  the 70% recycled  material  objective  set by 
+the municipality.  
+This study focuses  in giving feasible  options  to the single-use  
+plastic manufacturers  to redesign  their products,  so they can in- 
+crease the use of recycled  (post-consume)  material;  applying  the 
+concept  of circular  economy  to strengthen  their competitiveness  
+and supporting  resource  sustainability.  
+For this purpose,  the linear typical economy  and circular  econ- 
+omy proposal  set by the authors  are presented  in the methodology  
+( Section  2 ). The process  description  to obtain the recycled  resin 
+from post-consume  containers  effectuated  by the manufacturer  is 
+then presented.  Production  of new recycled  containers  and labo- 
+ratory test values are presented  in the results ( Section  3 ). Finally,  
+conclusions  and discussion  are presented  in Sectons  4 and 5 . 
+2. Methodology  
+The prevailing  linear economic  system  in local plastic manufac-  
+turers accumulates  waste, while depleting  natural  resources.  Limi- 
+tations  of natural  resources  and a growing  world population  have 
+set the idea of a circular  economy  in the focus of research,  industry  
+and politics  in recent years ( Spierling  et al., 2018 ). Fig. 1. Linear economy  EPS cycle. 
+2.1. Linear economy  EPS production  cycle 
+Plastic is present  everywhere,  every day; either as a raw ma- 
+terial or as ﬁnished  product.  As a result, plastic is a continuous  
+growing  industry.  Indeed,  its sales has reﬂected  a steady growth  of 
+about 9% in the period from 2014 to 2018 ( Mativenga  et al., 2017 ). 
+This industry  has made rapid progress,  since plastic is an element  
+used in different  sectors.  In addition  to being the main raw mate- 
+rial, it is a product  on which many other processes  depend.  It is 
+estimated  that between  70 to 80% of necessary  plastic is supplied  
+by local industries  ( Magazine,  2008 ), only importing  highly spe- 
+cialized  plastic products  or in large volumes.  Nevertheless,  most 
+residues  end up in landﬁlls,  culminating  a linear economy  and af- 
+fecting  the environment.  Fig. 1 shows the current  linear economy  
+to manufacture  EPS products  in the country.  Next, each of the steps 
+presented  in the scheme  of EPS lineal economy  cycle will be ex- 
+plained  in detail. 
+2.1.1. Raw material  
+According  to ASEPLAS,  the import  of plastic resins reached  381 
+thousand  tons in 2017 ( Magazine,  2008 ). Plastic companies  acquire  
+almost all its raw material  from abroad,  because  there is no local 
+petrochemical  industry  that can produce  in large volumes  to meet 
+the demand  of national  industries.  Futrthermore,  plastic companies  
+in Ecuador  make no-effort  s to obt ain raw materials  from recycling  
+of EPS waste and don ´t attempt  to ﬁnd alternative  materials,  given 
+that EPS is very ingrained  in the culture  of society.  
+2.1.2. EPS product  manufacture  and Scrap reuse/reprocess  
+In an attempt,  to reduce the use of “virgin resin” residues  from 
+the manufacturing  process  are collected  (scrap)  for reuse. For this 
+purpose,  the raw material  in the form of a mix of “virgin” and  
+“scrap” resin  pellets,  enters the manufacture  process  to obtain ex- 
+panded  polystyrene  products,  such as: dishes,  plates, drink con- 
+tainers.  Also, residues  from this process  are collected  in the form 
+of scrap for later treatment  and reuse. The latter tries to avoid 
+residues  within the boundaries  of the company.

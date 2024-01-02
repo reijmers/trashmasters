@@ -1,0 +1,50 @@
+ation and intelligent robotics in value chain of circular economy
+oriented waste management – A review
+R. Sarca,⇑, A. Curtisa, L. Kandlbauera, K. Khodierb, K.E. Lorbera, R. Pombergera
+aDepartment of Environmental and Energy Process Engineering, Chair of Waste Processing Technology and Waste Management, Montanuniversitaet Leobe n, Franz-Josef-Straße 18,
+A-8700 Leoben, Austria
+bDepartment of Environmental and Energy Process Engineering, Chair of Process Technology and Industrial Environmental Protection, Montanunivers itaet Leoben,
+Franz-Josef-Straße 18, A-8700 Leoben, Austria
+article info
+Article history:Received 28 March 2019Revised 18 June 2019Accepted 21 June 2019
+Keywords:
+DigitalisationIntelligent roboticsWaste management
+Circular economy
+Industry 4.0Internet of ThingsReWaste4.0Waste treatmentSmart waste factoryabstract
+The general aim of circular economy is the most efﬁcient and comprehensive use of resources. In order to
+achieve this goal, new approaches of Industry 4.0 are being developed and implemented in the ﬁeld of
+waste management. The innovative K-project: Recycling and Recovery of Waste 4.0 - ‘‘ReWaste4.0 ” deals
+with topics such as digitalisation and the use of robotic technologies in waste management. Here, a sum-
+mary of the already published results in these areas, which were divided into the four focused topics, is
+given: Collection and Logistics, Machines and waste treatment plants, Business models and Data Tools.Presented are systems and methods already used in waste management, as well as technologies that have
+already been successfully applied in other industrial sectors and will also be relevant in the waste man-
+agement sector for the future. The focus is set on systems that could be used in waste treatment plants ormachines in the future in order to make treatment of waste more efﬁcient. In particular, systems whichcarry out the sorting of (mixed) waste via robotic technologies are of interest. Furthermore ‘‘smart bins”
+with sensors for material detection or level measurement, methods for digital image analysis and new
+business models have already been developed. The technologies are often based on large amounts of datathat can contribute to increase the efﬁciency within plants. In addition, the results of an online market
+survey of companies from the waste management industry on the subject of waste management 4.0 or
+‘‘digital readiness” are summarized.
+/C2112019 Published by Elsevier Ltd.
+Contents
+1. Introduction ......................................................................................................... 4 7 7
+1.1. Status and development of municipal waste management in the EU . . .............................................................. 4 7 7
+1.2. Digitalisation and intelligent robotics as modern tools for development . . . . . . . . . . ......................................... 4 7 8
+1.3. Digitalisation and intelligent robotics in the value chain of circular economy oriented waste management. ...................... 4 7 9
+2. Materials and methods . . . . . . . ......................................................................................... 4 7 9
+3. Results and discussion . . . . . . . . ......................................................................................... 4 8 0
+3.1. Waste collection and logistics . . . . . . . . . ............................................................................ 4 8 1
+3.1.1. Smart bins and level measurement . . . . . . . . . ................................................................. 4 8 1
+3.1.2. Vehicles . . . . . . . . . . . . . . . ................................................................................. 4 8 2
+3.1.3. Routing . . . . . . . . . . . . . . . ................................................................................. 4 8 2
+3.1.4. NFC/RFID tags in products and trash button. . ................................................................. 4 8 2
+3.2. Machines and waste treatment plants. . . ............................................................................ 4 8 2
+https://doi.org/10.1016/j.wasman.2019.06.035
+0956-053X/ /C2112019 Published by Elsevier Ltd.Abbreviations: BIM, Building Information Modelling; BM, Business Models; CL, Collection and Logistic; CNN, Convolutional Neural Networks; DACH-region, ‘‘Germa ny-
+Austria-Switzerland-Region”; DT, Data Tools; EMS, Electromagnetic Sensor; EPC, Engineering, Procurement and Construction; GI, General Informa tion; HMI, Human Machine
+Interface; ICT, Information- and Communication-technology; IoT, Internet of Things; LIBS, Laser Induced Breakdown Spectroscopy; MIR, Mid-infra red; MP, Machine and
+Plants; M2M, Machine-to-Machine; NFC, Near Field Communication; NIR, Near-Infrared; PCNN, Pertained Convolutional Neural Networks; PMPG HW, Pap er, Metal, Plastic
+and Glass household waste; RFID, Radio-Frequency Identiﬁcation; SWFN4.0, Smart Waste Factory Network; VIS, Visible; XRF, X-Ray-Fluorescence; XR T, X-Ray-Transmission.
+⇑Corresponding author.
+E-mail address: renato.sarc@unileoben.ac.at (R. Sarc).Waste Management 95 (2019) 476–492
+Contents lists available at ScienceDirect
+Waste Management
+journal homepage: www.elsevier.com/locate/wasman
