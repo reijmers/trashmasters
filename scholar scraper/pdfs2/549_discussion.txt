@@ -1,0 +1,26 @@
+The results make it possible  to formulate  several  considerations  
+that are useful in understanding  how to design policies  to promote  
+the overall eﬃciency  and cost-effectiveness  of waste management  
+systems  while meeting  environmental  objectives.  It is also essential  
+to focus policies  on the sector’s  infrastructural  capacity  by select- 
+ing and promoting  different  waste management  facilities  according  
+to the current  situation.  
+We have used a simulation  based on empirical  data to answer  
+the proposed  RQs. First, in response  to RQ1, there is an imbalance  
+in plant equipment  in the Italian regions,  and we calculate  this im- 
+balance  for each plant type. Second,  in response  to RQ2, we esti- 
+mate the economic  impact  of convergence  toward  the frontier  of 
+eﬃciency.  Speciﬁcally,  the viability  of the investments  needed  to 
+implement  an industrial  policy that involves  the reprogramming  of 
+waste management  facilities  could be facilitated  by the potential  
+savings  achieved  through  optimal  allocation  of plants. These an- 
+swers to the research  questions  are highly signiﬁcant  because  we 
+provide  useful evidence  for policymakers,  who can use our results 
+to support  industrial  and environmental  policy to maximize  the ef- 
+ﬁciency  of the waste management  system  and its compliance  with 
+circular  economy  goals. 
+In light of the results of our econometric  analysis,  it is appro- 
+priate to consider  MBT, given its impact  on the cost of waste man- 
+agement  services.  A 1% increase  in waste treated  by MBT facilities  
+increases  the cost of the waste management  service  by €1.215 per 
+1079

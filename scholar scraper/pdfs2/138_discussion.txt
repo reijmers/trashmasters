@@ -1,0 +1,30 @@
+The results obtained are promising with regard to the purity of the sorted waste
+fractions, as the purity in almost all separated materials clearly exceeded the original
+expectations with values up to 100%. However, the results for waste recovery were not
+so successful as there were certain proportions where only 13% of recovery (textiles) (or
+even less for aluminum) was achieved. The difﬁculties identiﬁed leading to these results
+are related to the different composition and morphology of municipal waste compared
+to construction and demolition waste, resulting in lower detection and therefore lower
+sorting performance.
+In addition, some challenges for the use of robots could be identified. A high-performance
+communication data network is required that can be optimized by a 20 Mb/20 Mb data
+network. For long waste pieces (e.g., textiles, foils, paper and cardboard) there are also
+difficulties in the gripping process. The unstable inflow of waste is also a challenge that can be
+solved with a measuring sensor. Finally , there is the problem of multi-layer and non-uniform
+distribution of waste over the conveyor belt, which must be eliminated by adjusting the speed
+conveyor and redesigning the robotic waste feeding system [4].
+To date, the ZRR2 has achieved an average purity of 97% for all 13 waste streams
+tested. Figure 5 shows the general results and the ﬁndings from the robot tests. In addition,
+some measures have been identiﬁed that could improve the results of the robot sorting,
+e.g., weekly updating of the sorter, mechanical modiﬁcation of the plant, improvement
+of the software gripping strategy and adaptation of the waste sorting process, such as
+the installation of a roller chute to support waste during the disintegration process, or
+the redirection of part of the bulky waste stream (mainly closed bags) into the plant inlet,
+which also reduces the amount of waste the robot has to process.
+To our knowledge, this is the ﬁrst scientiﬁc publication that presents empirical data on
+the use of an AI-based robotic sorting system for mixed municipal waste, a comparison with
+other robot systems should be the next step to validate these results. Further tests should
+also investigate how the efﬁciency of recovery can be increased, by optimizing the process
+parameters of the waste disposal plant, e.g., adjustment of the speed belt, distributor
+belt and hopper arrangement. The main difﬁculties observed during the operation of
+the robot were associated with the different composition and morphology of municipal

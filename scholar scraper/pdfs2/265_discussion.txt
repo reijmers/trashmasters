@@ -1,0 +1,123 @@
+Our study demonstrates how DEA can be used for the aggrega-
+tion of individual single indicators used in the MSW sector, or indi-
+cators monitoring the transition to a more circular economy, with
+indices capturing social factors, in order to construct environmen-
+tal and circular economy performance measures. These measures
+are not intended to substitute the traditional single indices, but
+to complement them, offering a deeper insight on the countries’
+performance.
+It is noteworthy, that a major advantage of DEA is that it applies
+the ‘‘beneﬁt of the doubt approach”. This is manifested by the use
+of a maximization function and the attribution, endogenously, of
+weights to each variable, so as to reveal the maximum overall per-
+formance for each country. Moreover, DEA will not recognize anefﬁcient unit as inefﬁcient. In addition, the endogenous attribution
+of weights, for any country and any indicator, ensures that this
+method is not subject to speciﬁc normative preferences, which is
+a concern when constructing composite indicators by other tech-
+niques. Therefore, countries cannot claim that a poor relative per-
+formance is due to a harmful or unfair weighting scheme. The
+resulting ranking of the EU countries, with respect to these mea-
+sures, can be a valuable tool for policymakers. By recognizing the
+most efﬁcient countries, their best practices can be learnt and
+adopted by the inefﬁcient ones, in order to improve not only
+MSW management, but also the cyclicality of their economy, both
+at a national level and for EU as a whole.
+Our models for both years, showed that the vast majority of
+countries in the sample do not perform well, although, on average,
+EU(26) has shown improvement both in environmental and circu-
+lar economy performance. The performance gaps between the efﬁ-
+cient and less efﬁcient countries are signiﬁcant, suggesting that the
+latter countries have the potential for large improvements. There-
+fore, inefﬁcient countries should learn from the waste policy and
+sustainable materials management, implemented by those identi-
+ﬁed as efﬁcient, like Belgium. As an example, the waste policy of
+Belgium includes a mix of instruments, like subsidies, awareness
+raising campaigns, levies, recycling fees, landﬁlling and incinera-
+tion bans etc. It is also worth noting that the ‘‘polluter pays” prin-
+ciple is ﬁrmly embedded in the Belgian waste management policy.
+Even households are charged, based on the volume or weight of
+their waste, while tariffs are differentiated, so that mixed house-
+hold waste is more expensive to discard than selectively collected
+waste ( inno4sd.net, 2019 ). In addition, Belgium has a dense net-
+work of reuse shops, while the state subsidizes those municipali-
+ties that launch waste prevention initiatives ( UN, 2019 ).
+It should be noted that a limitation of DEA is its inability to offer
+a prediction model of the country’s maximum performance, sincesuch a theoretical maximum cannot be determined ( Othman
+et al., 2010 ). This happens because the performance scores are rel-
+ative and based on the speciﬁc dataset. However, this means that
+even the countries that have been revealed as efﬁcient, have plenty
+of room for improvement. This fact is recognized by the policymak-
+ers of Flanders, Belgium. Despite of their up-to date success, they
+are pushing forward an ambitious waste prevention program, aim-
+ing at a notable reduction in household waste to 116–258 kg, per
+inhabitant per year, by 2022, depending on each municipality’s
+socio-economic factors ( European Environmental Agency, 2016 ).
+A ﬁnal limitation of the DEA technique is its sensitivity to the
+presence of outliers, due to its inherent determinism. However,
+no outliers were observed in our particular data set, as evidenced
+by the descriptive statistics of the inputs and outputs. If such
+countries-outliers had been observed, they would have been
+excluded from the analysis.
+Our input/output models are far from perfect. However, accord-
+ing to our opinion, they meet at least four of the ﬁve RACERrequirements for indicators i.e. the criterion of relevance, accept-
+ability, credibility, easiness and robustness ( Srebotnjak et al.,
+2009 ). Also, we believe they meet the criterions suggested in the
+European Commission‘s Impact Assessment Guidelines ( EC,
+2009 ). According to these Guidelines, a scientiﬁc tool must be
+robust (not easily manipulated) and relevant (closely linked to
+the objectives to be reached). It is our view that our DEA based
+frameworks are robust, in the sense that all DMUs (countries) are
+assessed upon the same set of inputs and outputs, which are mea-
+sured on a quantitative basis using data obtained from ofﬁcial
+sources. Moreover, since the overall objective is to measure rela-
+tive environmental and circular economy performance, we feel
+that this framework is certainly relevant, since it provides an efﬁ-
+ciency score for each country, expressing its performance in com-
+parison to other countries. Results have a clear interpretation andare easy to comprehend even by non-experts. The proposed DEA
+models are easy to apply and provide the efﬁciency scores for all
+countries in negligible time. All these aspects make this evaluation
+framework a versatile tool for monitoring the performance of each
+country in comparison to others and for identifying policy
+objectives.
+Finally, we should note that limitations of available data and
+indicators introduce an element of uncertainty when comparing
+across countries since the results of any model incorporating sta-
+tistical data depend on their reliability and comparability.
+Although a fairly high degree of comparability between countries
+has been already achieved for the
+EC (2016) , any improvement
+and harmonization in the statistical reporting by the EU countries
+(Eurostat, 2017 ) would be beneﬁcial for any comparative analysis.
+6. Conclusions
+Summing up, the results of our study show that there are large
+disparities among EU countries, with respect to their environmen-
+tal and circular economy performance. Interestingly though, the
+borders between Western and Eastern Europe, but not between
+the north and the south, have fallen: old EU members, such as
+Spain or France, perform signiﬁcantly worse, both from an environ-
+mental and a circular economy perspective, than newer member
+states such as Slovenia or Poland, while southern countries like
+Cyprus and Greece remain among the worst performers, with
+respect to both performance measures.
+At the same time, while countries like Denmark or Finland seem
+to be committed for the present to incineration, other countries
+like Slovenia have the potential to rise among the top environmen-
+tal and circular economy performers, by exploiting the lack of such
+commitments, further reducing waste generation levels, increasingrecycling and transforming their industrial methods in order to
+better exploit recyclable materials. Finally, with regards to the
+results of the present study, Belgium emerges as the best environ-
+mental and circular economy performer, surpassing Germany and
+the Netherlands, despite their achievements in MSW recycling.
+Future achievements in environmental and circular economy
+performance can go hand in hand with the improvement of a coun-
+try’s social progress and create a kind of positive feedback loop.
+The shift towards a circular economy has the potential to boost
+economic growth by promoting innovation, creating more jobs
+and enhancing economic competitiveness. In turn, the positive
+economic and social advances, depicted by a higher social progress
+index, can be substantiated into more efﬁcient waste management
+and can be used to strengthen the shift of the economy, since, as
+we discussed earlier, a higher Social Progress index is connected
+to stronger pro-environmental attitudes and stimulated social
+activity, factors that are necessary for achieving better results in
+environmental and cyclical economy performance.188 O. Giannakitsidou et al. / Waste Management 109 (2020) 181–191

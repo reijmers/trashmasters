@@ -1,0 +1,20 @@
+In this section, we discuss the future of MSW managementin Nigeria. In the first part, the theoretical quantities of
+urban solid waste to be generated in Nigeria in the future
+were calculated and discussed, while in the second part we
+discuss the prospects for circular economy adoption.Future projections of solid waste generation
+and collection rates in Nigeria
+Many socio-economic parameters influence the quantity of
+waste generation in cities. But the most accepted general
+factors sensitive to making projections are; the city ’s pop-
+ulation, population growth index, and per capita waste
+generation [64]. Nigeria ’s total population P 20XY, (current
+and future year) is calculated with the model given as:
+P20XY/equalsP2006(1+r/slashbig100)20XY −2006(1)
+where P 2006= 140,431,790 (2006 population census ﬁgure);
+r=3.2 (annual population growth index, which is a national
+value) [55],
+The urban population for the current/future year is
+calculated with the model:
+Figure 3: (A) Projected growth in the urban and total population in
+Nigeria from 2020 to 2040. (B) Current and Projected quantities of
+solid waste generated/collected in Nigeria.Ezeudu et al.: Municipal solid waste management in Nigeria 11

@@ -1,0 +1,124 @@
+Whilst all of the cases exhibited novel approaches to the CE for san-
+itation and potential pathways to achieve it, there are dif ﬁculties with all
+of them. Despite varying business models, ﬁnancial viability was not
+achieved, and issues with collection of waste, marketing and acceptance
+of products were found. This contrasts with other quantitative studies
+that have often given projected a much larger ﬁnancial contribution of
+re-use in sanitation ( Diener et al., 2014 ;Ddiba, 2016 ). Overall, from
+the case studies, a series of social and technical changes and transforma-
+tions are needed to enhance CE for sanitation, which we map here onto
+the socio-technical change model, as shown in Table 4 and explained
+below. The framework distinguishes between changes across four do-
+mains with corresponding, indicative time spans: 1) operational and
+management issues include aspects that can continuously be changed,
+such as a regulator changing prices or a shift in the way infrastructure
+is run; 2) governance level changes happen at medium timescale of 1
+to 10 years and include aspects such as decisions to develop new infra-
+structure or amendments in contracting procedures; 3) changes in the
+institutional environmental tend to take decades to be realised and in-
+clude shifts in established policy trajectories or technical design stan-
+dards taught in engineering schools; 4) and, ﬁnally, at the longest
+timeframe changes in embedded and structural domains may take cen-
+turies to be realised, and include aspects such as changes in social norms
+or transformative shifts in technology. A key idea is that changes in each
+domain, whether intentional or emergent, cascade upward and down-
+wards to in ﬂuence each other in what can be unpredictable ways
+(Williamson, 2000 ;Bauer and Herder, 2009 ). One signi ﬁcant implica-
+tion is that large scale socio-technical systems cannot simply be
+redesigned in a controlled manner, even by national governments, as
+many processes of change will have deep seated trajectories beyond
+any reasonable planning framework. We therefore adopt this thinking
+to help us unpack the multi-dimensional and often unplannable changesthat need to occur for large-scale socio-technical transformation to
+occur and assess our results in that context.
+4.1. Operation and management
+The current set of incentives lead to day-to-day decisions that affect
+the success of CE for sanitation. A lot of these issues can be subject to
+quick changes, such as adjusting disposal fees. The intersecting eco-
+nomic incentives of ﬁnes, tipping fees and transport costs do not lead
+to a suf ﬁcient incentive for central collection in cities and instead
+waste is disposed elsewhere. This issue of illegal disposal has been
+seen across different cities in the developing world ( Holm et al.,
+2015a ;Peal et al., 2015 ). From a CE point of view, illegal disposal causes
+systems to operate under capacity, meaning that the economics of re-
+source recovery are not suf ﬁcient to drive repairs or improvements of
+the system. Policies and adjustments to fees and subsidies that account
+for this trade-off could lead to an increased centralised collection and
+raise the potential of CE for sanitation. Another major issue in the tech-
+nical subsystem is the quality of waste that can be collected, that is how
+much segregation there is between organic and plastic waste. The adap-
+tation of Nashik treatment plant to take food waste from hotels instead
+of municipal solid waste is an example of a short-term operational
+change that can be taken to solve this issue, but the impact of this is
+not clear yet.
+4.2. Governance
+There are institutional choices that affect the operations of CE sys-
+tems but would require longer term decisions and planning. The process
+of designing, contracting and siting treatment systems combines both
+social and technical factors and has a large in ﬂuence on the operational
+issues of the intersecting incentives of transport and disposal costs. As a
+technical shift to the system, there is also the increasing generation of
+sludge that comes from the rapid expansion of sanitation access thatTable 3
+Economics of case studies.
+Case Capital
+costs ($)Operating costs of
+compost production($ per tonne)Sale price
+($ pertonne)Money saved on
+electricitygeneration ($/year)
+Devanahalli 120,000 Unable to obtain 93 n/a
+Dharwad ~0 ~0 13 n/a
+Hyderabad 13 Million 42 –48 42 –47 72,300
+Nashik 1.12 Million Unable to obtain 33 –42 54,000
+Puducherry 18,800 60.82 79 –105 n/aTable 4
+Framework of barriers to Circular Economy Sanitation (adapted from Bauer and Herder,
+2009 ;Williamson, 2000 ).
+Domains and time scale
+(indicative)Social subsystem Technical subsystem
+Operation and
+management
+Continuous
+adjustments•Disposal fees and ﬁnes
+•Transport cost for
+emptiers•Amount of waste gener-
+ated and collected
+•Level of segregation of
+waste streams
+•Fertiliser demand
+GovernanceChanges over years,design of ef ﬁcient
+governance regime•Enforcement of ﬁnes
+•Contract process for
+implementing FSTPs
+•Integration of waste
+management
+•Knowledge/Education
+about sustainableproducts•Design and siting of treat-
+ment systems
+•Certiﬁcation and integra-
+tion of CE products intosubsidy scheme
+•Policies promoting large
+adoption of sanitationtechnology creating newwaste source
+Institutional
+environment
+Changes over decades,design of overall
+institutional setting•Jurisdiction of who is
+rural vs urban
+•Energy and agricul-
+ture policy
+•Streamlining of plan-
+ning process
+•Emphasis on addi-
+tional systemcomplexity•Standards and emphasis
+on sewers or non-seweredsanitation
+•Pragmatism vs high stan-
+dards
+•Climate change
+•Agricultural productivity/-
+Soil health
+•Modularity of technology
+•Rural-urban migration
+•Demographic shifts
+Embeddedness
+Changes over centuries,often non-calculative oreven spontaneous•Perception of FS Use
+•Caste system
+•Transformation of
+political systems•Technology Innovation
+and Large-Scale Change8 A. Mallory et al. / Science of the Total Environment 744 (2020) 140871

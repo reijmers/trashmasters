@@ -1,0 +1,41 @@
+The analysis, evaluations, and ideas presented in this article aimed to determine the
+level at which the system of indicators that are used in the Monitoring Framework for the
+Transition to the Circular Economy are relevant, robust, and precise. At the same time,
+the need for the current system of indicators to be completed in the current phase of
+initiation and preparation for accelerating the transition process was explored.
+The EU Framework contains a limited set of indicators, despite the large number of
+indicators put into discussion, proposed, or analyzed. The main barrier in expanding the
+set of indicators towards other important processes of circular economy consists of the lack
+of sufﬁcient relevant and measured data [100–102].
+There is a quite low level of engagement of the companies, whatever their size, ﬁeld
+of activity, and turnover in a circular assessment process, as the reports show [ 102–106].
+Based on an extensive literature, having as object the elaboration and use of indicators
+for monitoring the transition process, the indicators included in the current monitoring
+framework were analyzed from the point of view of the representation of the transition
+policy and strategy, of the actions included in the action plan, transition, and the results
+of these actions. Corresponding to the circularization of the economy, the phrase “supply
+chain” must be replaced by the “supply cycle”, characterized by inputs, outputs, storage,
+and recirculation [107].
+It was observed that the limitation of the current monitoring framework is only to
+the aspects related to the conservation of material resources (using indicators similar to
+those in the analyzes of the evolution of sustainable development), even if some indirect
+indicators try to complete the determination between a circular economy and sustainable
+development. This observation allows the conclusion that, at the current stage, only the
+narrow deﬁnition of the circular economy applies.
+Even if it is found that the developed macro indicators can be disaggregated by priority
+sectors, and within them by groups of materials or at regional level, company, and even
+below, there are difﬁculties in correlating them with speciﬁc indicators that apply at the
+micro-economic and meso-economic level [108–111].
+Speciﬁcally, the system of indicators used at the macro scale does not take into account
+the speciﬁc composition of the materials. It allows only a global assessment, in broad cate-
+gories of raw materials and constituent materials of products. At the level of each product
+and organization, there must be an intimate breakdown, based on rigorous material lists
+speciﬁed by the manufacturers of the products and their components, into basic materials
+and raw materials [ 112,113]. The life cycle analysis and the index (composite) of material
+circularity must be available on the regenerative portion of the economy, for the intimate
+highlighting of the stocks in use, as well as for the decomposition/recycling activities. Col-
+laboration between material processors, product manufacturers, and waste management
+organizations must be extensive, using new methods (blockchain, Big Data) [114–117].
+Currently, the methodologies used to aggregate circularity indicators, broken down
+into all the main components of the product cycle, at the level of product, service,
+or company, are developed, but their approaches are dependent of the region/country and

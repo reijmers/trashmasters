@@ -1,0 +1,23 @@
+The results of the tests described in the previous section are reported in Figures 9–13
+showing the sound absorption coefﬁcient aand the transmission loss TLobtained by means
+of the impedance tube measurements. For each sample, the NRC has been calculated
+and reported in Table 2.
+Table 2. NRC of the samples tested in this paper.
+Sample 3 22 4 5 7 8 13 14 17 26
+NRC 0.49 0.45 0.56 0.48 0.54 0.60 0.45 0.44 0.58 0.84
+Sample 27 28 29 30 32 33 34 35 36
+NRC 0.69 0.64 0.71 0.69 0.52 0.46 0.45 0.38 0.37
+Figure 9 shows that, for samples 03 and 22, the most interesting sound insulation
+performance was given by sample 22, with a TLfollowing the mass law up to 800 Hz
+and then a behavior typical of double walls, with a coincidence frequency around 1800 Hz.
+Sample 03 was not able to reach the same performances. As regards the absorption
+coefﬁcient, it was characterized by wide peaks at given frequencies due to holes in the egg-
+cardboard behaving like Helmholtz resonators. In the case of sample 03, the peak around
+700 Hz was very wide due to the presence of sound absorbing polyester ﬁbers inside
+the main volume. This result suggests that to reach a good TLit was important to arrange
+the egg boxes upside down, but they still had to be coupled with other materials to improve
+their performances. The presence of the holes improved the absorption characteristics.
+Figure 9. Transmission loss ( a) and absorption coefﬁcient ( b) of samples made of at least on egg-box
+and polyester.
+Figure 10. Transmission loss ( a) and absorption coefﬁcient ( b) of samples made of egg-box, cardboard,
+polyester and a metallic element.

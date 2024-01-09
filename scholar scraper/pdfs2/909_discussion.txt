@@ -1,0 +1,10 @@
+3.1. MCI Calculation
+Results from the MCI calculations for various product types are presented in Table 2 .
+A graphical comparison of the calculated MCI for PET, PE, PP , ﬁlm, and mix washed and
+milled products produced from MSW and separate waste collection is presented in Figure 5 .
+For MSW washed and milled goods, the highest calculated MCI was for PE goods with
+a MCI of 0.84, followed by PP , PET, ﬁlm and mixed goods with MCIs of 0.8, 0.78, 0.71,
+and 0.62, respectively. On the other hand, for separately collected washed and milled
+goods, the highest calculated MCI was for PP washed and milled goods with a calculated
+MCI of 0.86, followed by PET, PE, mix, and ﬁlm goods with MCIs of 0.82, 0.81, 0.8, and
+0.78, respectively.

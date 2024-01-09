@@ -1,0 +1,53 @@
+s 
+5.1. Deterioration analysis 
+Improvements in understanding the stages of deterioration allow 
+retailers to classify F&V into the perfect, intermediate, imperfect, and 
+disposable categories. 
+The analyses of these findings – considering the technological ad-
+vances – suggest that deterioration within supermarkets could be iden-
+tified using cameras mounted on ceilings or shelves, as well as by odour 
+sensors (IoT). Accordingly, sensors (or other similar devices) should be 
+developed/adapted to capture the image/odour of each type of F&V and 
+its variation throughout the day. Such technological advances 
+contribute to the establishment of support systems that guide and 
+monitor practices ’ transformations into sustainable, suitable, and low 
+pollution (Khan et al., 2020 ; Song et al., 2019 ). 
+The information gathered should be stored in a database (thus 
+generating a Big Data). AI and ML could then use this information to 
+predict F&V’s remaining time before a transformation to the next 
+deterioration stage. This study contributes to the field by indicating how 
+these new technologies could enhance environmental sustainability 
+(Arunraj and Ahrens, 2015 ; Dubey et al., 2016 ; Jagtap and Rahimifard, 
+2019 ; Manita et al., 2020 ) or support decision-making (Fosso Wamba 
+et al., 2015 ; Jagtap and Rahimifard, 2019 ; Manita et al., 2020 ). Since 
+F&V degradation is a common problem for all retailers, supermarket 
+managers could develop joint actions with their competitors. These ac-
+tions could begin with a series of presentations to large supermarkets in 
+which the issue is identified and explained, and start-ups could be 
+informed of the problem in order for them to develop the appropriate 
+technology. We would therefore suggest that future studies on 
+large-scale group decision-making in uncertain environments could also 
+focus on the suppliers of technology (Tirkolaee et al., 2020 ), as well as 
+how to promote sustainable value innovation in the supply chain 
+(Shakeel et al., 2020 ). 
+5.2. Prices 
+Understanding the stages of deterioration opens space for super -
+markets ’ price policies to be reviewed, especially since some customers 
+are willing to buy items that are not at the perfect stage (Coderoni and 
+Perito, 2020 ; de Hooge et al., 2017 ; McCarthy et al., 2020 ). Attractive 
+pricing creates options for furthering corporate sustainability (Tollin 
+and Christensen, 2019 ), enhancing an organisations ’ bottom line, and 
+can positively affect consumer (and societal) well-being (Hofenk et al., 
+2019 ; Painter-Morland et al., 2017 ; Schaltegger and Horisch, 2017 ). The 
+different price options between F&V items will encourage customers to 
+choose intermediate items voluntarily. This finding contributes to the 
+literature by indicating that differentiated pricing for F&V at the perfect 
+and intermediate stages successfully focuses on consumers ’ positive 
+traits, thereby encouraging their sustainable consumption and effective 
+purchasing choices (McCarthy et al., 2020 ; Song and Kim, 2018 ; Luchs 
+and Kumar, 2017 ; Panzone et al., 2016 ; Ross and Milne, 2020 ). 
+The findings also indicate that waste mitigation could be improved 
+through dynamic, deterioration-based pricing based. Alternatives to 
+such management include dynamic pricing based on item traceability 
+(Zhu, 2017 ) and analysis at the point of sale (Aschemann-Witzel et al., 
+2020 ). M. de Souza et al.

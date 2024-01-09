@@ -1,0 +1,14 @@
+Based on case studies,  two main roles of digital technologies  are 
+identiﬁed  as enabler  and trigger ( Nambisan,  2013 : 
+1) Digital technologies  as enabler:  how digital technologies  can fa- 
+cilitate  the development  of CE and improve  the collaborations  
+between  actors of its ecosystem?  
+2) Digital technologies  as trigger:  how digital technologies  can ini- 
+tiate or lead to innovation  processes  or outcomes  or associated  
+organizational  routines  and mechanisms?  
+By case studies,  we ﬁnd that the main functionalities  support-  
+ing these roles are data collection,  data exchange,  data storage  and 
+data analysis,  so they exist in each case study. However,  the differ- 
+ence is made by the data analysis  part that we can evaluate  more 
+deeply.  With the case ﬁndings,  we identiﬁed  data analysis  func- 
+tionalities  as Monitoring  product  location,  condition  & availability;

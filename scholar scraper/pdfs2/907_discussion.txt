@@ -1,0 +1,56 @@
+3.1. Solar Panel Composite Waste  
+In recent years, any government that acknowledges the need for a transition towards 
+a greener society, aversion from fossil fuels, and natural resource use, place renewable 
+energy source i nstallations as very high priority. EU strategies, such as the European 
+Green Deal (EGD), encourage this transition, setting clear goals for clean energy produc-
+tion and decarbonization of energy systems until 2050 as the energy sector accounts for 
+more tha n 75% of greenhouse emissions (GHGs) in the world. The goal of the EGD is the 
+decrease in GHGs at least by 50% by 2030 compared to 1990 and to reach carbon neutrality 
+by 2050 [18,21,22] . At the same time, the United Nations’ (UN’s) Sustainable Development 
+Goals (SDGs) and specifically SDG 7 for affordable and clean energy supp ort such logic, 
+aiming to stabilize energy security and the transition towards renewable energy. Addi-
+tional economic incentives are rapidly aligning towards green energy production encour-
+aging customers and governments to install solar panels, wind turbine s, etc. Even so, in 
+an industry where circularity solutions remain an issue concerning composite materials 
+integrated, for instance, in P/V panels, the large volume of waste after the end of life of 
+the panels results in severe disposal issues [23,24] . 
+Assuming the average lifespan o f P/V panels is around 25 years, the accelerated 
+growth of renewable energy use will also translate to accelerated end -of-life disposal is-
+sues of solar panels and extend to composite materials. Hitherto, solar panels have been 
+simply manufactured, commerci alized, used, and discarded in landfills [25]. In 2018, the 
+installation of P/V represented about 2% of the world’s electricity output [25], while ac-
+cording to Statista [26], the projection of P/V panel waste accumulation worldwide is es-
+timated to reach 1.7 million metric tons by 2030 and 60 million tons by 2050. Solar panels 
+vary in composition according to the manufacture r; however, they usual constitute of sil-
+icon solar cells; glass sheets; polymers, such as poly -methylmethacrylate (PMMA) also 
+known as plexiglass; as well as metal frames. Such diversity in their composition compli-
+cates their disposal and implementation of  circularity.  
+Figure 2. PRISMA statement of current study for recruitment of scientiﬁc records, reports, and articles.
+3. Results and Discussion
+3.1. Solar Panel Composite Waste
+In recent years, any government that acknowledges the need for a transition towards
+a greener society, aversion from fossil fuels, and natural resource use, place renewable
+energy source installations as very high priority. EU strategies, such as the European Green
+Deal (EGD), encourage this transition, setting clear goals for clean energy production and
+decarbonization of energy systems until 2050 as the energy sector accounts for more than
+75% of greenhouse emissions (GHGs) in the world. The goal of the EGD is the decrease
+in GHGs at least by 50% by 2030 compared to 1990 and to reach carbon neutrality by
+2050 [18,21,22] . At the same time, the United Nations’ (UN’s) Sustainable Development
+Goals (SDGs) and speciﬁcally SDG 7 for affordable and clean energy support such logic,
+aiming to stabilize energy security and the transition towards renewable energy. Additional
+economic incentives are rapidly aligning towards green energy production encouraging
+customers and governments to install solar panels, wind turbines, etc. Even so, in an indus-
+try where circularity solutions remain an issue concerning composite materials integrated,
+for instance, in P/V panels, the large volume of waste after the end of life of the panels
+results in severe disposal issues [23,24].
+Assuming the average lifespan of P/V panels is around 25 years, the accelerated
+growth of renewable energy use will also translate to accelerated end-of-life disposal
+issues of solar panels and extend to composite materials. Hitherto, solar panels have
+been simply manufactured, commercialized, used, and discarded in landﬁlls [ 25]. In 2018,
+the installation of P/V represented about 2% of the world’s electricity output [ 25], while
+according to Statista [ 26], the projection of P/V panel waste accumulation worldwide
+is estimated to reach 1.7 million metric tons by 2030 and 60 million tons by 2050. Solar
+panels vary in composition according to the manufacturer; however, they usual constitute
+of silicon solar cells; glass sheets; polymers, such as poly-methylmethacrylate (PMMA)
+also known as plexiglass; as well as metal frames. Such diversity in their composition
+complicates their disposal and implementation of circularity.

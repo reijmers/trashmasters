@@ -1,0 +1,61 @@
+The total subjective weights for the indicators is depicted in Figure 3, in which it can be seen
+that the environmental indicators have resulted as of the least concern. Previous ﬁndings [ 9] indicate
+that industry stakeholders prefer economic indicators, whilst municipalities consider environmental
+indicators as being more important. For this case study, recycling and landﬁll rates of MSW have
+yielded the lowest weighted values, whereas the economic indicators resulted in the highest weight
+values. Academic institutions are the most concerned with environmental indicators. The slightly
+higher value for the reduction of carbon emissions might be related to the fact that Birmingham is
+committed to reduce its carbon footprint by 60% by 2027 [55,58,59].
+Energies 2020 , 13, x FOR PEER REVIEW 22 of 29 
+  
+Figure 3. Subjective weight values for stakeholders.  
+An unexpected finding is the low subjective weight  for the Jobs creation indicator for the General 
+Public stakeholder (D). As mentioned by them during the interview: ‘(…) it’s not just about jobs creation, we need skilled jobs in the area, not si mple jobs (…)’. Conversely, the most important 
+indicators for the rest of the stakeholders were Investment cost and Payback. This reinforces the initial 
+expectations that the stakeholders’  conflicting viewpoints might be a barrier to cooperate and thus 
+reach the optimal scenario. The scenario that scored highest was NSP, followed by PR; MF was 
+ranked third and the FW scenario resulted as the lowest ranked of all (Figure 4). 
+ 
+Figure 4. Objective weight values for scenarios. 
+NSP also resulted as the most preferred scenario for all stakeholders (Figure 5). This is in line 
+with previous observations where 70% or their interviewed stakeholders ranked highest the most 
+sustainable performing composting plant site alte rnative [15]. However, the second most preferred 
+scenario varied between stakeholders. For exampl e: stakeholders A (Com panies) and D (General 
+Public) ranked MF, FW and PR in second, third and fourth places, respectively. This means that they 
+prefer a business-as-usual and a breakdown scen ario over a strong policy implementation. In 
+contrast, stakeholders B, C and E ranked PR, MF and FW in decreasing order. This suggested, before 
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0Investment cost
+GVA impact
+Payback
+Carbon emissions mitigation
+MSW generation reduction
+Recycling rate of MSW
+Landfill rate of MSW
+Jobs creation
+Public awareness and satisfaction
+A-Companies
+ B-Academic Institutions
+C-Local Government
+ D-General Public
+E-Consultants/Externals
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5MF
+PR
+NSP
+FW
+Investment cost
+ GVA impact
+Payback
+ Carbon emissions mitigation
+MSW generation reduction
+ Recycling rate of MSW
+Landfill rate of MSW
+ Jobs creation
+Public awareness and satisfaction
+Figure 3. Subjective weight values for stakeholders.
+An unexpected ﬁnding is the low subjective weight for the Jobs creation indicator for the General
+Public stakeholder (D). As mentioned by them during the interview: ‘( : : :) it’s not just about jobs
+creation, we need skilled jobs in the area, not simple jobs ( : : :)’. Conversely, the most important
+indicators for the rest of the stakeholders were Investment cost and Payback. This reinforces the initial
+expectations that the stakeholders’ conﬂicting viewpoints might be a barrier to cooperate and thus
+reach the optimal scenario. The scenario that scored highest was NSP , followed by PR; MF was ranked
+third and the FW scenario resulted as the lowest ranked of all (Figure 4).

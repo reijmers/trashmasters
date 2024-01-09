@@ -1,0 +1,64 @@
+3.1. Biowaste Theoretical Potential
+The food waste potential per inhabitant estimated for 2018 was 133 kg /inh. and it will gradually
+grow to reach 193 kg /inh. in 2050. In the analogous time interval, the indicator estimated for green
+waste varies in the range from 23 to 35 kg /inh. Figure 4. shows the potential of food and green waste
+until 2050.
+Energies 2020, 13, x FOR PEER REVIEW   8 of 20 
+ The parameters  used to determine  the potential  for electricity  and heat production  from biogas 
+generated  from OFMSW  (in cogeneration)  included:  the calorific value of methane  of 33 MJ∙m‐3 (9.17 
+kWh∙m‐3), the thermal efficiency  in cogeneration  of 43%, the electrical  efficiency  in cogeneration  of 
+38%, and the 90% availability  of facilities in a year [27,66]. 
+3. Results and Discussion  
+3.1. Biowaste Theoretical  Potential 
+The food waste potential  per inhabitant  estimated  for 2018 was 133 kg/inh. and it will gradually  
+grow to reach 193 kg/inh. in 2050. In the analogous  time interval, the indicator  estimated  for green 
+waste varies in the range from 23 to 35 kg/inh. Figure 4. shows the potential  of food and green waste 
+until 2050. 
+ 
+Figure 4. Biowaste  potential  in MSW in Warsaw.  
+The data for Europe as cited by Corrado and Sala indicate food wastage (in the entire supply 
+chain) in the range from 158 to 298 kg/inh. [9]. The data on food waste arising only in households  
+indicate that it is generated  e.g., at a rate of about 76.1 kg/inh. in Greece and that of 68.04 kg/inh. in 
+Hungary.  Higher food waste levels arising in households  can be found in the report [67], which states 
+that 113 kg/inh. is generated  in Europe, while the quantity in Poland is 112 kg/inh. The same report 
+states that the total generation  rate of biowaste  in Poland is 247 kg/inh. Because the collection  of green 
+waste in Warsaw was already at a high level of 78.5% in 2018, the development  of scenarios  of 
+biowaste  separate collection  in general will be determined  by the development  of food waste 
+collection.  In the analogous  years in scenario S2, the following  values will be achieved,  respectively:  
+26.9 kg/inh. (2020), 51.2 kg/inh. (2030), and 99.4 kg/inh. (2050); while in scenario S3 they will be: 27.5 
+kg/inh. (2020), 76.9 kg/inh. (2030), and 148.1 kg/inh. (2050). For example,  in Germany  in 2016, 148 
+kg/inh. of OFMSW  was collected,  of which over 93% was green waste. According  to statistics,  the 
+capture rate of green waste in Germany  is 78% and of food waste 56%. The highest collection  rates, 
+reaching  a total biowaste  capture rate of between 70–85%, are reported  for selected cities and regions: 
+Parma (Italy), Gratz (Austria)  and Lubljana  (Slovenia)  [51]. The average collection  level of biowaste  
+in the EU is about 50 kg/inh. [68]. 
+An analysis of the three scenarios  of separate biowaste  collection  presented  in Figure 5. indicates  
+that over the first 5 years the differences  in the mass of the OFMSW  collected  are slight, that only 
+after 2025 do the first differences  in capture rate appear between the scenarios  implemented  and that 
+after 2030 it can be clearly seen that scenario S2 strongly differs in terms of the development  pace 
+Figure 4. Biowaste potential in MSW in Warsaw.
+The data for Europe as cited by Corrado and Sala indicate food wastage (in the entire supply
+chain) in the range from 158 to 298 kg /inh. [ 9]. The data on food waste arising only in households
+indicate that it is generated e.g., at a rate of about 76.1 kg /inh. in Greece and that of 68.04 kg /inh. in
+Hungary. Higher food waste levels arising in households can be found in the report [ 67], which states
+that 113 kg /inh. is generated in Europe, while the quantity in Poland is 112 kg /inh. The same report
+states that the total generation rate of biowaste in Poland is 247 kg /inh. Because the collection of green
+waste in Warsaw was already at a high level of 78.5% in 2018, the development of scenarios of biowaste
+separate collection in general will be determined by the development of food waste collection. In
+the analogous years in scenario S2, the following values will be achieved, respectively: 26.9 kg /inh.
+(2020), 51.2 kg /inh. (2030), and 99.4 kg /inh. (2050); while in scenario S3 they will be: 27.5 kg /inh.
+(2020), 76.9 kg /inh. (2030), and 148.1 kg /inh. (2050). For example, in Germany in 2016, 148 kg /inh. of
+OFMSW was collected, of which over 93% was green waste. According to statistics, the capture rate of
+green waste in Germany is 78% and of food waste 56%. The highest collection rates, reaching a total
+biowaste capture rate of between 70–85%, are reported for selected cities and regions: Parma (Italy),
+Gratz (Austria) and Lubljana (Slovenia) [ 51]. The average collection level of biowaste in the EU is
+about 50 kg /inh. [68].
+An analysis of the three scenarios of separate biowaste collection presented in Figure 5. indicates
+that over the ﬁrst 5 years the di erences in the mass of the OFMSW collected are slight, that only after
+2025 do the ﬁrst di erences in capture rate appear between the scenarios implemented and that after
+2030 it can be clearly seen that scenario S2 strongly di ers in terms of the development pace from
+scenarios S1 and S3. In subsequent years, this di erence grows, although the growth rate of separate
+collection halts for each of them.
+Figure 6 presents biowaste recycling rates in successive years and the share of biowaste in the
+overall MSW recycling rates. It can be seen that only scenario S3 will make it possible to achieve a
+recycling rate of more than 50% for the separately collected OFMSW in 2035, while in scenario S2 it

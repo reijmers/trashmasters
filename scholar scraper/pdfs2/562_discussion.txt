@@ -1,0 +1,19 @@
+A critical consideration of legislative interest is the evaluation of environmental haz-
+ards associated with the REE industry and the EU’s existing environmental and radiation
+protection. To this end legislation and best practice documentation should be anticipated
+and a comparison of key regulative aspects among selected countries with existing REE
+mining industries can be deployed (Keith-Roach et al. 2015).
+However, the aforementioned best practice documentation can be considered in align-
+ment with the companies’ size and the time span of implementation. Indeed, while the
+applicable processes can be proven appropriate for all business types, the time span re-
+quired for realization varies signiﬁcantly. In particular, large companies tend to suffer
+from bureaucratic structures, whereas small and micro sized companies are commonly
+lacking knowledge and resources available (Miehe et al. 2015). In practice, the aforemen-
+tioned lengthy and complex legislative constraints could be treated by the development of
+database architectures, which can take into consideration the minimal technical require-
+ments, access and display of records, as well as searching and administrating facilities
+offered (Macovescu and Guta 2012).
+Actually, the foundation of relevant industry-centered legislation for, ﬁrst, industrial
+health and safety and, second, environmental orientation, should be convergent with the
+ongoing technological progress, workforce protection, and local societies’ acceptability.
+To this end shortcomings in legislation should be treated in a proactive way, being un-

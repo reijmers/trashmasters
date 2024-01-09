@@ -1,0 +1,26 @@
+3.1. General Analysis
+As the main RQ of this review was “What is the current situation in the academic
+and practice-based contexts at the intersection of design, materials, extrusion-based ad-
+ditive manufacturing, and a circular economy?”, the general analysis aimed to depict
+the main framework. At ﬁrst, the study focused on searching for works from the past
+eleven years (2010–2021) to depict a general overview. Since only four case studies were
+detected from 2010 to 2014, the review was limited to the timeframe from 2015 to 2021.
+The lack of eligible case studies in the previous part of the decade may be affected by
+the trends’ diffusion- of extrusion-based AM technologies. Only the expiry of the ﬁrst
+patents has fostered the development of new 3D printers, materials, and new applications.
+Moreover, 3D printing was initially seen as a tool for rapid prototyping rather than a proper
+manufacturing process [22].
+As visible in Figure 2, 74 works satisﬁed the eligibility criteria. In detail, 31 works were
+related to the academic context, whereas 43 projects were found within the practice-based
+one. Despite the slight difference, a great interest in both cases is clearly noticeable. The
+number of works increased more than ﬁve times between 2018 and 2021, and only nine
+works were found in the previous three-year period. A big gap is visible between 2017 and
+2018. Only 6 works were found in the former case, whereas 29 works were counted in the
+latter year. This may not simply be related to the existence of a restricted number of works
+before 2018. As mentioned in the previous section, the eligibility criteria set in this paper
+excluded projects and publications without enough data about the applications, materials,
+and technologies. Therefore, this could mean that other works or projects can be found,
+but the lack of further details did not allow us to consider them in the review.
+Figure 2. Overview of the works linking real applications to waste-based materials and extrusion-based AM from 2010
+to 2021, highlighting the academic published works (in blue) and the developed projects from practice (in green) for the
+reviewed period (from 2015 to 2021).

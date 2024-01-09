@@ -1,0 +1,36 @@
+of the Results
+This study is focused on the collection activity of the reverse supply chain of the WEEE since it
+represents a critical phase impacting the overall performance [6,41,42,52].
+(1) A ﬁrst result of this research has underlined that a territorial divide exists in Italy about
+the e-waste collection rate. In fact, even though the 70% of provinces have moved in the HWC,
+almost3
+4of these provinces are localized in Northern Italy. Furthermore, even though the provinces
+in the LWC and MWC states have decreased over ten years, those that still remain in these states
+are mainly Southern and Central of Italy provinces. This divide is also conﬁrmed by the fact that
+almost all the provinces of the worst (“structurally blocked”) group are located in Southern Italy. It is
+interesting to underline that such territorial divide could depend on the existence of a socio-economic
+gap among Southern and Northern provinces. This ﬁnding conﬁrms the results of other authors [ 6]
+about the Italian territorial divide even though this study shows more detailed evidences at provincial
+level. On the contrary, the results about the best performers are not conﬁrmed since only one province
+of this study is consistent with the best performing regions found by [6].
+Similarly, the divide is conﬁrmed with regard to the Collection Centers. After 10 years, in a context
+of a general shift towards medium and high states, Southern provinces are more than half of those
+in the LPC state, although they remarkably decrease in MPC. Even though some positive elements
+emerge (more southern presence in higher state), the territorial distribution is still uneven. This result
+is coherent with other research that aims to optimize the distribution of the CCs in the territorial
+areas [ 41,42]. Moreover, the results concerning the presence of a territorial divide in the Italian WEEE
+collection are also consistent with those of other contributions, even if for a di erent stream of waste.
+In fact, Agovino M. et al. [ 21] highlights that the legislative measures on a separate municipal waste
+collection in Italy in the period 1999–2011, while increasing collection rates at the national level, do not
+reduce the gap among provinces of di erent areas.
+Moreover, the transition probability matrix analysis provides an explanation of this divide since it
+shows the presence of a remarkable steady state condition which mirrors the di culty to carry out
+structural investments aimed to increase the CCs. It is possible to claim that this is particularly true for
+those provinces that, at the beginning of the introduction of a new EU WEEE management system,
+halfway through the 2000–2010 decade, did not already have a WEEE collection infrastructure.
+(2) As for the impact of external legislative events on the WEEE collection performance, a second
+result emerged from the transition probability matrix analysis. In fact, the matrix shows that the increase
+of provinces in the HWC state happened in two different periods due to two diverse external events
+caused by legislative changes (the digital switchover and the entry into force of LD 49 /2014). These events
+shocked the system provoking a rapid positive reaction. This result is consistent with the contribution
+of [21].

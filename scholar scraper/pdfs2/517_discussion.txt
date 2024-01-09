@@ -1,0 +1,44 @@
+of the cross-disciplinary approaches devoted to clean
+technologies, process modelling, monitoring and management frameworkIntegration of smart concept in energy, water and waste management could
+signiﬁcantly improve environmental performance through the smart sensor
+and real-time monitoring. However, there is still a research gap on theoffset/saving versus the footprint of the IT sectorVan Fan et al.,
+2019
+Developing an integrated design of waste management systems to support
+circular economy by P-graph (a bipartite graphical optimization tool)The identi ﬁcation of near-optimal solutions by P-graph is useful in dealing with
+the trade-offs between con ﬂicting objectives. Developed framework by
+P-graph turned out to be an effective tool for solid waste systems planning.Van Fan et al.,
+2019
+To gain insight into the strengths and shortcomings of the methodologies
+currently being applied, and to identify their applicability to a sustainableCIWMS targeting resource recovery.CIWMS shortcomings can be improved by expansion of the boundaries of
+traditional linear IWMS, so that it includes upstream subsystems that will beable to link the conversion of raw materials into MSW with the wastetreatment sub-systems.Cobo et al.,
+2018
+Reviewing the history of the CE & critical examination of how it is applied
+currently.Research on CE concept shows that this initiative requires integrated
+bottom-up and top-down approaches for its implementation and evaluation.
+Without some evaluation framework or bottom-up support from the industryor the social community, CE initiatives cannot sustain.Winans et al.,
+2017
+Detailed study about waste generation and treatment on basis of designing
+and policy instruments for CE.Database showed that, both high income and low income countries need to
+increase their recycling and reduce land ﬁlling to achieve circular economy.Tisserant
+et al., 2017
+Study of classi ﬁcation framework to categorize indicators according to
+reasoning on CE strategies and their measurement scopeStudy suggests a set of indicators to be used to assess CE instead of a single
+indicator.Moraga et al.,
+2019
+Review of MSW and waste to energy systems in context of CE in Europe Biggest proportion of waste (above the EU average) was generated in Italy
+(486 kg/per capita), Greece, and the UK (each 485 kg/per capita). CE can help
+in overcoming this problem.Malinauskaite
+et al., 2017
+Critical analysis of CE in context with WCED sustainable development. CE needs to attract business community as well as policy-making community
+to maintain sustainability of work.Korhonen
+et al., 2018
+Analysis of the informal recycling industry, waste generation and its
+composition in Dhaka, BangladeshSource segregation needs to consider all other interconnected aspects of the
+waste management system that in ﬂ
+uence and determine sustainability and can
+lead to improvement.Matter et al.,
+2013
+Evaluation of the impact of MSWM system in Nagpur city, India. Results indicated that the combination of recycling, composting and land ﬁlling
+of the residues is the most suitable. Sensitivity analysis also revealed that
+environmental impacts have an inverse relation with recycling rate.Khandelwal
+et al., 20197 G. Velvizhi et al. / Science of the Total Environment 731 (2020) 138049

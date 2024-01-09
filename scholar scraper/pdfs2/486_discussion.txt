@@ -1,0 +1,47 @@
+andconclusion
+Reporting good CE implementation practices may help academics
+and companies to gain knowledge on circular economic sustainable
+business models (Kirchherr et al., 2018) as well as on sustainable
+consumption and production patterns. Moreover, scholars should con-
+tribute by showing relevant results obtained by applying CE principles
+(Reike et al., 2018), thus helping companies to reduce their food losses
+and waste.The results of our analysis focused on the description of lifecycle for
+pasta production, showed that the FLW occurring along this production
+chain can be effectively reused for other purposes thus provided us with
+valuable insights on the application of the CE perspective in order to
+reduce FLW. In particular, we found that the straw produced during the
+cultivation phase, that does not enter in the milling phase due to
+physiological reasons, could be reused with these destinations: left in
+the field as a natural fertilizer; animal feeding; energy recovery. In the
+milling phase wheat co-products can be reused for animal feeding;
+energy recovery, and landfill disposal. During the next phase, that is the
+pasta production, the 2.3% of what is wasted – as described in Fig. 2 –
+could be given to people in need (through food banks), to animals, orcomposted. At retail level the 0.2% of unsold product could be given to
+food banks and as animal feeding. According to the literature, the main
+issue remains at consumption level where basically the 25% of food
+wasted could be reused with difficulty and ends up in landfill or at best
+being composted.
+By observing the results of empirical studies, policymakers and
+businesses should focus their efforts on realizing more desirable, shorter
+loop retention options, like remanufacturing, refurbishing and re-
+purposing taking into account feasibility and overall system effects
+(Reike et al., 2018).
+As regards our specific case-study, FL in the field proved to be very
+limited (less than 2%) while the straw collected during the harvest is
+normally used as animal feed and litter. The losses generated during thegrinding of the wheat and pasta production amounted approximately to
+2% of the total FLW.
+Fig.2. The pasta production chain: product, co-product, inedible and edible loss and waste per stage.
+Table7
+Description of FLW generated throughout the pasta supply chain: weight reported in grams.
+Stage FLW type Weight (in grams) % FLW Cause
+Cultivation Straw 1308.43 66.13 Physiological
+Cultivation Field losses 54.52 2.76 Combine harvester failure
+Milling Wheat co-products 340.46 17.21 Milling
+Milling Waste 0.27 0.01 Wheat pre-cleaning
+Pasta product. Production scraps 20.47 1.03 Equipment cleaning
+Pasta product. Production scraps 1.33 0.07 Equipment cleaning
+Pasta product. Production waste 1.74 0.09 Transport, packaging
+Retail Unsold 2.00 0.10 Damage
+Consumption waste 249.50 12.61 Cooked, too large servings, disliked
+TOTAL 1978.73 100.00L. Principato et al. Resources, Conservation & Recycling 144 (2019) 82–89
+87

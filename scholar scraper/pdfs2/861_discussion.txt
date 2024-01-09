@@ -1,0 +1,10 @@
+Perceptions of Other CE Stakeholders
+The questionnaire in this study explored the willingness to trust other stakeholder
+groups in the CE transition. The only question in previous studies that addressed a trust
+issue [ 31] revealed that the main reason for not using sharing business models was the lack
+of trust between users themselves. The ARLI companies (only) were asked to express how
+powerful in this CE transition they viewed other stakeholder groups (Q3.3a). An extended
+analysis of these questions is discussed hereafter.
+These results compare with the Shapley value results from the game theory-hybrid
+method (see [ 12]), as displayed in Figure 10. The primary (left) axis shows the beneﬁt
+allocation for the Shapley value results (Figure 6 in Palafox-Alcantar et al. [ 12]). It is

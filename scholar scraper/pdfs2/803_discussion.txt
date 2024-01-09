@@ -1,0 +1,59 @@
+4.1. Data and method's gaps
+Quilombola communities in Brazil are mostly located in rural areas;
+therefore, they are often neglected with respect to provisioning services,
+including solid waste management. Lima and Paulo (2018) veriﬁed that
+the residents of these communities are, among other hazards, exposed to
+risks associated with open air burning of solid waste, when the munici-
+pality does not provide some type of waste collection service. It was
+conﬁrmed in this study that besides social risks, the residents are exposed
+to major environmental risks when more than 70% of the residents still
+practice open air burning. Even with big changes in the scenario, that is, a
+very optimistic approach, the population is still exposed to high envi-
+ronmental burdens. The results presented here can be extrapolated to
+rural areas of Brazil in general, as the conditions are similar across the
+country as veri ﬁed by Andrino et al. (2018) .
+We veri ﬁed that the current scenario results in high normalisedenvironmental burdens in all impact categories, which can be inferred to
+be the current situation in most rural communities globally. The human
+toxicity category, with 51,112 mPE per ton of waste, represents a large
+amount of toxic substances that may affect human health in the form of
+different types of diseases. As for freshwater ecotoxicity, 9940 mPE has a
+signiﬁcant impact on freshwater ecosystems, caused by toxic elements in
+air, soil, and water. These examples show how important a change in
+waste management scenario is for these communities, because not only
+can human health be affected, but also our water ecosystems, etc.
+Published research on waste LCA in rural areas is scarce globally and
+generally very speci ﬁc, making it dif ﬁcult to compare results across
+different studies. Yadav and Samadder (2018) assessed the impacts of
+open burning of waste in an urban context in India. They obtained
+9420 kg CO 2eq. for a scenario that also includes open dumping and
+landﬁlling, which is higher than our result due to the additional contri-
+butions, but it nevertheless illustrates how impactful this practice is.
+Open burning can trigger a variety of health impacts, such as acute and
+chronic respiratory diseases, cardiovascular diseases, and cancer, in
+addition to impacts on local climate. The smoke that is emitted contains
+PM, carcinogenic dioxins, and numerous other harmful pollutants such as
+nitrogen oxides (NOx), sulfur dioxide (SO 2), carbon monoxide (CO), and
+non-methane volatile organic compounds (NMVOCs) ( Das et al., 2018 ).
+Therefore, it is important that the communities that still perform this
+practice are not neglected with regard to providing adequate waste
+disposal means; on the contrary, they require special attention to mini-
+mise the social and environmental impacts they are exposed to.
+Even though land ﬁlling has its own restrictions and is associated with
+high environmental burdens ( Lima et al., 2018 ;Yadav and Samadder,
+Fig. 5. Characterised contributions to climate change in kg CO 2eq.Table 6
+Daily and yearly impacts on climate change for each community.
+Community Residents Waste Generation
+(tons)Impacts (kg CO 2eq.)
+Per day Per year Per day Per year
+Furnas do Dionísio 350 0.22 80.48 91.48 33,389.36
+Furnas de Boa Sorte 210 0.13 48.29 54.89 20,033.62Família Os Pretos 116 0.07 26.68 30.33 11,069.22Furnas dos Baianos 77 0.05 17.70 20.12 7344.15Ourol ^andia 35 0.02 8.05 9.15 3338.94
+Ch/C19acara Buriti 112 0.07 25.75 29.27 10,684.60
+Família Malaquias 161 0.10 37.02 42.08 15,359.11Família Quintino 119 0.07 27.36 31.10 11,352.38
+Família Bispo 42 0.03 9.66 10.98 4006.72
+S~ao Miguel 186 0.12 42.77 48.61 17,744.06
+/C19Aguas do Miranda 77 0.05 17.70 20.12 7344.15
+Picadinha 686 0.43 157.75 179.30 65,446.18
+2171 1.37 499.23 567.43 207,112.46
+Fig. 6. Sensitivity results compared to the baseline scenarios normalised for
+Climate Change (GWP) in mPE.P.M. Lima et al. Cleaner Environmental Systems 2 (2021) 100013
+6

@@ -1,0 +1,19 @@
+4.1. LCA matrix model and waste pre-treatment
+In the LCA matrix model, four main polymer categories were
+identiﬁed. The ﬁrst are the complex plastics (engineering and high
+performance plastics) that have lowest environmental impactthrough primary recycling (dissolution or closed-loop mechanical
+recycling). Due to the high environmental impacts of the produc-
+tion phase, recycled quantities and quality of the output increases
+the environmental performance of the primary recycling technol-
+ogy signiﬁcantly. However, there are strict boundary conditions
+for treating the input waste stream with primary recycling tech-
+nologies. For this the products from the waste streams have to
+be either pure or well sorted monostream equivalents. In the case
+studies, the sorting efﬁciency negatively affected the recycling
+treatment in various manners, including exclusion of speciﬁc recy-
+cling treatments (closed loop mechanical recycling) or decreasing
+Fig. 5. Comparison of the CO 2eq. emissions for treating 1 kg of plastic products. with the additional case study framework and the LCA matrix model. (A) the mixed LDPE-PP
+foil case study with additional sorting effort. per kg mix. (B) the WEEE case study where the ABS plastic contains ﬂame retardants. per kg ABS.
+Fig. 6. Estimated CO 2emissions resulting from recycling the (pure) polymer demand in Europe in 2018. comparing two technology types: incineration with energy recovery
+and the best performing technology according to the theoretical approach of the LCA matrix model.A.E. Schwarz, T.N. Ligthart, D. Godoi Bizarro et al. Waste Management 121 (2021) 331–342
+339

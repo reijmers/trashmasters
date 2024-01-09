@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sci-Hub: knowledge as a human right</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Language" content="en">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Sci-Hub website. Get free access to academic journals. Download research papers for free from ScienceDirect, IEEE, Wiley, Springer, Nature and others" />
+        <link rel="alternate" href="https://sci-hub.ru/lang/pt" hreflang="pt" />
+        <link rel="alternate" href="https://sci-hub.ru/lang/cn" hreflang="zh" />
+        <link rel="alternate" href="https://sci-hub.ru/lang/ru" hreflang="ru" />
+    </head>
+    <body onload = "init()">
+        <style type = "text/css">
+
+@font-face
+{
+    font-family: 'Courier Prime';
+    src: url('/fonts/CourierPrime-Regular.ttf');        
+}
+
+@font-face
+{
+    font-family: 'Courier 10';
+    src: url('/fonts/courier_10_pitch_win95bt.ttf');        
+}
+
+@font-face
+{
+    font-family: 'Courier Prime';
+    src: url('/fonts/CourierPrime-SemiBold.ttf');
+    font-weight: bold;
+}
+
+@font-face
+{
+    font-family: 'Mono';
+    src: url('/fonts/FiraCode-Regular.ttf');        
+}
+
+@font-face
+{
+    font-family: 'Mono';
+    src: url('/fonts/FiraCode-SemiBold.ttf');
+    font-weight: bold;
+}
+
+@font-face
+{
+    font-family: 'Carmelit';
+    src: url('/fonts/Carmelit Bold Bold.ttf');
+}
+
+html, body, div { margin: 0; padding: 0; border: 0 }
+div { z-index: 2; font-family: 'Mono'; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+html { font-size: 16px; }
+html, body { width: 100% }
+
+
+
+body { white-space: nowrap; }
+
+#back { z-index: -1; position: absolute; left: 0; top: 0; width: 50vw; min-width: 640px; max-width: 800px; height: 100vh; background: url('/pictures/formulas.png') repeat-x; background-size: auto 100%; background-position: 0 0; opacity: 0.04 }
+#wall, #emc, #bulb, #dna { position: fixed; left: 0; bottom: 0; z-index: -1 }
+#wall { max-height: 25vh; width: 100%; overflow: hidden }
+#wall img { max-width: 22vw; min-width: 255px; }
+#emc { left: max(290px,18vw) }
+#emc img { max-width: 16vw; min-width: 180px }
+#bulb { left: max(min(600px, 38vw), 400px) }
+#bulb img { max-height: 30vh; opacity: 0.14 }
+#dna { left: max(min(800px, 49.5vw), 640px); height: 100%; overflow: auto; width: 0.77vw /*1.44vw*/; background: url('/pictures/dna.png') repeat-y; background-size: 100% auto; z-index: 3 }
+
+#container { display: flex }
+
+#main { display: inline-block; white-space: normal; vertical-align: top; width: 50vw; min-width: 640px; max-width: 800px; height: 100vh; flex: 1 }
+    #logo { margin-top: 12vh; text-align: center }
+    #logo img { width: min(max(106px, 8.3vw), 140px); vertical-align: middle }
+    #logo span { vertical-align: middle; font-family: 'Courier Prime'; color: darkred; font-size: min(max(90px, 7vw), 140px); font-weight: bold; white-space: nowrap }
+
+    #enter { width: 100%; height: 11vh; padding: 2vh 0 2vh 0; text-align: center; background: #eee }
+    #enter textarea { width: 60%; height: 90%; max-height: 90%; border: solid 1px #ccc; border-radius: 0.4vw; text-align: center; font-size: 1.33rem  }
+    #enter button { cursor: pointer; border: solid 1px darkred; color: white; font-size: max(24px, 1.88vw); background: darkred; border-radius: 0.4vw; vertical-align: top; height: 92%; padding-right: 2%; }
+    #enter button:hover { background: firebrick; border-color: firebrick }
+    #enter button img, #enter button span { display: inline-block; vertical-align: middle; text-align: left; font-family: 'Mono'; max-height: 100% }
+    #enter button span { font-family: 'Courier Prime'; }
+
+    #motto { font-family: 'Mono'; text-align: center; width: 90%; margin: 2vh 0 0 5%; color: #aaa; font-size: max(24px, 1.44vw); white-space: normal; }
+
+    #menu { text-align: center; margin: 6vh 5% 0 5%; border-bottom: solid 1px #ddd }
+    #menu a { font-family: 'Courier Prime'; font-size: min(max(22px, 1.33vw), 24px); text-decoration: none; font-weight: bold; color: #444; display: inline-block; margin-left: 1vw; padding: 0.4vh 0.4vw 0.4vh 0.4vw; border-radius: 0.4vw; background: white  }
+    #menu a.select { color: #e8a202 }
+    #menu a:hover { background: #e8a202; text-decoration: none; color: white }
+    #menu a.donate:hover { background: green }
+
+#info { display: inline-block; vertical-align: top; width: 50vw; background: #fafafa; height: 100vh; flex: 1; flex-grow: 1; overflow-y: auto }
+
+ #stats { margin: 2vh 0 0 3.5%; max-width: 95%; white-space: nowrap; font-size: min(1.11rem, 1.2vw) }
+ #stats a { display: inline-block; padding: 0 1% 0 1%; text-decoration: none; color: black; white-space: normal; vertical-align: middle; cursor: url('/pictures/zoom.png'), auto }
+ #stats a:hover { background: lemonchiffon }
+ #stats a:hover .nu { font-weight: bold }
+ #stats #total { border-right: solid 1px #ccc; width: 16%; }
+ #stats #users { width: 11% }
+ #stats #last { width: 67%; border-left: solid 1px #ccc }
+ #stats #last .author { font-weight: bold }
+ #stats #last .doi { font-weight: bold }
+ #stats #last .nu { font-size: min(1rem, 1vw) }
+ #stats a#last:hover .nu { font-weight: normal }
+ #stats .he { color: darkred; font-weight: bold; margin-bottom: 1vh; white-space: nowrap }
+ #stats .nu { word-wrap: break-word }
+ #stats .su { color: #666 }
+
+ #lang { margin: 1vh 1% 0 4.5%; font-size: min(1.11rem, 1.2vw); text-align: left }
+ #lang .he { color: #999; background: #aaa; color:white; padding: 0.2vh 0.2vw 0.2vw 0.2vw; border-radius: 0.1vw; font-weight: bold; cursor: default }
+ #lang a { display: inline-block; margin-left: 4px; color: #777; text-decoration: none; padding: 0.2vh 0.2vw 0.2vh 0.2vw; border-radius: 0.2vw }
+ #lang a:hover { background: green; color: white }
+ #lang a.selected { background: #e8a202; color: white }
+ #lang a:hover.selected { background: #e8a202 }
+ #langi { display: none }
+ 
+ #mirrors { margin: 1vh 1% 0 4.5%; font-size: min(1.11rem, 1.2vw); text-align: left }
+ #mirrors .he { color: #999; background: #aaa; color:white; padding: 0.2vh 0.2vw 0.2vw 0.2vw; border-radius: 0.1vw; font-weight: bold; cursor: default }
+ #mirrors a { display: inline-block; color: #777; text-decoration: none }
+ #mirrors a:hover { color: darkred; text-decoration: underline }
+ #mirrors a#seall { color: #333 }
+ #mirrors a#seall:hover { text-decoration: none; font-weight: bold }
+ 
+ #contacts { margin: 5vh 0 0 8.5%; font-size: 1rem; }
+ #contacts .he span { color: darkred; font-size: max(1.44rem, 1.44vw); padding: 0 0 1vh 0; border-bottom: dashed 1px #ccc }
+ #contacts #mailto { margin-top: 2vh }
+ #contacts #mailto a { color: #444; text-decoration: none; font-size: max(1rem, 1vw); }
+ #contacts #mailto a:hover { text-decoration: underline }
+ #contacts #social { margin-top: 1vh }
+ #contacts #social a { color: #333; text-decoration: none; font-size: max(1rem, 1vw); display: inline-block; margin-right: 1% }
+ #contacts #social a:hover { color: darkred; text-decoration: underline }
+ 
+ .bar { height: 4vh; width: 100% }
+
+ #stats-big {display: none}
+ #stats-big a { text-decoration: none; color: black; cursor: url('/pictures/zoom.png'), auto }
+ #stats-big a:hover { background: lightyellow }
+  
+ 
+ #about
+ {
+     display: none;
+     margin: 8vh 0 8vh 0;
+     padding-top: 8vh;
+     border-top: dashed 2vh darksalmon;
+ }
+ 
+ #about p
+ {
+     margin: 2vh 3% 0 4%;
+     font-size: 1.22rem;
+     text-align: left;
+ }
+ 
+ #about .he
+ {
+     font-family: 'Courier Prime';
+     font-size: 7rem;
+     color: goldenrod;
+ }
+ #about .te
+ {
+     display:inline-block;
+     width:66%;
+     vertical-align:middle
+ }
+ #about .im
+ {
+     display:inline-block;
+     width:33%;
+     vertical-align: middle
+ }
+ #about .im img
+ {
+     width: 100%;
+ }
+ 
+ #about a
+ {
+     color: darkred;
+     text-decoration: none;
+     font-weight: bold;
+ }
+ #about a:hover
+ {
+     text-decoration: underline;
+ }
+ 
+@media only screen and (max-height: 640px) { #wall, #emc { display: none }  }
+@media only screen and (max-width: 1440px)
+{
+    #back { width: 100%; max-width: 100%; min-width: 100%; background-size: 37% auto; background-repeat: repeat; opacity: 0.07 }
+    #dna { display: none }
+    #emc { display: none }
+    
+    #bulb {
+        z-index: -1;
+        position: relative;
+        height: 100%;
+        width: 100%;
+        left: auto;
+    }
+
+    #bulb img {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+    }
+    
+    #container { display: block }
+    #main { display: block; width: 100%; min-width: 100%; max-width: 100%; padding-top: 2vh; height: auto; background: url('/pictures/wall_600.png'); background-size: auto 100%; background-repeat: no-repeat; }
+        #logo { margin-top: 0; }
+        #enter { height: 8vh; min-height: 64px; background: none; padding-bottom: 0 }
+        #motto { margin-top: 2vh }
+        #motto span { background: white; padding: 0.5vh 0.5vw 0.5vh 0.5vw; border-radius: 0.5vw }
+        #menu { margin: 3vh 0 0 0; }
+        
+    #info { display: block; width: 100%; height: auto; padding-top: 2vh; white-space: normal }
+    
+    
+    #stats-big
+    {
+        display: inline-block;
+        vertical-align: middle;
+        width: 27%;
+        text-align: left;
+        
+        border: dashed 8px #ccc;
+        border-radius: 16px;
+        background: white;
+        
+        padding: 0 2% 2% 2%;
+        
+        font-size: 1rem;
+        color: black;
+        background: white;
+
+    }
+    #stats-big .he
+    {
+        text-align: left;
+    }
+    #stats-big .he span
+    {
+        background: #ccc;
+        font-size: 1.44rem;
+        padding: 1%;
+        color: white;
+    }
+    #stats-big .number
+    {
+        color: darkred;
+        font-size: 1.44rem;
+        font-family: 'Courier Prime';
+        font-weight: bold;
+        background: white;
+        margin-top: 2vh;
+    }
+    #stats-big #lastart
+    {
+        margin-top: 2vh;
+        color: darkred;
+        font-weight: bold;
+    }
+    #stats-big .author
+    {
+        font-weight: bold;
+    }
+
+    
+    
+        #lang {
+            margin: 0 0 0 1%;
+            display: block;
+            vertical-align: middle;
+            padding: 1vh 1.5% 1vh 1%;
+/*            border: solid 1px #999;
+            border-radius: 1vw;*/
+        }
+        #lang a
+        {
+            display: inline-block;
+            font-size: 0.9rem;
+        }
+        #lang span
+        {
+            font-size: 0.8rem;
+        }
+        #lang .he { background: none; font-weight: bold; color: #444 }
+        
+        #mirrors {
+            margin: 0 0 0 1%;
+            display: block;
+            vertical-align: middle;
+            padding: 0 1.5% 1vh 1%;
+/*            border: solid 1px #999;
+            border-radius: 1vw;*/
+        }
+        #mirrors a
+        {
+            display: inline-block;
+            font-size: 0.9rem;
+        }
+        #mirrors span
+        {
+            font-size: 0.8rem;
+        }
+        #mirrors .he { background: none; font-weight: bold; color: #444 }
+
+        #stats { display: none }
+
+        #contacts {
+            margin: 4vh 0 0 0;
+            padding: 3vh 0 3vh 0;
+            width: 100%;
+            background: #444;
+        }
+        #contacts div
+        {
+            margin-left: 4.5%;
+            color: white;
+        }
+        #contacts .he span,
+        #contacts #social a,
+        #contacts #mailto a,
+        #contacts #social a:hover
+        {
+            color: white;
+        }
+        #contacts #mailto
+        {
+            margin-top: 4vh;
+        }
+        
+        .bar { display: none }
+        
+        #about { display: block }
+        
+    .third { display: none }
+}
+
+@media only screen and (max-height: 600px) and (max-width: 1440px)
+{
+    #main { background-image: url('/pictures/wall_600.png'); background-size: auto 100%; background-repeat: no-repeat; }
+}
+
+@media only screen and (max-width: 1100px)
+{
+    #stats-big { display: none }
+}
+
+@media only screen and (max-width: 900px)
+{
+    #logo, #enter { width: 85%; margin-left: 15% }
+    #motto, #menu { width: 77%; margin-left: 20% }
+}
+
+ @media only screen and (max-width: 780px)
+ {
+    #logo, #enter, #motto, #menu { width: 96%; margin-left: 0; font-size: 18px }
+     
+    #back { background-size: 50% auto }
+    #main { background: none }
+    #bulb { display: none }
+    
+    #about .te
+    {
+        display:inline-block;
+        width:100%;
+    }
+    #about .im
+    {
+        display:none;
+    }
+    
+ }
+ 
+ @media only screen and (max-width: 600px)
+ {
+     #logo span { font-size: 70px }
+     #menu { margin: 4vh 0 4vh 4%; width: 90% }
+     #menu a { font-size: 24px; }
+     
+     #mirrors {
+         text-align: center;
+         margin: 2vh 1% 0 1%;
+     }
+     
+     #lang {
+         text-align: center;
+         display: none;
+     }
+     
+    #langi { display: block; position: absolute; font-size: 0.88rem; right: auto; top: 0; left: 0; padding: 0 2% 0 2%; width: 96%; text-align: center;  background:  #444; border: 0; }
+    #langi a { display: inline-block; margin-left: 8px; text-decoration: none; padding: 0.2vh 0.2vw 0.2vh 0.2vw; color: white; }
+    #langi a.selected { background: white; color: black; }
+    #container { margin-top: 24px }
+    
+     
+     #mirrors a, #lang a { font-size: 1.11rem; }
+     
+     #about .he
+     {
+         font-size: 4rem
+     }
+ }
+
+ @media only screen and (max-width: 480px)
+ {
+    #enter { height: auto }
+    #enter button { border-radius: 4px }
+    #enter button img { height: 48px }
+    #enter textarea { width: 88%; height: 64px }
+    #logo span { font-size: 64px }
+    
+    .second { display: none }
+ }
+  
+
+
+#news { margin: 4vh 0 0 4.5%; width: 95% }
+ #news a, #news a div { color: #444; text-decoration: none; font-family: 'Courier Prime' }
+
+ #news .he
+ {
+     display: inline-block;
+     vertical-align: top;
+     font-size: max(1.55rem, 1.55vw);
+     padding: 0 3% 1vh 0;
+     margin-left: 3%;
+     border-bottom: dashed 1px #bbb;
+     color: darkred;
+     max-width: 20%;
+     cursor: default;
+ }
+ 
+ #news .it
+ {
+     display: inline-block;
+     vertical-align: top;
+     width: 70%;
+     margin-left: 4%;
+    white-space: nowrap;
+ } 
+
+
+ #news .super { width: 100%; margin: 2vh 0 2vh 0;  }
+ #news .super .title { font-size: min(1.6rem, 1.6vw) }
+ #news .super img, #news .super span { display: inline-block; vertical-align: middle; border-radius: 1vw }
+ #news .super img { display: none; margin-left: 1%; white-space: normal; max-width: 11% }
+ #news .super span { margin-left: 1vw; white-space: normal; max-width: 88%; text-align: left }
+ #news .super .sub { font-size: min(1rem, 1vw); }
+ #news .super a.title:hover span { /*border-bottom: solid 1px #444; border-radius: 0*/ background: lightyellow; color: black; }
+ #news .super a.title:hover span.date { border: none }
+ #news .super .date { margin-left: 0; font-size: min(1rem, 1vw); }
+ 
+ #news .puper { margin-top: 3vh }
+ #news .puper img { margin-left: 1%; white-space: normal; max-width: 30%; border-radius: 50% }
+ #news .puper span { max-width: 69% }
+
+ #news .super a.title:hover span.pinned { background: #aaa; color: white }
+ 
+ #news .super a.title span.pinned
+ {
+     padding: 0.4vh 0.2vw 0 0.2vw;
+     border-radius: 0.2vw;
+     color: white;
+     background: #aaa;
+     font-size: 0.8rem;
+ }
+ 
+ #more { text-align: left; margin: 6vh 2vw 4vh 0; }
+ #more a { font-family: 'Courier Prime'; display: inline-block; text-decoration: none; font-size: min(1.4rem, 1.4vw); color: #777; background: none; padding: 1vh 1vw 1vh 1vw; border-radius: 0.4vw; border: solid 1px #777 }
+ #more a:hover { background: #777; color: white }
+ 
+@media only screen and (min-width: 1441px)
+{
+    #news .super span { background: white; padding: 0.6vw; border: solid 1px #bbb; border-radius: 1vw  }
+    #news .super .date { padding: 0.2vw; border: 0 }
+    #news .super a.title span.pinned { display: inline-block; background: #e8a202; margin-top: -3.5vh }
+}
+ 
+@media only screen and (max-width: 1440px)
+{   
+    #news
+    {
+        margin-left: 2%;
+        
+        display: inline-block;
+        vertical-align: top;
+        width: 62%;
+    }
+    
+    #news .he {
+        font-size: max(1.44rem, 1.88vw);
+        margin-left: 0;
+        width: 14%;
+    }
+    
+    #news .it {
+        margin-left: 1%;
+        width: 80%;
+    }
+    
+    #news .super .title {
+        font-size: 1.55rem;
+   }
+   
+   #news .super .date {
+       font-size: 1rem;
+   }
+   
+    #news .super {
+        margin: 1vh 0 1vh 0;
+    }
+    
+    #news .super img {
+        display: none;
+    }
+    
+    #news .super a.title:hover span { background: white; }
+    
+}
+
+@media only screen and (max-width: 1100px)
+{
+    #news { width: 95% }
+    #news .super span { max-width: 100% }
+}
+
+@media only screen and (max-width: 600px)
+{
+    #news .he {
+        display: block;
+        margin-left:  0;
+    }
+    
+    #news .it
+    {
+        display: block;
+        width: 95%;
+        margin-left: 0;
+    }
+    #news .super
+    {
+        border-bottom: solid 1px #ddd;
+        margin-top: 2vh;
+    }
+
+}
+
+#mailbox { margin: 8vh 0 0 8.5%; white-space: normal; width: 80%; }
+#mailbox .he div { display: inline-block; vertical-align: middle }
+#mailbox .he #stamp { width: 8% }
+#mailbox .he #stamp img { width: 90% }
+#mailbox .he #title { margin: 0 0 0 2%; font-size: max(1.44rem, 1.44vw); padding: 0 0 1vh 0; border-bottom: dashed 1px #ccc }
+
+#mailbox .description { margin: 0 0 0 10%; font-size: min(1.11rem, 1.11vw); text-align: justify }
+
+#mailbox #mail-thanks p { color: darkred;font-weight:bold}
+#mailbox #mail-thanks { display: none; text-decoration: none}
+#mailbox #mail-error { display: none }
+
+
+#mailbox #mail { margin: 1.44vh 0 0 10% }
+#mailbox #mail input { vertical-align: middle; font-size: min(1.11rem, 1.11vw); line-height: 1.33rem; text-align: center; width: 33%; padding: 0.6vw; border-radius: 0.4vw; border: solid 1px #777 }
+#mailbox #mail button { vertical-align: middle; font-size: min(1.11rem, 1.11vw); margin-left: 0.5%; padding: 0.6vw; cursor: pointer; border-radius: 0.4vw; border: solid 1px white; background-color: goldenrod; color: white }
+#mailbox #mail button:hover { background-color: green; }
+
+@media only screen and (max-width: 1440px)
+{
+    
+    #mailbox
+    {
+        margin-left: 2%;
+        width: 66%;
+        display: block;
+    }
+    
+    #mailbox .description {
+        font-size: 1.11rem
+    }
+    
+    #mailbox #mail input {
+        font-size: 1.11rem;
+    }
+    
+    #mailbox #mail button {
+        font-size: 1.11rem;
+    }
+}
+
+ @media only screen and (max-width: 780px)
+ {
+    #mailbox #mail input {
+        width: 55%;
+    }
+    
+    #mailbox {
+        width: 90%;
+    }
+ }
+ 
+ @media only screen and (max-width: 600px)
+ {
+
+ }
+
+</style>
+
+
+        
+        <style type ="text/css">
+            
+            #news .it { white-space: normal }
+            .paper { margin-top: 2vh }
+            #news .paper a:hover { background: black; color: lime }
+            
+            @media only screen and (max-width: 1440px)
+            {
+                #stats-big { display: none }
+                #news { width: 90% }
+            }
+            
+        </style>
+        
+        <script type = "text/javascript">
+            
+            function submit(e)
+            {
+                if (e.which === 13 && !e.shiftKey)
+                {
+                    e.preventDefault();
+                    e.target.form.submit();
+                }
+            }
+
+            function init()
+            {
+                document.getElementById("request").value = '';
+                document.getElementById("request").addEventListener("keypress", submit);
+            }
+
+            function language(la)
+            {
+                document.cookie = 'language=; Max-Age=-99999999;'; 
+                document.cookie = 'language' + "=" + la + "; path=/";
+                window.location.reload();
+            }
+
+        </script>
+        
+        <div id = "langi"><span class = "list"><a href = # class = "selected">English</a><a href = # onclick = "language('cn')">简体中文</a><a href = # onclick = "language('ru')">Русский</a><a href = # onclick = "language('pt')">Português</a></span></div>
+                
+                
+        <div id = "container">
+
+            <div id = "main">
+
+            <div id = "logo">
+                <span><img src = "/pictures/ravenround_hs.gif"><span><span>sci-hub</span>
+            </div>
+            
+            <form method = "POST" action ="/">
+                <div id = "enter">
+                    <textarea placeholder = "enter your reference" autofocus name = "request" id = "request" spellcheck = "false"></textarea>
+                    <button type = "submit"><img src = "/pictures/key.png"><span>open</span></button>
+                </div>
+            </form>
+
+            <div id = "motto">
+                <span>knowledge as a human right</span>
+            </div>
+
+            <div id = "menu">
+                <a href = "/database" class = "select">database</a>
+                <a href = "/about">about</a>
+                <a href = "/alexandra">Elbakyan</a>
+                <a href = "/stats">stats</a>
+                <a href = "/donate" class = "donate">donate</a>
+            </div>
+            
+            <div id = "back"></div>
+            <div id = "bulb"><img src = "/pictures/bulb.png"></div>
+
+        </div><div id = "info">
+
+            <div id = "lang">
+                <span class = "he">language</span>
+                <span class = "list"><a href = # class = "selected">English</a><a href = # onclick = "language('cn')">简体中文</a><a href = # onclick = "language('ru')">Русский</a><a href = # onclick = "language('pt')">Português</a></span>
+            </div>
+            
+            <div id = "mirrors">
+                <span class = "he">mirrors</span>
+                <span class = "list">
+                    <a href = "//sci-hub.se/" target = "_blank">sci-hub.se</a>
+                    <a href = "//sci-hub.st/" target = "_blank">sci-hub.st</a>
+                    <a href = "//sci-hub.ru/" target = "_blank">sci-hub.ru</a>
+                </span>
+                <a href = "/mirrors" id = "seall">see all &rarr;</a>
+            </div>
+
+            <div id = "stats">
+
+                <a href = "/database" id = "total">
+                     <div class = "he">total</div>
+                     <div class = "nu">88,343,822</div>
+                     <div class = "su">docs</div>
+                </a><a href = "/stats" id = "users">
+                     <div class = "he">users</div>
+                     <div class = "nu">166,881</div>
+                     <div class = "su">in <!-- 24-->1h</div>
+                </a><a href = "/10.1016/s0025-6196(12)61367-6" id = "last">
+                     <div class = "he">latest read</div>
+                     <div class = "nu">
+                         <span class = "title">Torsten Wiesel—Swedish Neurobiologist Wins Nobel Prize</span>
+                         <span class = "journal">/ Mayo Clinic Proceedings.</span>
+                         <span class = "author">Shampo 1994</span>
+                     </div>
+                </a>
+
+            </div>
+
+            <div id = "news">
+
+
+                <div class = "he">
+                    latest<br>reads
+                </div><div class = "it">
+                    <div class = "paper"><a href = "/10.1016/s0025-6196(12)61367-6"><span class = "dt">22:22:45</span> <span class = "title">Torsten Wiesel—Swedish Neurobiologist Wins Nobel Prize</span> / <span class = "journal">Mayo Clinic Proceedings</span> <span class = "author">Shampo</span>, <span class = "year">1994</span></a></div><div class = "paper"><a href = "/10.1097/BRS.0000000000003481"><span class = "dt">22:22:45</span> <span class = "title">Hepatitis C Virus Infection as a Predictor of Complications and Increased Costs Following Primary Lumbar Fusion Surgery</span> / <span class = "journal">SPINE</span> <span class = "author">Donnally</span>, <span class = "year">2020</span></a></div><div class = "paper"><a href = "/10.1108/eb013514"><span class = "dt">22:22:45</span> <span class = "title">Capital Budgeting Techniques, The Payback Period, The Net Present Value, The Internal Rate of Return and their Computer Applications</span> / <span class = "journal">Managerial Finance</span> <span class = "author">Rushinck</span>, <span class = "year">1983</span></a></div><div class = "paper"><a href = "/10.1097/mrr.0000000000000325"><span class = "dt">22:22:45</span> <span class = "title">Rhythmic robotic training enhances motor skills of both rhythmic and discrete upper-limb movements after stroke</span> / <span class = "journal">International Journal of Rehabilitation Research</span> <span class = "author">Leconte</span>, <span class = "year">2018</span></a></div><div class = "second"><div class = "paper"><a href = "/10.1016/j.tifs.2015.04.004"><span class = "dt">22:22:45</span> <span class = "title">Actual state and perspectives of Christian religious dietary laws and certification in Romania</span> / <span class = "journal">Trends in Food Science & Technology</span> <span class = "author">Vintilă</span>, <span class = "year">2015</span></a></div><div class = "paper"><a href = "/10.1111/j.0022-3840.1979.1202_315.x"><span class = "dt">22:22:45</span> <span class = "title">Daytime Radio Programming for the Homemaker 1926-1956</span> / <span class = "journal">J Popular Culture</span> <span class = "author">Getz rouse</span>, <span class = "year">1978</span></a></div><div class = "paper"><a href = "/10.1088/1757-899x/448/1/012010"><span class = "dt">22:22:45</span> <span class = "title">Improving the efficiency of CNC machine tools with multi-pallet systems in machine-building manufacturing</span> / <span class = "journal">IOP Conf. Ser.: Mater. Sci. Eng.</span> <span class = "author">Kutin</span>, <span class = "year">2018</span></a></div><div class = "paper"><a href = "/10.1007/bf02012439"><span class = "dt">22:22:45</span> <span class = "title">MRI evaluation of superficial soft tissue lesions in children</span> / <span class = "journal">Pediatr Radiol</span> <span class = "author">Jabra</span>, <span class = "year">1993</span></a></div><div class = "paper"><a href = "/10.1007/978-4-431-54067-0_34"><span class = "dt">22:22:45</span> <span class = "title">Development of Microbubble Generation Method</span> / <span class = "journal">Zero-Carbon Energy Kyoto 2011</span> <span class = "author">Jiao</span>, <span class = "year">2012</span></a></div><div class = "paper"><a href = "/10.1016/0031-8914(72)90163-2"><span class = "dt">22:22:45</span> <span class = "title">Collective motions in point-dipole and point-quadrupole molecular fluids</span> / <span class = "journal">Physica</span> <span class = "author">Humbert</span>, <span class = "year">1972</span></a></div><div class = "paper"><a href = "/10.1053/j.sult.2006.06.003"><span class = "dt">22:22:45</span> <span class = "title">Solitary Splenic Lesions</span> / <span class = "journal">Seminars in Ultrasound, CT and MRI</span> <span class = "author">Warshauer</span>, <span class = "year">2006</span></a></div><div class = "paper"><a href = "/10.1016/j.tvjl.2016.04.014"><span class = "dt">22:22:45</span> <span class = "title">Biomechanical evaluation of adjunctive cerclage wire fixation for the prevention of periprosthetic femur fractures using cementless press-fit total hip replacement</span> / <span class = "journal">The Veterinary Journal</span> <span class = "author">Christopher</span>, <span class = "year">2016</span></a></div></div><div class = "third"><div class = "paper"><a href = "/10.4271/2004-01-2344"><span class = "dt">22:22:45</span> <span class = "title">Phase VI Glove TMG Evolution</span> / <span class = "journal">SAE Technical Paper Series</span> <span class = "author">Splawn</span>, <span class = "year">2004</span></a></div><div class = "paper"><a href = "/10.1029/eo064i021p00391-01"><span class = "dt">22:22:45</span> <span class = "title">AGU on Capitol Hill: Cobalt Policy</span> / <span class = "journal">Eos Trans. AGU</span> <span class = "author">Anonymous</span>, <span class = "year">1983</span></a></div><div class = "paper"><a href = "/10.1515/jnet.2011.034"><span class = "dt">22:22:45</span> <span class = "title">Kinetic and thermodynamic treatment for the exact solution of the unsteady Rayleigh flow problem of a rarefied homogeneous charged gas</span> / <span class = "journal">Journal of Non-Equilibrium Thermodynamics</span> <span class = "author">Abdel wahid</span>, <span class = "year">2012</span></a></div><div class = "paper"><a href = "/10.1016/j.tvjl.2012.11.018"><span class = "dt">22:22:45</span> <span class = "title">Validation of the prognostic value of histopathological grading or c-kit mutation in canine cutaneous mast cell tumours: A retrospective cohort study</span> / <span class = "journal">The Veterinary Journal</span> <span class = "author">Takeuchi</span>, <span class = "year">2013</span></a></div><div class = "paper"><a href = "/10.1007/978-3-662-12616-5_4"><span class = "dt">22:22:45</span> <span class = "title">Stochastic Differential Equations</span> / <span class = "journal">Numerical Solution of Stochastic Differential Equations</span> <span class = "author">Kloeden</span>, <span class = "year">1992</span></a></div><div class = "paper"><a href = "/10.1053/j.jvca.2004.01.024"><span class = "dt">22:22:45</span> <span class = "title">What is the optimal device for carbon dioxide deairing of the cardiothoracic wound and how should it be positioned?</span> / <span class = "journal">Journal of Cardiothoracic and Vascular Anesthesia</span> <span class = "author">Persson</span>, <span class = "year">2004</span></a></div><div class = "paper"><a href = "/10.1016/j.ijimpeng.2021.103922"><span class = "dt">22:22:45</span> <span class = "title">Perforation of laminated glass: An experimental and numerical study</span> / <span class = "journal">International Journal of Impact Engineering</span> <span class = "author">Osnes</span>, <span class = "year">2021</span></a></div><div class = "paper"><a href = "/10.1016/j.clinph.2017.12.020"><span class = "dt">22:22:45</span> <span class = "title">7. Papillary thyroid cancer in a patient with Morvan’s syndrome</span> / <span class = "journal">Clinical Neurophysiology</span> <span class = "author">Walker</span>, <span class = "year">2018</span></a></div><div class = "paper"><a href = "/10.1515/jnet.1993.18.4.380"><span class = "dt">22:22:45</span> <span class = "title">Comment to J. Kestin: Internal Variables in the Local-Equilibrium Approximation</span> / <span class = "journal">Journal of Non-Equilibrium Thermodynamics</span> <span class = "author">Muschik</span>, <span class = "year">1993</span></a></div><div class = "paper"><a href = "/10.1021/acssuschemeng.9b02405"><span class = "dt">22:22:45</span> <span class = "title">Renewable Coffee-Waste-Derived Porous Carbons as Anode Materials for High-Performance Sustainable Microbial Fuel Cells</span> / <span class = "journal">ACS Sustainable Chem. Eng.</span> <span class = "author">Hung</span>, <span class = "year">2019</span></a></div><div class = "paper"><a href = "/10.1097/01.prs.0000475778.45783.e2"><span class = "dt">22:22:45</span> <span class = "title">Posterior Component Separation with Transversus Abdominis Release</span> / <span class = "journal">Plastic and Reconstructive Surgery</span> <span class = "author">Jones</span>, <span class = "year">2016</span></a></div><div class = "paper"><a href = "/10.1177/0013164491512022"><span class = "dt">22:22:45</span> <span class = "title">The Development and Concurrent Validity of the Procrastination Scale</span> / <span class = "journal">Educational and Psychological Measurement</span> <span class = "author">Tuckman</span>, <span class = "year">1991</span></a></div><div class = "paper"><a href = "/10.3390/rs12122013"><span class = "dt">22:22:45</span> <span class = "title">Remote Sensing of Sea Surface Artificial Floating Plastic Targets with Sentinel-2 and Unmanned Aerial Systems (Plastic Litter Project 2019)</span> / <span class = "journal">Remote Sensing</span> <span class = "author">Topouzelis</span>, <span class = "year">2020</span></a></div><div class = "paper"><a href = "/10.1111/jopr.12113"><span class = "dt">22:22:45</span> <span class = "title">Full-Mouth Rehabilitation of a Patient with Severe Deep Bite: A Clinical Report</span> / <span class = "journal">Journal of Prosthodontics</span> <span class = "author">Ergun</span>, <span class = "year">2014</span></a></div><div class = "paper"><a href = "/10.1080/09709274.2015.11906903"><span class = "dt">22:22:45</span> <span class = "title">Risk Factors and Complications Associated with Tuberculosis in Pregnancy and Neonates in Limpopo Province, South Africa</span> / <span class = "journal">Journal of Human Ecology</span> <span class = "author">Mulondo</span>, <span class = "year">2015</span></a></div><div class = "paper"><a href = "/10.1016/j.gaitpost.2021.06.019"><span class = "dt">22:22:45</span> <span class = "title">Application of Principal Component Analysis to Forward Reactive Stepping: Whole-body Movement Strategy Differs as a Function of Age and Sex</span> / <span class = "journal">Gait & Posture</span> <span class = "author">Armstrong</span>, <span class = "year">2021</span></a></div><div class = "paper"><a href = "/10.1016/j.cpr.2013.05.005"><span class = "dt">22:22:45</span> <span class = "title">Mindfulness-based therapy: A comprehensive meta-analysis</span> / <span class = "journal">Clinical Psychology Review</span> <span class = "author">Khoury</span>, <span class = "year">2013</span></a></div><div class = "paper"><a href = "/10.1080/00036846.2022.2120958"><span class = "dt">22:22:45</span> <span class = "title">Auditing the environmental accountability of local officials and the corporate green response: evidence from China</span> / <span class = "journal">Applied Economics</span> <span class = "author">Huang</span>, <span class = "year">2022</span></a></div><div class = "paper"><a href = "/10.1016/j.intcom.2003.11.008"><span class = "dt">22:22:44</span> <span class = "title">Interaction patterns for future interactive systems components</span> / <span class = "journal">Interacting with Computers</span> <span class = "author">Sánchez-segura</span>, <span class = "year">2004</span></a></div><div class = "paper"><a href = "/10.1038/019362a0"><span class = "dt">22:22:44</span> <span class = "title">The Patentee's Manual</span> / <span class = "journal">Nature</span> <span class = "author">G.</span>, <span class = "year">1879</span></a></div></div>
+                </div>
+                
+            </div><div id = "stats-big">
+                <div class = "he"><span>statistics</span></div>
+                    <a href = "/database">
+                        <div class = "number">88,343,822</div>
+                        <span>articles in database</span>
+                    </a>
+                    <a href = "/stats">
+                        <div class = "number">166,881</div>
+                        <span>users in <!--24 hours-->last hour</span>
+                    </a>
+                    <a href = "/10.1016/s0025-6196(12)61367-6">
+                        <div id = "lastart">latest article read</div>
+                        <span>
+                             <span class = "title">Torsten Wiesel—Swedish Neurobiologist Wins Nobel Prize</span>
+                             <span class = "journal">/ Mayo Clinic Proceedings.</span>
+                             <span class = "author">Shampo 1994</span>
+                        </span>
+                    </a>
+                </div>
+            
+            <div id = "about">
+                <div class ="te">
+                <p><span class = "he">Sci-Hub</span> is the most controversial project in today science.
+                The goal of Sci-Hub is to provide <b>free and unrestricted</b> access to all scientific knowledge ever published in journal or book form.
+                </p>
+                <p>Today the circulation of knowledge in science is restricted by high prices. Many students and researchers cannot afford academic journals and books that are locked behind paywalls.
+                Sci-Hub emerged in 2011 to tackle this problem. Since then, the website has revolutionized the way science is being done.
+                </p>
+                <p>Sci-Hub is helping millions of students and researchers, medical professionals, journalists and curious people in all countries to unlock access to knowledge.
+                The mission of Sci-Hub is to fight every obstacle that prevents open access to knowledge: be it legal, technical or otherwise.
+                </p>
+                <p>To get more information visit the <a href = "/about">about Sci-Hub</a> section.</p>
+                </div><div class ="im">
+                    <img src ="/pictures/protest.svg" align ="right">
+                </div>
+            </div>
+            
+            <div id = "reviews">
+                
+                
+            </div>
+            
+            <!--
+            <div id = "mailbox">
+                <div class = "he">
+                    <div id = "stamp"><img src = "/pictures/mail.png"></div><div id = "title">Sci-Hub newsletter</div>
+                </div>
+                <div>
+                    <div class = "description">Subscribe to Sci-Hub mailing list to get regular updates on Sci-Hub current status and development. <b>No spam guaranteed!</b></div>
+                    <div class = "description" id = "mail-thanks"><p>Thank you for joining Sci-Hub mailing list!</p>A letter has been send to your email to confirm subscription. If not received, check the Spam folder.</div>
+                    <div class = "description" id = "mail-error">Some error happened while trying to subscribe to Sci-Hub newsletter. Try again later.</div>
+                </div>
+                <div id = "mail">
+                    <input type = "text" placeholder = "name@example.com" id = "email"><button id ="mailsubbtn" onclick = "mailsend()">Subscribe me!</button>
+                </div>
+            </div>
+            -->
+            
+            <div id = "contacts">
+                <div class = "he"><span>contacts</span></div>
+                <div id = "mailto">
+                    to contact Sci-Hub creator Alexandra Elbakyan email to:<br>
+                    <a href = "mailto:alexandra@dns.cymru">alexandra@dns.cymru</a>
+                </div>
+                <!--
+                <div id = "social">
+                    subscribe to official Sci-Hub pages in social media:<br>
+                    <a target = "_blank" href = #>telegram</a>
+                    <a target = "_blank" href = #>facebook</a>
+                    <a target = "_blank" href = #>twitter</a>
+                </div>
+                -->
+            </div>
+            
+            <div class = "bar"></div>
+
+
+        </div>
+
+        </div>
+
+        <div id = "wall"><img src = "/pictures/wallcorner.png"></div>
+        <div id = "emc"><img src = "/pictures/emc.png"></div>
+        <div id = "dna"></div>
+        
+        
+    </body>
+</html>

@@ -1,0 +1,27 @@
+and conclusions.
+2. Research Framework
+The research focuses on the presentation of the possible ways of CE’s implementation in municipal
+waste management in Poland. The structure of the study includes a comprehensive literature review
+on the CE approach in municipal waste management at the European level and a review of the waste
+management system in Poland, including the actions taken by the Polish government in order to
+transform the municipal waste management system into the CE model. Moreover, an inventory of
+the actions towards the CE model in municipal waste management systems is presented based on the
+ReSOLVE framework. The assumed research framework is presented in Figure 1, and a description of
+the methods used in this paper is presented below.
+Step 1: A comprehensive literature review, which includes the detailed description of municipal
+waste management in Poland, was done with the use of the desk research method. The analysis was
+done based on an overview of the European and national law restrictions (EUR-lex), the European
+and national CE-related documents, and the available reviewed papers (Elsevier Scopus, Elsevier
+ScienceDirect, Google Scholar). All of these items were selected with the use of a few keywords:
+“Circular economy”, “CE”, “CE indicators”, “CE monitoring”, “waste management”, “municipal
+waste”, “waste”, “zero waste”, and “recycling”. Important sources of data include the European CE
+communications and directives, the Polish CE Roadmap, EU statistics reports and Polish statistical
+reports. The results of the European CE indicators in Poland (based on the CE Monitoring Framework
+of the EU) related to municipal waste were presented for two indicators (municipal waste production
+per capita in the area of production and consumption, as well as municipal waste recycling in the area
+of waste management). For this purpose, statistical data on municipal waste in Poland, published by
+the Eurostat, were used. Data have been presented since 2014, i.e., since the initiation of the need to
+switch to the CE model in the EU [1].
+Step 2: Identiﬁcation and inventory of the set of actions supporting the transformation towards
+the CE model in municipal waste management were done with the use of the method of synthesis
+(combining distinguished factors), induction (deriving conclusions from the premises that are their

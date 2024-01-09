@@ -1,0 +1,48 @@
+andimplications
+Wefocusedonaresearchgap,thatis,theintentionsandbehaviorsof
+organizations to plastic recycling. On one hand, our study substantiates
+that both individual-level and organizational-level determinants con-
+tribute to the prediction of organizational behavior. On the other hand,
+ourstudycontributestoresearchgapsthat Yurievetal.(2020) identified
+intheirmeta-analysisonpro-environmentalbehaviors.Wecontributeto
+TPB by measuring both intentions and behaviors which usually most
+researchers fail to do so, and by incorporating factors to investigate the
+causes of the intention-behavior gap (Yuriev et al., 2020). Our findings
+indicate that the attitudes, subjective norms, and perceived behavioral
+controlofdecisionmakersaresignificantdeterminantsoforganizations’
+intentionstoimplementbestpracticesofplasticrecycling.Furthermore,
+organizations’ intentions are significant determinants of organizations’
+behaviorstowardsacirculareconomyforplastics.Inshort,ourPLS-SEM
+analysisshowsthatattitudesarethestrongestpredictoroforganizations’
+intentions, whereas perceived behavioral control and barriers are the
+strongest predictors of organizations’ behaviors (see Fig. 3).
+Our study shows that attitudes are a significant determinant of be-
+havioral intentions. This finding is consistent with previous studies
+(Botetzagias etal., 2015; Cordano andFrieze, 2000; Khan et al., 2019b;
+PapagiannakisandLioukas,2012; Singhetal.,2018; Thoradeniyaetal.,
+2015).Itisworthnotingthatinourstudyattitudesyieldedthestrongest
+relationshipwithbehavioralintentionsascomparedtosubjectivenormsTable3
+Discriminant Validity (Fornell-Larcker Criterion).
+ATT BAR BEH ENA INT PBC PRE SUN
+ATT 0.786
+BAR−0.2430.721
+BEH0.320 −0.340 0.719
+ENA0.279 0.055 0.187 0.728
+INT0.490 −0.187 0.339 0.243 0.873
+PBC0.425 −0.393 0.461 0.105 0.476 0.726
+PRE0.226 −0.013 0.214 0.432 0.154 0.168 0.751
+SUN0.512 −0.267 0.350 0.226 0.468 0.527 0.290 0.778
+Note: The diagonal values (in bold) are the square root of the AVEs of latent
+variables and indicates the highest in any column or row.Table4
+Discriminant Validity (HTMT Criterion).
+ATT BAR BEH ENA INT PBC PRE SUN
+ATT
+BAR0.255
+BEH0.366 0.390
+ENA0.313 0.123 0.237
+INT0.517 0.197 0.397 0.268
+PBC0.477 0.433 0.538 0.136 0.554
+PRE0.244 0.083 0.291 0.504 0.161 0.193
+SUN0.530 0.302 0.452 0.256 0.510 0.606 0.328
+Note: HTMT < 0.85 is a threshold limit (Hair et al., 2019).O. Khan, et al. Resources, Conservation & Recycling 163 (2020) 105069
+7

@@ -1,0 +1,33 @@
+After categorizing the researches/projects in selected groups described in Table 1, the
+total number of research (research/project) for each topic has been listed in Table 2. The
+average number of research is shown in Figure 4 for both periods where the numbers have
+been divided by the length of periods to make the comparison easier.
+Table 2. Total number of researches/projects for all categories in the year 2000–2017 and 2017–2020
+in Finland.
+Category Year 2000–2016 Year 2017–2020 Increase %/Year
+1 Microplastics 3 34 4433
+2 Critical Raw Material 26 26 300
+3 Circular Economy Concept 29 281 3776
+4 Eco-design 38 46 384
+5 Textile Waste 41 25 144
+6 Sharing Economy 51 90 606
+7 Plastic Waste 61 109 615
+8 Fertilizer from Waste 96 97 304
+9 WEEE 97 82 238
+10 Municipal Solid Waste 121 64 112
+11 Food Waste 165 120 84
+12 Biotreatment and Biogas 165 76 191
+13Construction and Demolition
+Waste199 94 89
+14 Nuclear and Hazardous Waste 376 143 52
+15 Metal and Mining Waste 500 358 186
+16 Industrial Waste 594 237 60
+17 Waste Management 858 386 80
+18 Energy from Waste 869 414 91
+19Reuse, Repair and
+Remanufacture1101 412 50
+20 Biomass and Wood Waste 4023 1099 9
+1 
+  
+Figure 4. Average number of researches/projects per year for period 2000–2016 and 2017–2020 for all categories except for
+biomass and wood waste (for biomass and wood waste n = 251 for 2000–2016 and 275 for 2017–2020).

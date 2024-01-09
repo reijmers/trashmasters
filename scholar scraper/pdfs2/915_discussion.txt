@@ -1,0 +1,9 @@
+Although it is not the only existing circularity indicator, it can undoubtedly be said
+that the “material circularity indicator” is one of the most robust tools for assessing the
+CE, and since the development of the original methodology published in 2015 by the
+EMF, the similarities between life cycle assessment and material circularity indicator
+have become evident. Both methodologies use system boundaries that encompass all
+phases of a product’s life cycle, from creation to end of life. What differentiates the two
+approaches, however, is that the assessment of circularity cannot be limited to one life cycle
+because the circular pattern of one will inevitably inﬂuence the next. Slavishly quoting the
+methodology for measuring circularity, “the economic and environmental beneﬁts from

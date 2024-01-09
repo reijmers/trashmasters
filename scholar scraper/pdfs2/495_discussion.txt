@@ -1,0 +1,27 @@
+In this paper, we have described an example of human–robot collaboration, where the allocation
+of tasks to either a robot or a worker is decided in real time by the latter depending on the condition
+of the discarded electronic device. Human operators play a leading role in the recycling process by
+deciding who will perform each task. Furthermore, they concentrate on tasks requiring human skills
+and ﬂexibility. The role played by collaborative robots in the process is conﬁned to that of performing
+dangerous and repetitive operations for human operators. Therefore, they complement the workers’
+role by making tasks safer and more productive.
+A disassembly line has been described in which a close cooperation between humans and robots
+has achieved a more accurate identiﬁcation of the di erent types of plastic encountered in CRTs,
+alongside higher degrees of plastic separation, resulting in more environmentally friendly solutions
+and an increased economic value of the recovered materials. Capital budgeting techniques have
+been applied to analyze the associated investment which indicate promising results, including a
+capital-back period of about nine months and an internal rate of return of 153%. Regarding the
+productivity of the line, the human–robot solution o ers better results than the current manual solution
+and, more importantly, it is expected that the levels of job satisfaction and commitment will be
+enhanced. In this regard, it may be anticipated that operators will enjoy higher engagement values
+and improve both their performance and that of the organization as a whole [ 36]. In addition to
+that, by taking on more challenging tasks and performing valuable contributions, operators will
+be able to enjoy work meaning and enrichment at a human level [ 37]. One of the aspects that will
+change in the future work scenario would be a better trained sta alongside the presence of more
+women at work. These changes have proven to have positive e ects on productivity and economic
+growth [ 38]. In addition, the increasing number of elderly people at work is a reality. These facts make
+the introduction of collaborative robots a key factor to improve the working conditions. This holds true
+with respect to the physical point of view when the task is demanding (such as disassembly activities)
+and it is performed by elderly or women workers, but also with respect to the psychological e ect
+for general workers, who ask for a higher participation in taking control and making decisions over
+their work.

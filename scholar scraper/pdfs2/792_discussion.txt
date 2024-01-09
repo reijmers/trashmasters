@@ -1,0 +1,46 @@
+4.1. Outlook of Repair and Recycling
+The ﬁeld study ﬁndings in regards to sources of e-waste in Mexico are consistent with that of
+Cucchiella et al. [ 37], who showed that the e-waste ﬂow is primarily made up of household appliances.
+Similarly, the United Nations University determined that large equipment and cooling and freezing
+equipment have the represent the highest volume in the e-waste ﬂow [13].
+Furthermore, the reported ﬁnding that cellphone waste has one of the lowest representations at
+7% (equivalent to 301 tons/year) is also consistent with the results of Bald éet al. [ 13], who conﬁrmed
+that small and telecommunications equipment constitute the lowest proportion of e-waste ﬂow. Given
+an estimation of cellphone e-waste in the order of $2633 tons/year, this outlook highlights the need for
+public policy incentives and further regulations in order to capture a higher proportion of cellphone
+e-waste through formal channels and therefore harness the potential economic beneﬁts derived from
+valuable materials.
+Fieldwork results in Mexico showed that recycling processes are basic, based on both manual
+operations and mechanical systems. This ﬁnding is consistent with studies by SEMARNAT [ 25],
+Cruz et al. [ 8], Ghosh et al. [ 12], and Kumar et al. [ 14], as it shows that recycling processes in Mexico
+and in emerging economies are elemental, simple, and do not include end-processing technologies.
+Similar work of Parajuly et al. [ 15] studied the processing techniques used on recycling companies in
+Europe, including medium and small recyclers used rudimentary tools and equipment, which pose
+signiﬁcant health and safety risks to the workers. Nonetheless, the recovered material streams from
+manual disassembly are of high purity and cleanliness, and makes it possible to recover even small
+valuable components and material e-waste.
+In this study, we found that informal repair shops compete in an inequitable way compared
+to formal shops. However, informality was identiﬁed as a self-organized workforce that offers the
+customer similar quality of work in less time and at a lower price. In Mexico, it is clear that consumers
+prefer the most economic and efﬁcient solution, regardless if it is a formal or informal shop. Studies
+undertaken by Atlason et al. [ 38] and Perez-Belis et al. [ 39] showed that consumers look for formal
+repair stores based on the type and quality of customer service but often prefer the most economic
+and efﬁcient solution in terms of repair time and price, regardless of the academic level or working
+conditions of the people working there.
+4.2. Material Flow Analysis of Cellphone E-Waste
+After material ﬂow analysis, the ﬁeldwork reported here conﬁrmed that recycling companies
+in Mexico export all PCBs extracted from cellphones. These ﬁndings are congruent with those of
+Ghosh et al. [ 12], who deﬁned the different routes of recycling and end-processing technologies by
+analyzing more than 150 articles; they also conﬁrmed that few countries have this type of recovery
+technology, and that these materials are generally shipped to Asian and European countries. Similarly,
+Cucchiella et al. [ 37] determined that Europe has unresolved issues related to recycling processes,
+particularly in regards to materials recover from PCB components because of incorrect disassembly.
+In order to justify the installation of this kind of end-processing technology for materials discovery
+in Mexico, there has to be a solid case in terms of return on investment. Furthermore, the economic
+impact study and mass analysis provide some elements for such a business case.
+4.3. Economic Impact of E-Waste Materials in Printed Circuit Boards of Cellphones
+Figure 4 shows the relative value of cellphone PCB materials based on the ﬁeld data presented
+in Table 7. For this type of e-waste, it is clear that the most signiﬁcant opportunity in terms of
+end-processing technologies centers on recovery of gold (with 79.7% of the total value in cellphone
+PCB materials). In terms of materials value, 97.0% is given by potential local recovery of gold, copper,
+palladium, and tin.

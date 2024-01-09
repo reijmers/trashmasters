@@ -1,0 +1,68 @@
+5.1. Concrete learnings and recommendations for the focus area
+Amid the scenarios assessed, we identify anaerobic digestion with
+eﬀective energy and nutrient recovery as an option capable to improve
+the overall sustainability of the current management system in all the
+Areas-of-Protection assessed but prosperity. While common ‘circular ’
+food waste management options rely on composting and anaerobicdigestion, the actual market value of compost and digestate is rather
+low; in the Netherlands the market prices can be even negative, ranging
+from -5 to 2 €kg
+−1wet weight based on information from local op-
+erators. Because of the low nutrient concentration, but high organiccarbon content, compost and digestate are often used as soil improvers
+rather than fertilisers. In spite of the added value that organic matter
+could possibly have for agriculture under speci ﬁc conditions, the return
+on investment from applying these materials on agricultural land variessubstantially depending on local conditions ( Hijbeek et al., 2017), with
+the strongest e ﬀects likely to be observed in the long-term. Therefore,
+farmers may be reluctant to buy and apply compost and digestates; as a
+matter of fact, they are frequently paid to do so ( Gebrezgabher et al.,
+2010 ;Huygens et al., 2019 ). Considering the need to transport nutrients
+from the urban to the rural system, opportunities are present to produce
+nutrient-dense fertilisers with comparable agronomic properties as their
+mineral alternative or to manufacture speci ﬁc niche products like bio-
+char. The latter can, for instance, serve as more sustainable alternativesto existing products such as peat ( Margenot et al., 2018; Velthof, 2015 ).
+Although the added value of biochar in an European agricultural con-
+text remains disputed ( Jeﬀery et al., 2017 ), opportunities to apply
+biochar exist in diverse areas and niche sectors ( Carlile et al., 2019).
+As for all the alternative scenarios assessed, the scenario with di-
+gestion and advanced post-processing of the digestate is associated withhigher costs compared to the reference (mainly based on incineration
+without source-separation) because of the increased collectionexpenses. This option, however, o ﬀers advantages in most environ-
+mental and social impact categories thanks to the bene ﬁts derived from
+energy substitution, reduced nutrient leaching and metals deposition on
+agricultural soil. The added value of the post-processing lies in the
+production of a more e ﬃcient N-fertiliser next to the niche product
+(biochar), both having a possible higher local demand than digestate orcompost. Under the conditions assumed for the area under study,
+schemes based on home and centralised composting are associated to
+more adverse impacts, especially for human health and natural re-
+sources but also for prosperity in the case of centralised compositing
+owing to the poor revenues and high collection costs. The centralised
+mechanical-biological option performed best in fossil resource deple-
+tion (Figure 4) but was a ﬀected by the impact related to enzymes
+supply in the remaining impact categories and by overall high costs.Two main criticalities were observed for this scenario: ﬁrstly, sig-
+niﬁcant uncertainty is connected to the consumption of enzymes and its
+dataset, which calls for further investigations. Secondly, food wastesource separation should be enforced to conform with the EU Waste
+Framework Directive ( European Parliament and Council, 2018 ) and the
+use-on-land of food waste-derived fertilisers is typically allowed withthe pre-condition that the food waste is separated at the source
+(European Parliament and Council, 2019). While this assessment in-
+dicates clear priorities for the ideal management scheme, an aspectcalling for further investigation regards the portfolio of technical and
+socio-economic tools to increase separate collection rates, here assumed
+to be ﬁnally in line with the EU 2030 goals. This calls for a di ﬀerent
+type of study, e.g. identi ﬁcation of best practices, and was beyond the
+scope of this analysis.
+5.2. Transforming scattered data into a useful format for stakeholders
+This article presents the application of a sustainability framework
+that can be used to bridge the gap between science and decision-
+making. The application is illustrated with a case study on di ﬀerent
+food waste management options for the Amsterdam Metropolitan Area.
+This study is part of a broader EU Horizon 2020 project namely REPAiR
+(Resource
+Management in Peri-Urban Areas), whose ambition is to shed
+new light on participatory and science-based decision-making by in-volving local stakeholders in the entire process. The method started bylisting the most relevant impacts of waste management identi ﬁed by a
+wide range of stakeholders and the literature, covering social, economicand environmental areas e.g. costs, urban space consumption, sustain-
+able use of natural resources, local pollution and emissions, and legis-
+lative requirements. The approach applied relies on the input of the
+(local) stakeholders involved in order to collect, to the best possible
+Figure 4. Disaggregated life-cycle results for the Area-of-Protection natural resources (FU: 153 kt food waste annually generated). Positive values indicate burdens,
+while negative indicate savings. The left-hand side of each graph illustrates the impacts for the treatment of SC-FW and NSC-FW in each scenario. The right-hand side
+of each graph illustrates the total scenario result (SC-FW + NSC-FW) for the default calculation (mean and error bars indicating plus minus one standard deviation)
+and for the energy and market variant when applicable. Scenarios associated with a net saving relative to REFare displayed on the green background while those
+associated with a net burden relative to REFare displayed on the red background. For the abbreviations and description of the legend refer to Figure 2 .D. Tonini, et al. Resources, Conservation & Recycling 160 (2020) 104854
+9

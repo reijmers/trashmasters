@@ -1,0 +1,60 @@
+According to the results of Section 4, after applying the SBA model to SIGNUS
+(Table 3), it is possible to determine that 3.67% of GHG emissions are linked to reuse
+processes, a high percentage, 95.82 %, to those of recycling, of which 53.26% is to obtain
+materials to reintroduce them into the system and 42.56% is to produce energy. The total
+environmental impact measured in terms of CF is 13,066.85 t CO 2e,an impact derived from
+the additional activities incorporated into the tire production system for the promotion of
+EC.
+With the application of the SBA model we can not only ascertain the GHG emissions
+of activities involved in the management of the ELT, but we can also assign them to the
+GHG emissions of each product obtained in each of the phases of waste management
+(Figure 5). This information can be useful to know the life cycle of products manufactured
+from recycled materials or to establish comparisons between products manufactured from
+natural resources.
+Sustainability 2021 , 13, x FOR PEER REVIEW 14 of 19 
+ 
+ Removed Recycling Material    Grinding Electrical Powe r     
+Recycling Process     Driver 
+Number GEI 
+(t CO 2e) Driver 
+Number GEI 
+(t CO 2e)     
+Recycling 
+energy 
+valuation 
+(2) 5441.32 tonnes 69,426.00 0.08 66,731.80 5355.72 2695.00 216.29     
+5. Results and Discussion 
+According to the results of Section 4, afte r applying the SBA model to SIGNUS (Table 
+3), it is possible to determine that 3.67% of  GHG emissions are linked to reuse processes, 
+a high percentage, 95.82 %, to those of recyclin g, of which 53.26% is to obtain materials to 
+reintroduce them into the system and 42.56% is to produce energy. The total 
+environmental impact measured in terms of CF is 13,066.85 t CO 2e, an impact derived from 
+the additional activities incorporated into the tire production system for the promotion of 
+EC. 
+With the application of the SBA model we can not only ascertain the GHG emissions 
+of activities involved in the management of the ELT, but we can also assign them to the 
+GHG emissions of each product obtained in each of the phases of waste management 
+(Figure 5). This information can be useful to know the life cycle of products manufactured 
+from recycled materials or to establish co mparisons between products manufactured from 
+natural resources. 
+ 
+Figure 5. GHG emissions from the reuse of ELT and materials from  ELT recycling (2017). * SFR: Solid Fuel Recovered. 
+Source: in-house based on SIGNUS [69,71]. 
+It also allows us to compare the carbon footprint of different processes. According to 
+data from the Department for Business, En ergy and Industrial Strategy of the UK 
+Government Conversion Factor for Company Reporting (2020), tire manufacturing has a 
+carbon footprint of 3.34 tCO 2e per tonne of tire manufactured. This is much higher than 
+the carbon footprint of recycled tires, which amounts to 0.04 tCO 2e [73]. 
+The results obtained are important for the decision-making process for ELT 
+managers, which can encourage them to improve the design and production process of 
+reused materials and materials from ELT recycling, to reduce their impact and 
+contribution to climate change; in short, to  contribute to the CE promoting sustainable 
+development and creating sustainable organiza tions. On the other hand, these results can 
+be useful for the development of policies with specific objectives in the prevention of 
+Figure 5. GHG emissions from the reuse of ELT and materials from ELT recycling (2017). * SFR: Solid Fuel Recovered.
+Source: in-house based on SIGNUS [69,71].
+It also allows us to compare the carbon footprint of different processes. According
+to data from the Department for Business, Energy and Industrial Strategy of the UK
+Government Conversion Factor for Company Reporting (2020), tire manufacturing has a
+carbon footprint of 3.34 tCO 2eper tonne of tire manufactured. This is much higher than
+the carbon footprint of recycled tires, which amounts to 0.04 tCO 2e[73].

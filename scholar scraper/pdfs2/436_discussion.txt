@@ -1,0 +1,40 @@
+9.1. Developmental Strategies and Socio-Environmental Impact in the Context of the Circular Economy
+CE strategy is versatile enough to o er feasible potentials that o set virgin material demand
+and make provision for secondary supply, raw materials, alloys (recycling), parts (remanufacturing),
+and products (reuse). This CE feature is especially advantageous against supply restrictions where
+new materials are not readily available. Of particular importance are the following advancements:
+(a) the elimination of socio-political supply risk potentially divulged, while ensuring the supply of raw
+materials, parts, and products of domestic or industrial feedstock, and (b) the optimization of closed
+loop reverse supply chains. Such an approach can sustain competitive advantage to ﬁrms, enhancing
+proﬁts and establishing brand reputation [52].
+Another important feature of CE strategy is directed at dematerialization, which supports resource
+eciency goals. This feature is feasible in various ways which involve a shift-case toward service-based
+economies. This managerial modiﬁcation can be directed to service-based economies, owing to the
+development of technologies which support and ensure virtual services while enhancing global access
+to such technologies. It is also noteworthy that the implementation of advanced circularity principles
+is challenging the transition to service-based economies. Therefore it is an unavoidable reality that
+such a transition can be certainly be achieved among well-developed countries, while leaving behind
+and/or shifting manufacturing among countries of less developed circularity goals [52].
+Besides the aforementioned dematerialization, diversiﬁcation is also a key feature of industrial
+ecology (IE) that is readily applicable to the context of CE. Speciﬁcally, diversiﬁcation can manage
+network expansion, having strong potential to strive for additional circularity pathways. In this
+respect, additional network nodes in the supply chain can strengthen dense connections which enable
+circularity within the whole system [52].
+Furthermore, these strategies are indirectly and positively a ecting the operability of ﬁrms.
+The main e ect of these strategies regards the standardization of metrics in reducing supply chains
+risks [ 52]. Multifaceted economic, environmental, and social valuation of customer needs could be
+further materialized in terms of redesigning changes in business models and shifting from selling
+products, in the context of sustainable consumption and production (SCP). Critical indicators of SCP
+functionality include the time dimension (i.e., now and in the future), the utility preference, along with
+existing sunk costs [14,63].
+9.2. Discussion on Terminology Instruments and CE Models
+It is noteworthy that during the last decade, the aforementioned concepts of BE, CE, and GE
+and their relation to the goals directed at developing a sustainable economy have impacted political,
+academic, social, and entrepreneurial interest. The importance of measuring circularity is linked to
+measuring the e ects of the CE in terms of proﬁtability, job creation, and environmental impact. A
+proposed measure can be based on the economic value of the parts of a product. Besides, considering
+the environmental aspects of the analysis, a set of indicators can be designed to evaluate the e ciency
+of speciﬁc processes in CE models, such as e ciency in the use of resources, waste minimization
+and conversion. Future research is in alignment with di erent measures, enabling entrepreneurs to
+implement cleaner production, minimizing emissions along with raising competitiveness. Moreover,
+there is still room for further methodological improvements to better analyze the most appropriate

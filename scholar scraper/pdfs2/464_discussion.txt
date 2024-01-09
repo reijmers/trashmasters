@@ -1,0 +1,26 @@
+Choosing one allocation approach of environmental burden over
+another can appear arbitrary. However, the compliance of the ap-
+proaches with the concepts of industrial ecology can still be discussed
+for this case study. Industrial ecology is based on the concept of waste-
+as-a-resource. It considers products intended to be produced, and sec-
+ondary resources, which are unintended but can contribute to obtain
+new products and depend on the intended products to be produced. On
+the other hand, the unintended secondary resources should be safely
+managed as a consequence of the production of the intended products.
+The concept of industrial ecology highlights a “hierarchy of intent”
+(intended products and secondary resources), and a dependence of all
+products from the system to one another. First, some allocation ap-
+proaches do not allocate any impact of virgin raw materials extraction
+and processing to the recovered products (the zero-burden, 0:100,
+100:0 and 50:50 approaches). This does not reflect the dependence of
+the recovered products to the intended products as they could not be
+produced without extraction and processing. On the other hand, the
+100:0 approach fully allocates the impact of this processing to the re-
+covered products while these processes are a consequence of the pro-
+duction of consumer goods. Therefore, based on the concept of the
+producer’s responsibility often used to promote the implementation of
+the industrial ecology principles, part of the burden from recovery
+processes should be allocated to the consumer goods. The “50:50
+adapted” approach allocates equally the impact from the raw materials
+Fig. 9.Resource footprint of the consumer goods with the zero-burden assumption and the five allocation approaches.S. Sfez, et al. Resources, Conservation & Recycling 148 (2019) 132–144
+142

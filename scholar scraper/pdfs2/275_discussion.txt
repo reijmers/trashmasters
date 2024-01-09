@@ -1,0 +1,51 @@
+and sensitivity analysis for parameters  p and d 
+The main conceptual difference between the new vers ion of the RBR and the RCBR indicator 
+proposed in this paper is that the RCBR indicator d oes not account for the incineration of the first 
+product α 0 in the reference situation in which it is not recy cled. This is because the focus of the RCBR 
+indicator is on the new product designer’s perspect ive instead of the previous product’s end-of-life 
+or waste perspective. However, from a life cycle pe rspective we can conclude that the RBR indicator 
+is more comprehensive than the RCBR indicator. Beca use we accounted (in both indicators), in 
+addition to the burdens of incineration, for the be nefits of incineration, i.e. the avoided burdens of  
+average virgin electricity and heat produced in Bel gium, the LCI dataset for the avoided electricity 
+and heat production has an important influence on t he RBR result. A sensitivity analysis for the 
+electricity and heat LCI dataset is out of the scop e of this paper. 
+Because the contribution of injection moulding to t he life cycle impact of the green roof tile is larg e 
+(see section 3.2.1), also the LCI dataset for injec tion moulding may play an important role in the 
+indicator results. The many factors influencing the  energy consumption of injection moulding (e.g. 
+installed machine power, cycle time, part maximum t hickness, etc.) (Ribeiro et al., 2015) are not 
+reflected in the average ecoinvent LCI dataset that  was used in this case study. It must be taken into  
+account that the solid waste fraction considered in  this study originated largely from extrusion 
+products (foils, trays, etc.). Extrusion-grade mate rials typically have high viscosities, while inject ion 
+moulding grades have low viscosities, allowing them  to be injected into the cavity with little 
+resistance. The particularly high energy consumptio n for injection moulding in this study is due to th e 
+fact that a mixture of extrusion-grade secondary ma terials were used for an injection moulding 
+product. Should the source material be injection gr ade (like ELV or WEEE polymers) or should the 
+chosen new product be an extrusion product (like pl astic boards for a picnic bench), energy 
+consumption would be reduced drastically. The virgi n PP from the comparison is an injection-grade. 
+As such, we risk a skewed perception that the mater ial being recycled would be a cause for higher 
+energy consumption, while in fact it is the viscosi ty of the sourced polymers. 
+In this case study, we have assumed that the collec tion efficiency for the green roof tile is 100%, 
+going either to incineration or recycling. It is, h owever, important to note that the building’s end o f 
+life is complex and that the material’s recovery la rgely depends on the functioning of the local 
+collection scheme. For cases where the collection e fficiency is lower than 100%, future adjustments 
+of the equations should account for additional mate rial losses. 
+Figure 4 presents a sensitivity analysis for parame ters p and d in Eq. 4-7. A table with results, 
+including the results for the ReCiPe Midpoint impac t categories that are not presented in Figure 4, 
+can be found in the supporting information. 
+In the presented results of the case study (section  3.2.1) parameters p and d were both equal to 1 in 
+both the first and the second cascade. Figure 4 com pares the latter results with three other 
+scenarios, i.e. (i) p=0.8; d=1 to show the effect o f parameter p, (ii) p=1; d=2 to show the effect of 
+parameter d, and (iii) p=0.8; d=2 to show the combi ned effect of parameters p and d. Decreasing 
+parameter p from 1 to 0.8 means a 20% reduction in the proportion of recycled material in the green 
+roof tile. Reducing parameter p and keeping paramet er d equal to 1 shows always a reduction in the 
+environmental benefits of the recycling scenario co mpared to the incineration scenario for all impact 
+categories/endpoints and for all indicators (Figure  4 A-D). Increasing parameter d from 1 to 2 stands 
+for a 50% reduction in the lifetime of the green ro of tile made from recycled material compared to 
+the green roof tile made from virgin material. Rais ing parameter d and keeping parameter p equal to 
+1, however, shows a reduction or an increase in the  environmental benefits of the recycling scenario 
+compared to the incineration scenario depending on the impact category/endpoint. The ReCiPe 
+Endpoints Human Health  and Natural Ecosystems  show a decrease when raising parameter d and 
+keeping parameter p equal to 1 for all indicators ( Figure 4 A-D). On the other hand the CEENE total  
+impact category and the ReCiPe Endpoint Natural Resources  increase. An increase in the 
+environmental benefits of the recycling scenario co mpared to the incineration scenario means that 
+the increased benefits of avoided virgin electricit y and heat production due to incinerating 2 recycle d

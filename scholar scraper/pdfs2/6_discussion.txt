@@ -1,0 +1,45 @@
+The classiﬁcation of the 20 cases through the Research Framework provides an overview of the
+implementation of CE in the household appliances industry. Results are reported in Table 1.
+Table 1. Overview and classiﬁcation of cases.
+Circular Economy 4R
+StrategiesCircular
+Economy LeversEnabling Role of
+Digital TechnologiesCircular Beneﬁts
+Case
+Reduce
+Reuse
+Remanufacture
+Recycle
+Circular Product Design
+Servitized Business Model
+Supply Chain Management
+Internet of Things
+Big Data & Analytics
+Cloud Platform
+3D Printing
+Environmental Beneﬁts
+Economic Beneﬁts (User)
+Economic Beneﬁts (Supply Chain)
+Social Beneﬁts
+Astelav (Ri-Generation) X X X X X X X
+Bundles X X X X X X X X X
+Bloomest X X X X X X
+Groupe SEB X X X X X X X
+Whirlpool (PolyCE) X X X X X
+SOS Accessoire X X X X X
+PocketWatt X X X X X X
+AquaFresco X X X X X
+Gorenje X X X X X X X X X
+Homie X X X X X X X X
+The Machine du Voisin X X X X X
+L’Increvable X X X X X
+WeWash X X X X X X X
+Electrolux (Zero Landﬁll) X X X
+Miele X X X X
+Relight X X X
+The Restart Project X X X X X X
+Coolrec X X X
+Norsk Ombruk X X X X X X
+Repair Caf é X X X X X
+Total 15 3 3 4 6 12 12 6 3 5 2 20 12 8 3
+“X” means that the i-th case considers the j-th element.

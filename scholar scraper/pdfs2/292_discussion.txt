@@ -1,0 +1,17 @@
+4.1. Emissions Avoided
+Throughout 2016, a total of 594 tons of recycled material were collected; of this amount, 51%
+corresponded to paper and cardboard, 25.08% to plastics, 12.12% to glass, and 11.28% to scrap metal.
+To calculate the emissions avoided, it is assumed that 100% of the recycled material was used by the
+ﬁnal industry to replace virgin raw materials.
+As a result of the recycled material collection activity among 82 recyclers, 288.70 tCO 2-eq was
+avoided due to the replacement of virgin raw material. The abatement of CH 4emissions due to
+avoiding the inclusion of paper and cardboard waste from the Pichacay landﬁll was 2738 tCO 2-eq.
+We did not consider emissions from transport and non-energy processes. Paper and cardboard
+represented 90.5% of the total emissions avoided, mainly due to the deviation of material in landﬁlls.
+The remaining 9.5% of emissions were produced from the use of recycled material.
+Table 3 shows the results, and these are consistent with the literature of [ 25,78,79], which establish
+the reduction of 0.57–0.78 tCO 2-eqper ton of paper, 0.45–1.83 tCO 2-eqper ton of plastic, 0.03–0.5 tCO 2-eq
+per ton of glass, and 0.6–2.6 tCO 2-eqper ton of metal. Only the glass had values below the reference
+values. Comparing these results with the paper of King and Gutberlet [ 25], the Cooperpires cooperative
+contributed to a reduction of 1443–2720 tCO 2-eq, of which approximately 276 tCO 2-eqwas avoided
+through recycling, and around 1277–2444 tCO 2-eqby the diversion of paper and cardboard.

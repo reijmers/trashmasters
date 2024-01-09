@@ -1,0 +1,54 @@
+and conclusion 
+Since ecological and environmental sustainability are at the forefront 
+of the economy, the circular economy is the economy for the future. The 
+circular economy ’s central concept is human life’s long-term viability. 
+The circular economy may offer a way to overcome the current pro-
+duction and consumption model, which is limited in terms of energy 
+resources. This economy is focused on a closed-loop system in which the 
+primary energy and material resources are urban and industrial wastes. 
+The main goal of the study was to analyze the effect of waste gen-
+eration, recycling, renewable energy, biomass and soil pollution on the 
+gross domestic product (GDP). For such a purpose adaptive neuro fuzzy 
+inference system (ANFIS) was implemented. The consumption of metals 
+as a percentage of Domestic Material Consumption (DMC) represents the 
+most influential factor for GDP prediction. The main concluding remarks 
+could be summed as follows:  
+- Phosphorus balance per hectare is the most relevant factor for the 
+GDP,  
+- The combination of municipal waste generated and phosphorus 
+balance per hectare is the most relevant combination of two factors 
+for the GDP,  
+- The combination of municipal waste generated, renewable energy 
+supply and phosphorus balance per hectare is the most relevant 
+combination of three factors for the GDP. 
+Based on the results one can conclude the soil quality is very 
+important factor for the economic development in circular economy. 
+Municipal waste generated is only important if it is combined in the 
+same time with the phosphorus balance per hectare. In other words one 
+needs to change two factors in the same time in order to take effect of the Table 1 
+RMSEs of the single parameters.   
+Recycling Municipal waste 
+generated Renewable energy 
+supply Renewable 
+electricity Biomass Nitrogen balance 
+per hectare Phosphorus balance 
+per hectare 
+Recycling trn 26.3490, 
+chk 26.4967       
+Municipal waste 
+generated  trn 25.6365, 
+chk 25.7063      
+Renewable energy 
+supply   trn 25.9167, chk 
+25.6960     
+Renewable 
+electricity    trn 26.3574, chk 
+26.2860    
+Biomass     trn 26.2468, 
+chk 26.7334   
+Nitrogen balance 
+per hectare      trn 25.9402, 
+chk 25.9366  
+Phosphorus balance 
+per hectare       trn 25.4376, chk 
+25.3965  B. Petkovi ˘c et al.

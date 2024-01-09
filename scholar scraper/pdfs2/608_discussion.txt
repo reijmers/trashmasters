@@ -1,0 +1,21 @@
+and  conclusion
+The  COVID  pandemic  has  devastated  the  food  production  sys-
+tem, which poses several  threats  and  repercussions.  The  threat
+of  national lockdowns  in  several  countries  has  contributed  to  the
+excessive  storage  of  food  products  and  other  packaging  items
+related  to  processed  foods,  food  deliveries  etc.,  resulting  in  a  dis-
+turbing  cycle  of  waste  management  development  (Albahli  et  al.,
+2021 ;  Abdulkareem  et  al.,  2021 ).  The  challenge  of  sorting  and  classi-
+ﬁcation  of  waste  is  investigated  in  this  study,  considering  the  circu-
+lar  economy  context,  where  recycling  output  is  used  as  a  resource  tothe industries. In  such  practices,  sorting  and  classiﬁcation  will  inﬂu-
+ence the recycling  yields.  Hence,  an  AI-based  automated  solution
+is  proposed.  The  proposed  model  performance  is  veriﬁed  by  con-
+ducting the  simulated  experiments.  Here,  the  classiﬁcation  is  done
+using  a  decision  level  fusion  scheme  and  machine  learning  tech-
+niques  by  aiming  for  the  correct  separation  of  waste  in  recycling
+categories—four  trash  categories  such  as  glass,  metal,  COVID-19
+waste,  and  plastic.  The  ﬁndings  indicate  that  the  proposed  fusion
+scheme  is  signiﬁcantly  superior  to  the  Single  Best  Performance  Fea-
+ture  Scheme.  The  classiﬁcation  achieved  96.5  %  accuracy,  95.3  %
+sensitivity  and  speciﬁcity  of  95.9  %  while  using  SVM  as  a  classiﬁer.
+492

@@ -1,0 +1,106 @@
+The common criteria to CE actions found in Table 8 are DQ and 
+update frequency. Although quality data may seem obvious for policy 
+analysis, the results of this work reinforce the need for improved access 
+to data throughout material life cycles (Chowdhury, 2009). Improved 
+data access is further supported by the need for update frequency since 
+models can only be updated when the necessary data are available. The 
+variability in product granularity as a requirement supports the idea that 
+multiple simultaneous actions may be most effective (Bening, 2021; 
+Friant et al., 2021; Syberg, 2021) because they can cover the spectrum 
+from materials broadly to specific products. It is a bit surprising that flow 
+totality is not a consistent requirement as the goal of CE is to maximize 
+the value of materials in society, which would imply knowledge of 
+material flow in all pathways. Instead, the need for flow totality in the 
+actions analyzed here depends on the scale of the action, with actions 
+targeting the product-level being less likely to rely on this knowledge. 
+Sensitivity to disruptions should be important to all actions because this 
+knowledge informs the feasibility of an intended action. For example, if 
+secondary markets cannot support material diversion from landfills, 
+more planning and actions will be needed to manage the diverted ma-
+terials. Understanding how the criteria apply to the various CE actions 
+provides a suitable context for framing the trade-offs among the three 
+modeling approaches. 
+4.1. Identifying modeling trade-offs for CE actions 
+Model applicability is overlaid in Table 8 based on a comparison of 
+the results from analyzing the models and CE actions. Although one 
+might attempt to select regional reporting (Model 3) as the “best” option 
+because it seemingly fulfills 19 out of 25 ‘nodes’ in the crosswalk, the 
+intent of this paper is not to recommend a particular model type but 
+instead provide an understanding of the tradeoffs when selecting each 
+type. Given no model considered in this work fully satisfies the required 
+criteria for any of the actions, managing the trade-offs from the 
+perspective of policy implementation will be more useful. For the sake of 
+discussion, the selection of models will be considered as if the models 
+evaluated here are the only available form of each model type. The 
+limitations of the models presented here and future activities that can 
+improve how the general model types fulfill the criteria are summarized 
+in Section 4.2. 
+For MRC and MR actions, the tradeoffs based on model selection are 
+identical because of the shared criteria requirements. If the IMFA model 
+is used, flow totality (although not a requirement) and product granu -
+larity can be maintained, but possibly at the expense of DQ, update 
+frequency, and market sensitivity. The IO-based model is weak on up-
+date frequency while the regional reporting model is weak on product granularity. When it comes to decision-making, data quality should not 
+be compromised. Therefore, the main trade-off for MRC and MR policies 
+is between product granularity and update ease/frequency. When these 
+policies target products, they need to be analyzed for effectiveness at the 
+product level, which supports the use of the IO-based model. However, 
+when these policies target a “material-level,” the regional reporting 
+model should be preferred for monitoring frequency. 
+The tradeoffs for EPR relate to flow totality and product granularity 
+without sensitivity to market disruption. Flow totality presents an 
+interesting challenge because only the IMFA model provides that type of 
+information and yet this is the model with the highest potential for DQ 
+issues. Since the DQ scores for this model vary by material (Table 6), this 
+tradeoff may be minimal for material models based on higher quality 
+data. For materials with low DQ scores, additional analysis of model 
+sensitivity and uncertainty may be necessary to improve confidence in 
+resulting decisions. If frequent policy analysis is anticipated, the IMFA 
+model may also be challenging because of the effort required to update 
+it. If decision makers implementing EPR actions decide flow totality can 
+be sacrificed to preserve DQ, the IO-based model may be the only 
+alternative because of the lack of product granularity with regional 
+reporting. The advantage offered by regional reporting is its update 
+frequency. 
+Like EPR, LB and RRT also require flow totality and are limited in this 
+respect to the use of the IMFA model. The two policy areas differ from 
+EPR and each other because LB does not need models that are sensitive 
+to disruptions or product granularity while RRT analysis does benefit 
+from models that consider sensitivity to disruptions. After LB imple -
+mentation, analyzing waste-stream impacts with the IMFA model will 
+allow a holistic view of how MSW streams are or are not shifting away 
+from landfills, towards recycling, or being reduced in generation vol-
+ume. The best alternative for LB when DQ is a must at the expense of 
+flow totality is again the regional reporting model for its update ease and 
+frequency, which essentially highlights the fact the IO-based model is 
+best suited for applications where product granularity is important. For 
+RRT, the key tradeoff is between flow totality and sensitivity to 
+disruption, since no model fulfills both requirements. Of the two, it’s 
+logical to assume sensitivity to disruptions is preferred since recycling 
+rates are strongly influenced by availability and price of secondary 
+materials. If an RRT is enacted on a material basis, negating the need for 
+product granularity, the regional reporting model is the most attractive 
+option in terms of update frequency. If an RRT is enacted at the product 
+level, the IO-based model will offer the most benefit. 
+4.2. Limitations, harmonization, and suggestions for further research 
+Ultimately, frequently published data on material movement in a 
+circular economy will offer policymakers the ability to benchmark their 
+progress towards recycling, materials management, and other CE goals. 
+One aspect not considered in this work that can impact data is the ease of 
+use each model provides based on its method of access and sophisti -
+cation. For example, the WEIO model is available as a repository of R 
+and python code and some knowledge of programming would be needed 
+to use it. Similarly, the IMFA model is quite complex and takes time to 
+learn to update and use. However, the three models analyzed in this 
+work are single examples of the broader modeling approaches they 
+represent. Understanding the limitations of these examples identified in 
+this work and how they relate to current trends in development of the 
+approaches can help shape a vision of how modeling can support CE 
+policy in the future for countries that lack centralized waste data 
+reporting. 
+The main limitations of the IMFA model include: key data elements 
+that are static and lack sensitivity to disruptions; CBI data that lack 
+transparency; and complex calculations that vary from product to 
+product. For example, one industry might report the recycling rate while 
+the recycling rate of another must be estimated from knowledge of 
+generation and landfilling. This makes it difficult to compare pathways V. Vines et al.

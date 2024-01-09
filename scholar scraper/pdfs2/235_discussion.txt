@@ -1,0 +1,37 @@
+Current studies about WTE in China have been limited in literature
+and theoretical or case analysis, and the efficiency of WTE systems are
+still unknown. Chinese government should use the minimum inputs,
+such as capital and labor, to produce the maximum outputs, namely
+energy. Therefore a comprehensive evaluation of the efficiency of differ-
+ent options about how to turn waste into energy should be carried out.
+More specific measures can be put forward to improve the efficiency
+cost-effectively. In future work, the flowing method can be used to
+figure out the efficiency of WTE systems of a decision-making unit.
+Nonradial directional distance function, a type of data envelopment
+analysis, is a useful method to evaluate the total factor environmental
+performance and has been adopted to determine the efficiency of
+resource utilization by many scholars ( Barros et al., 2012; Bian et al.,
+2013; Sueyoshi and Goto, 2012; Wang et al., 2013 ).
+Assume that K,L, and Ware capital stock, labor force, and waste,
+respectively. These represent inputs of the production process. Y,E, and
+Cmean GDP (good output), waste (good output), and CO 2emissions
+(bad output), respectively. The joint production technology ( T) can be
+obtained as
+T5K;L;W;Y;E;C ðÞ :K;L;W ðÞ can produce Y;E;C ðÞ/C8/C9
+(2.1)
+The nonradial directional distance function is not only capable of
+decreasing inputs/bad outputs and increasing good outputs simulta-
+neously but also can adjust the inputs and outputs at different rates
+(Zhou et al., 2012 ). In this regard, nonradial directional distance func-
+tion has been widely adopted to evaluate total factor environmental per-
+formance because of better discriminating power and improved
+efficiency measurement. We denote the value of nonradial directional
+distance function as ~ND K;L;W;Y;E;C;g/C0/C1
+. Then the nonradial direc-
+tional distance function can be expressed as ( Zhou et al., 2012 ):
+ND-
+K;L;E;Y;C;g/C0/C1
+5sup wTβ:K;L;E;Y;C1g3diag βðÞ/C0/C1
+AT/C8/C9
+(2.2)37 2.4 Discussion
+Waste-to-energy

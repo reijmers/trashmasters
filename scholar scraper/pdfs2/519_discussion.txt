@@ -1,0 +1,48 @@
+Results from the two case studies showed that both sanitation ventures faced similar challenges
+to realizing the circular economy and that there were also similarities in the government and policy
+contexts between Haiti and Kenya. The fact that both ventures were able to sell all the fertilizer they
+produce showed that there is a demand for organic amendments, but a larger market needs to be
+accessed to reach proﬁtability. In treating human excreta and producing compost, the treatment can
+become more proﬁtable at larger scales [ 29], both companies were still increasing the number of toilet
+customers and were hoping to reach an economy of scale and be proﬁtable once a certain density of
+coverage is reached and compost volumes increased.
+4.1. Challenges to Proﬁtability
+A considerable amount of resources are currently needed to sell compost derived from human
+excreta because of its relative novelty as a commercial product. The quality of the compost and its
+positive e ect on crops need to be demonstrated through trials to attract customers and a dedicated
+team of agronomists providing support and advise to farmers is one of the elements required. It is
+likely that these e orts will only be needed at the beginning of the commercialization process to secure
+initial customers, as other farmers will see the beneﬁts of the compost in the early-adopters. However
+they represent a signiﬁcant investment and e ort for a young company. In addition to that initial
+challenge to breaking even, compost is also a low-value product. In both case studies, it was evident
+that the demand for human excreta derived fertilizer existed, but the challenge lay in recovering
+treatment costs and making a proﬁt from sales. The production of fertilizers derived from organic
+residues in the formal sector is generally uncommon and that type of fertilizer is often stigmatized
+because it originates from materials that are considered as waste. Compost is also bulkier than chemical
+fertilizers, so transport costs can be signiﬁcant relative to its value, and it is often perceived as less
+convenient to use than pelletized chemical fertilizers [ 14,15,29]. Modifying the properties of the ﬁnal
+product can also have signiﬁcant e ects on its proﬁtability. Danso et al [30] showed the potential e ect
+of modifying compost attributes in Uganda: farmers’ willingness to pay was US$0.40 more if the
+fertilizer was certiﬁed, which gave an overall price 67 times higher than the cost of providing it. If the
+compost was pelletized, they would be willing to pay $0.127 more, but this meant the sale price was
+less than the price required to produce the compost. The high concentration of pathogens in the initial
+material required extensive monitoring and testing to ensure health risks are eliminated, also adding
+to the operational cost of the composting plants. Full cost recovery of biosolids production is also a
+challenge for wastewater treatment companies. In the Unites States for instance, a survey of a range of
+companies selling biosolids compost, showed that on average one third of operation and maintenance
+costs of the composting facility were covered by compost sales [31].
+Compost also faced barriers in the fertilizer market, with markets for organic fertilizers not being
+developed. There is a need to ‘level the playing ﬁeld’ to create viable competition for organic fertilizers
+in the wider fertilizer market; incentives for using organic fertilizers need to be provided. Currently
+many countries in the Global South provide subsidies to facilitate farmers’ access to mineral fertilizers
+but fewer incentives are in place for the use of organic fertilizers [ 32]. The successful production
+and sales of compost from organic residues is not impossible. A well-known example of successful
+production of compost from organic residues from markets is Waste Concern in Bangladesh [ 33].
+As Seelos and Mair [ 34] explain for this case, a partnership with a chemical fertilizer company allowed
+the compost manufacturer to sell all its produce at a proﬁt whilst the mineral fertilizer company
+processed it further. This was also helped by local government’s e orts in promoting organic agriculture
+among local farmers. Support from the Bangladeshi Ministry of Agriculture was instrumental to the
+success of this initiative by providing formal approvals and supporting policies for the compost [ 15,35].
+Neither of the treatment systems considered in this study collect or treat the urine fraction of
+excreta even though it contains the highest concentration of nutrients [ 36]. This was mainly due to
+prohibitive transport costs to the processing sites which are a long way away from where the urine is

@@ -1,0 +1,50 @@
+In this section, the four cases are compared and analysed. Based on the combined analysis of the literature and the empirical
+ﬁndings, a conceptual framework is proposed linking the 24 challenges to a set of levers to overcome them.
+Table 10provides a cross-case comparison, summarising the challenges associated to each case.
+It is worthwhile to note that all the 24 challenges have appeared at least in one case, while only one, i.e. ‘product
+technology improvement’, appeared in all cases. Given the different roles and activities covered by the investigated com-
+panies, which range from product design and manufacturing to end-of-use renovation, the empirical investigation conﬁrms
+the distribution of CE challenges among the different lifecycle phases and supply chain actors emerged from the literature(Table 9). Consequently, the need for a systemic and holistic approach when supply chain are redesigned for CE is supported
+by this study (Lieder and Rashid 2016).
+The ﬁndings suggest that a great degree of vertical integration by one actor in the supply chain is not a necessary
+condition for CE implementation, differently from ﬁndings from previous research. In fact, each case has mainly focused
+on one or few among the four CE building blocks, but they allow (each case alone and altogether) achieving economic,
+environmental and societal beneﬁts at the aggregate level, thus contrasting previous ﬁndings that asserted the need of vertical
+Table 10. Cross-case comparison: challenges pointed out in the cases.
+Category ID Challenge Alpha Beta Gamma Delta N° of occurrences
+Economic and ﬁnancial viability 1 Time mismatch between
+revenue and cost
+streamsXX 2
+2 Financial risk X X 2
+3 Operational risk X X 2
+Market and competition 4 Cannibalisation X X X 3
+5 IP and know-how access X 1
+6 Brand Image X 1
+Product characteristics 7 Fashion change X 1
+8 Product complexity X X 2
+9 Product (mass)
+customisationXX 2
+Standards and regulation 10 Taxation and incentives X X 2
+11 Measures, metrics,
+indicatorsX 1
+12 Lack of standards X X 2
+Supply chain management 13 Return ﬂows uncertainty X X 2
+14 Transportation and
+infrastructureXX 2
+15 Availability of suitable
+supply chain partnersXX X 3
+16 Coordination and
+information sharingX 1
+17 Product traceability X 1
+18 Cultural issue (linear
+mind-set)X 1
+Technology 19 Eco-efﬁciency of
+technological processesX 1
+20 Product technology
+improvementXX X X 4
+21 Data privacy and security X X 2
+Users’ behaviour 22 Ownership value X X 2
+23 Careless behaviour in
+product usageXX 2
+24 Users’ willingness to pay X X X 3
+N° of challenges 14 12 9 10

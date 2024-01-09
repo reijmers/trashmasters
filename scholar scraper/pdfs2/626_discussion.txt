@@ -1,0 +1,36 @@
+The results and ﬁndings presented in this article provide in-
+sights from three different types of representative stakeholders: a
+technology provider, a technology user, and a governmental
+agency, which oversees environmental protection and wastemanagement. On this basis, the authors of this article proposed
+several propositions: The ﬁrst was that the lack of pressures from
+external stakeholders, including the regulatory bodies and the
+markets (B2 and B5), was at that time a fundamental barrier and a
+reason for the failure in the promotion of smart enabling technol-
+ogies for improving waste management. The second was that the
+lack of internal motivation, which was attributed to the lack of
+environmental education and culture of environmental protection
+(B7), was another fundamental barrier. The third was that the lack
+of knowledge of smart waste management (B1) was a barrier as the
+markets are still at a nascent stage. The fourth was that the cost and
+ﬁnancial challenges (B6) associated with implementing smart
+waste management solutions were important factors. Last but not
+least, technical dif ﬁculties associated with smart waste manage-
+ment (B4) were considered a prominent barrier by the potential
+and actual technology users, but not by the providers. Based on
+these general propositions, the authors of this research derived
+practical and theoretical implications, which are presented in the
+following two subsections.
+5.1. Practical implications
+The key causal barriers, B2 (Lack of regulatory pressures), B5
+(Lack of market pressures and demands), and B7 (Lack of envi-ronmental education and culture of environmental protection), are
+of fundamental importance, as they will affect the system over the
+long-term. In order to overcome these three barriers, it is essential
+for the Chinese government to take an approach of active
+involvement. The Chinese National Development and Reform
+Commission (NDRC) was charged with the responsibility of pro-
+moting CE. It should intensify its regulatory pressures, since CE has
+already been legislated in China in 2008. Over the past decade,
+China has made some progress in incorporating environmental
+education into its national educational curricula. However, a cul-
+tural transformation often takes several decades. Therefore, the
+Fig. 4. DEMATEL cause-effect diagram visually categorizes barriers from the governmental agency's perspective.A. Zhang et al. / Journal of Cleaner Production 240 (2019) 118198 9

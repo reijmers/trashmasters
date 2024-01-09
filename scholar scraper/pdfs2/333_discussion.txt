@@ -1,0 +1,115 @@
+4.1. Comparison with other countries livestock waste to renewable energy 
+generation policies to adopt circular economy 
+Livestock manure-based biogas generation is growing gradually in 
+Bangladesh, in comparison with countries like China, India, Nepal, 
+Vietnam as reflected in Table 7. According to renewable energy statis -
+tics, Germany is the leading country (6754 MW) globally for biogas- 
+based electricity generation, and China (630 MW) is in the leading po-
+sition in Asia [73]. That is why this study compared the livestock 
+waste-based renewable energy generation policies of Bangladesh with 
+Germany, China, and India as a neighboring country (Table 8). Though 
+Bangladesh has a generic fiscal and tariff policy related to renewable 
+energy as mentioned in Table 6, none is specific to biogas-based elec-
+tricity generation. Subsidies are available at the household level ranging 
+from US$60–250 for biogas plant construction. Varying amount of loan 
+is also available with a 6–11% interest rate for a period of 3 months–7 
+years (Table 8). 
+While in Germany, the Renewable Energy Sources Act (EEG) ensures the preferential purchase obligation, grid connection right, a guaranteed 
+minimum feed-in tariff, and biogas upgrading bonus for renewable en-
+ergy generation from livestock manure. Also, small farms in Germany 
+can receive up to US$0.27/kWh electricity from biogas [74]. In China, 
+there exists coherent law related to agriculture, animal husbandry, Table 5 
+Potential of carbon footprint avoidance in the 8 divisional cities under different 
+scenarios of livestock manure-based renewable energy consumption in the urban 
+community of Bangladesh in 2050.  
+Division Studied scenarios 
+A B C D E F 
+Million tonnes CO2eq 
+Barisal 6.35 2.28 2.56 2.30 2.37 2.38 
+Chittagong 9.89 3.55 3.99 3.59 3.70 3.71 
+Dhaka 8.71 3.13 3.52 3.16 3.26 3.26 
+Khulna 9.54 3.42 3.85 3.46 3.57 3.58 
+Mymensingh 5.23 1.88 2.11 1.90 1.95 1.96 
+Rajshahi 11.09 3.98 4.47 4.02 4.14 4.15 
+Rangpur 8.73 3.13 3.52 3.17 3.26 3.27 
+Sylhet 3.43 1.23 1.38 1.24 1.28 1.28 
+Source: Authors analysis. Table 6 
+Enabling environment of renewable energy development in Bangladesh.  
+National 
+strategies Examples Comments 
+Regulatory 
+regime National Energy Policy 
+(NEP), 1996 It emphasized the exploration, and 
+production of energy on a 
+sustainable basis. 
+Renewable Energy Policy of 
+Bangladesh, 2002 Assigned the government agencies 
+responsibilities to finance 
+renewable energy and provide 
+financial incentives in the form of 
+income tax rebates to attract 
+foreign investors. 
+Renewable Energy Policy of 
+Bangladesh, 2009 For the first time set a target of 5% 
+renewable electricity generation 
+by 2015, and 10% by 2020. 
+Sustainable and Renewable 
+Energy Development 
+Authority Act, 2012 SREDA was formulated to 
+coordinate countrywide 
+renewable and renewable energy 
+activities and projects. 
+Power Sector Master Plan 
+(PSMP), 2016 Proposed a comprehensive 
+renewable energy development 
+plan of 2470 MW by 2021, and 
+3864 MW by 2041. 
+Financial 
+incentives Corporate Bonds Renewable energy companies can 
+issue corporate bonds with the 
+approval from the Securities and 
+Exchange Commission (SEC), 
+Bangladesh [33,68]. 
+Discounted share price To ensure a higher rate of return 
+renewable energy companies can 
+issue shares at a 10% discount 
+price of its face value [69]. 
+Power purchase Government power utility 
+companies through mutually 
+agreed Power Purchase 
+Agreement (PPA) are obliged to 
+purchase electricity from grid- 
+connected renewable energy 
+companies [70]. 
+VAT benefits Renewable energy investors are 
+exempted from customs duties up 
+to 15% along with other charges 
+like import permit fees for 
+imported renewable energy 
+equipment [69]. 
+Electricity price The government will not regulate 
+renewable electricity prices, 
+rather it will be negotiated 
+between renewable energy 
+companies and government power 
+utility companies [71]. 
+Income Tax Renewable energy companies are 
+allowed for 15 years corporate 
+income tax rebate, and can claim 
+100% depreciation in the first year 
+(solar thermal, solar 
+photovoltaic), and first five years 
+(wind, small hydro, biomass, tidal, 
+and geothermal) [33]. 
+Tariff policy Solar rooftop and Green 
+energy Any renewable energy projects up 
+to 5 MW capacity or more can 
+claim renewable energy tariffs. 
+This allowed consumers to co- 
+finance their electricity bills [72]. 
+Net Energy Metering Consumers and producers can 
+connect the renewable energy 
+system to the national grid based 
+on drafted net energy metering 
+guidelines (2017) [71]. 
+Source: Authors analysis. K.N. Islam et al.

@@ -1,0 +1,146 @@
+This study contributes to the existing body of knowledge on mate-
+rial and embodied environmental ﬂow analysis of university campuses
+in terms of method, scope and ﬁndings.
+The method adopted in this study can provide an e ﬃcient and
+ﬂexible manner to quantify procurement-related material in ﬂows for
+universities and large organisations. The use of archetypes enables the
+researcher to provide a high resolution where needed (e.g. 57 arche-
+types for electronics) and a lower resolution for ﬂows which are less
+signiﬁcant from a mass, ﬁnancial and/or environmental perspective
+(e.g. 3 archetypes for adhesives). It also facilitates further research by
+extending the indicators attached to each archetype. For instance, ad-
+ditional embodied ﬂows can be added to each archetype, recycled
+fractions, and other useful information to broaden the study.
+Ourﬁndings reveal that procurement in ﬂows on university campus
+are only responsible for a small fraction (around 4% (based on ourcalculations) and up to 5– 7% (based on our estimations) in the case of
+the University of Melbourne) of waste out ﬂows
+ collected on campus.
+This can be explained by at least two factors. Firstly, the nature of
+universities as large institutions that host a high number of sta ﬀand
+students on campus, which are in turn responsible for signi ﬁcant ma-
+terial in ﬂows and out ﬂows that are not related to university
+Table 2
+Sensitivity analysis of embodied energy, water and greenhouse gas emissions results to di ﬀerent levels of uncertainty in input-output data, by archetype category.
+Category Energy (GJ) Energy ± 50%
+(high
+uncertainty)(GJ)Energy ± 70%
+(very high
+uncertainty) (GJ)Water (kL) Water ± 50%
+(high
+uncertainty)(kL)Water ± 70%
+(very high
+uncertainty) (kL)GHG
+(MgCO
+2-
+e)GHGE ± 50%(high
+uncertainty)(MgCO
+2e)GHGE ± 70%
+(very high
+uncertainty)(MgCO
+2e)
+Acoustics 1.2 0.6 –
+1.80.4 –
+21.4 0.7 –
+2.10.4 –
+2.40.07 0.04 –0.11 0.02 –
+0.13
+Adhesives 83.9 41.9 –
+125.825.2 –
+142.696.9 48.4 –
+145.329.1 –
+164.74.9 2.5 –
+7.41.5 –
+8.4
+Cables 189.5 94.8 –
+284.356.9 –
+322.2207.1 103.5 –
+310.662.1 –
+35212.5 6.2 –18.7 3.7 –
+21.2
+Cleaning
+materials60.7 30.3 –
+9118.2 –
+103.1105.1 52.6 –
+157.731.5 –
+178.73.9 2–
+5.91.2 –
+6.7
+Construction
+ﬁnishes7.5 3.8 –
+11.32.3 –
+12.810.4 5.2 –
+15.63.1 –
+17.70.5 0.2 –
+0.70.1 –
+0.8
+Electronics 8,211.5 4,105.7 –
+12,317.22,463.4 –
+13,959.58,444.5 4,222.3 –
+12,666.82,533.4 –
+14,355.7553.1 276.6 –
+829.7165.9 –
+940.3
+Energy
+generation4,174.6 2,087.3 –
+6,261.91,252.4 –
+7,096.83,771.2 1,885.6 –
+5,656.81,131.4 –6,411 300.0 150 –
+449.990–
+509.9
+Food 584.8 292.4 –877.2
+175.4 –994.1 4,854.6 2,427.3 –
+7,281.91,456.4 –
+8,252.874.6 37.3 –
+11222.4 –
+126.9
+Furniture 4,320.8 2,160.4 –
+6,481.21,296.2 –7,345.3 5,120.8 2,560.4 –
+7,681.21,536.2 –
+8,705.3237.1 118.5 –
+355.671.1 –
+403
+Gardening soil 28.0 14–
+42.18.4 –47.7 875.0 437.5 –1,312.6 262.5 –1 487.6 2.2 1.1 –
+3.40.7 –
+3.8
+Kitchen 135.9 67.9 –
+203.840.8 –231 233.1 116.5 –
+349.669.9 –
+396.29.1 4.5 –
+13.62.7 –
+15.4
+Lab equipment 613.7 306.9 –
+920.6184.1 –1,043.3 535.0 267.5 –
+802.5160.5 –
+909.530.2 15.1 –
+45.29–
+51.3
+Material 69.9 35–
+104.921–118.8 70.6 35.3 –
+105.921.2 –
+1204.2 2.1 –
+6.31.3 –
+7.2
+Medical 4.8 2.4 –
+7.21.4 –8.2 9.4 4.7 –
+14.12.8 –
+160.3 0.2 –
+0.50.1 –
+0.6
+Packing 93.0 46.5 –
+139.527.9 –158.1 148.8 74.4 –
+223.144.6 –
+252.95.5 2.8 –
+8.31.7 –
+9.4
+Stationary 4,006.9 2,003.4 –
+6,010.31,202.1 –6,811.7 6,406.8 3,203.4 –
+9,610.11,922 –
+10,891.5238.7 119.4 –
+358.171.6 –
+405.8
+Total
+22,587 11,293 –33,880 6,776 –38,397 30,891 15,445 –
+46,3369,267 –52,514 1,477 739 –2,215 443 –2,511
+Note: GHGE = greenhouse gas emissions; Commas are used as thousands separators in this table for formatting purposes (spaces are used throughout the paper).A. Stephan, et al. Resources, Conservation & Recycling 155 (2020) 104632
+9

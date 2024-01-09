@@ -1,0 +1,41 @@
+Based on the in-case, cross-case analysis along with propositions and 
+the proposed framework (Fig. 2), we consider that our study offer some 
+unique and interesting contributions to the debate involving big data 
+analytics as a dynamic capability to enable circular economy objectives 
+while involving large stakeholders as decision makers. This study can be 
+viewed as an integration effort from three fields, i.e. operations research, 
+environmental management, and information systems. In the past, re-
+searchers like Gupta et al. (2019) and Jabbour et al. (2020) tried to link 
+information systems and environmental management literature. How-
+ever, these studies harnessed different business models and the rela-
+tionship between big data and the circular economy instead of including 
+stakeholders as decision makers. Firms operating in the field of circular 
+operations can work with other relevant stakeholders to have a wider 
+reach and optimize decision making. For instance, LATU (focuses on 
+reduce, re-use, and recycle) has signed an agreement with JCSC to 
+implement circular economy operations effectively. Based on what has 
+been learned from CTL (focus on reuse, rethink, recycle, and recover) 
+operating in African countries, circular economy activities should be 
+designed to have maximum impact on the environment, society and the 
+Table 2 
+Firm characteristics concerning the circular economy.  
+Company Country Company business Application of circular economy principles (10R’s) 
+Reduce Re- 
+use Refuse Re- 
+think Re- 
+manufacture Re- 
+pair Re- 
+furbish Re- 
+purpose Re- 
+cycle Re- 
+cover 
+LATU Uruguay Industrial Waste 
+Management √ √       √  
+CTL African 
+Countries Recycling of Dead 
+Mobile Phones  √  √     √ √ 
+Shenzhen Electric 
+Mobility Policy China Electric Mobility √  √     √   
+eStoks Brazil Pre-Customer Waste    √ √ √ √ √   
+Gravity Labs India Environmental Carbon 
+to Ink √ √  √    √ √ √  S. Modgil et al.

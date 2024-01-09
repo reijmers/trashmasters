@@ -1,0 +1,110 @@
+The paper presents design knowledge for a digital artifact that im-
+proves household waste sorting and promotes urban CE. Using a DSR 
+approach, we defined the DOs of the artifact and proposed more specific 
+DPs. We prototypically instantiated the in Frankfurt am Main and 
+evaluated the artifact’s effectiveness, efficiency, and impact. 
+7.1. Implications for research and theory 
+The work contributes to research in three areas: 1) by providing 
+nascent design theory and instantiating a prototype, 2) by contextual -
+izing the TPB in the area of IS changing waste sorting behavior, and 3) 
+by extending the sparse IS literature in the domain of CE. 
+First, we provide DPs as nascent design theory and a prototypical 
+instantiation based on the design knowledge and propose expansions for 
+further development of instantiations of the artifact. Gregor and Hevner 
+(2013) distinguish between three types of DSR artifacts contributions: 
+Level 1 contributions cover specific instantiations such as products and 
+processes. More abstract level 2 contributions aim at nascent design 
+theories such as DPs, constructs, or methods. The most abstract and 
+mature level 3 contributions refer to well-developed design theories. 
+Our research contributes to the first two levels. We first develop nascent 
+design theory (level 2) in the form of DOs, related DPs, and specific 
+design guidelines. The evaluation of this design knowledge by way of a 
+prototypical instantiation equals a level 1 contribution. 
+Second, our DPs are theoretically backed, and we contextualize the 
+TPB within the domain of waste sorting. By identifying antecedents for 
+the elements of the TPB, we show how IS can improve individual waste 
+sorting behavior. Current research mainly focuses on which element of 
+the TPB is most influential regarding waste sorting or extends the TPB 
+through additional elements (e.g., Ma et al., 2018; Wang et al., 2021). 
+We follow Zhang et al. (2015), who state that more attention must be 
+given to identifying factors influencing the TPB elements regarding 
+waste sorting behavior. Building on this, we identify and theorize the 
+relationship between our DPs as influential antecedents and the ele-
+ments of the TBP. 
+Third, we contribute to IS literature within the domain of CE. We 
+show how IS can leverage its potential to enable individual awareness, 
+empowerment, and responsibility and shift individual behavior towards 
+CE. By spreading the artifact through the local waste management 
+company, a shift of cities or beyond can be induced in the future. In 
+doing so, we contribute to the research objectives of Zeiss et al. (2021) 
+by addressing and extending enacting circular material flows with IS. 
+7.2. Practical implications 
+This work makes a significant contribution to practitioners such as 
+waste management companies, communal enterprises, and cities in two 
+ways: 1) By addressing a real-world problem of communal enterprises, 
+and 2) by promoting the urban transition towards CE. 
+First, our artifact addresses the need for waste management com-
+panies to identify ways to improve household waste sorting, especially 
+for biowaste. In this vein, our design knowledge was informed by the 
+practitioner’s insights and expectations. Further, existing digital solutions proposed by prior research are at an early conceptual stage. In 
+this regard, our work extends and improves the recent contributions (e. 
+g., Bonino et al., 2016; Rasmussen et al., 2020) by presenting design 
+knowledge and building upon existing behavioral theories. By coun-
+tering the high amount of currently wrong-sorted waste, our artifact 
+provides the potential to leverage economic benefits for the waste 
+management company and environmental benefits for the cities. We 
+instantiate our prototype in a real-world setting in the German city of 
+Frankfurt am Main. By showing the procedure, describing our imple -
+mentation in detail, and providing information about possible expan -
+sions, our work can guide further improved real-world piloting or field 
+studies. In this regard, we improve the knowledge about IS-based solu-
+tions for changing waste sorting behavior and the current early-stage 
+solutions. 
+Second, our research assists the transition toward a CE in cities. By 
+improving the waste sorting and the separate collection of biowaste, our 
+work provides a step towards more CE in cities and a functioning local 
+biological cycle by presenting the example of the German city of 
+Frankfurt am Main. As the biogas and the compost, both generated from 
+the city’s biowaste, are locally used for the city’s energy supply, land-
+scaping, and local food production, the city creates its own biological 
+cycle on the macro level. Moreover, fostering citizens’ understanding of 
+this local cycle can improve their engagement in biowaste sorting and 
+CE on the micro-level. Finally, in times of climate and energy crisis and 
+war, every additional self-sufficient source of gas increases the security 
+of supply. 
+7.3. Limitations and future research 
+This work has limitations. First, we build our design knowledge upon 
+a literature review and interviews. Including more research from more 
+disciplines and interviewing additional experts or potential users might 
+alter our results. In this vein, we developed the design knowledge, and 
+the prototype, especially for the pilot district in Frankfurt am Main, 
+which limits the generalizability of the results. Future research could 
+develop more abstract and mature design knowledge as a level 3 
+contribution. Second, due to temporal and technical constraints, we 
+could not implement all aspects our interviewees wished for or the 
+literature recommends. Thus, we propose that future research could 
+expand and improve the artifact as outlined in section 6.2 above. Third, 
+our field study with the prototypical instantiation is limited by the 
+number of participants, their potential self-selection bias, and any bias 
+potentially caused by the social attention to this topic. Furthermore, 
+technical restrictions and the short run time limit the results of our 
+instantiation. The piloting would have to run over several months or 
+even years to gauge any long-term impacts. Future research should build 
+on our work to understand how factors such as convenience influence 
+sustainable behavior change. Fourth, due to the practical constraints 
+that resulted from evaluating our artifact based on a pilot study in the 
+field, our current observations and data analysis are limited to a quali -
+tative approach. Thus, we propose that future research complements our 
+work with a large-scale and long-term study that facilitates a quantita -
+tive assessment of behavior changes. 
+8.Conclusion 
+CE is one promising strategy to aid urban stakeholders in times of the 
+climate and energy crisis and growing waste volumes. Biowaste has the 
+potential to be transformed into biogas as an additional source of 
+renewable energy, but only if the waste sorting quality is right. So ac-
+tivities to improve waste sorting quality must start where the waste is 
+susceptible: Urban households. By using IS as a tool to foster behavior 
+change, we investigate how to design an artifact that promotes house -
+hold biowaste sorting and urban CE. In line with this design knowledge, 
+we developed a prototype, instantiated it in the German city of Frankfurt 
+am Main, and evaluated its effectiveness, efficiency, and impact. Based C. Crome et al.

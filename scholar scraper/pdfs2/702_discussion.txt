@@ -1,0 +1,3 @@
+The model described in the data and methodology section was employed to test the
+hypotheses of our study using above parameters. The results of the linear regressioncontained in tables below show the outcomes of the model where GDP per capita
+and ﬁnancial development elements were used as dependent and control variables,

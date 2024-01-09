@@ -1,0 +1,24 @@
+3.1. Implementation of Circular Economy Concept
+In Poland, it will not be possible to achieve the above-mentioned high recycling rates
+provided for in the Circular Economy Package (in particular for raw materials) using only
+MBT installations. These raw materials should be collected selectively. The reason for this
+is simple. Unfortunately, the waste separated in the MBT installation is only theoretically
+suitable for recycling because of the content of moisture and contaminants. According to
+the data of the Regional Municipal Waste Processing Plants Council (RIPOK Council) and
+the Rekopol Recovery Organization, we are currently able to selectively collect about 32%
+of the mass of generated municipal waste. Is it possible to achieve the 65% recycling in
+Polish conditions?
+Therefore, it was decided to make a mass balance of municipal waste collected and
+processed in Poland on the basis of the known morphology of municipal waste, the amount
+of municipal waste generated in the country per capita and demographic data on the
+number of residents.
+Taking into account the current dynamics of the increase in the amount of municipal
+waste generated in Poland, it has been assumed that around 2025 we will achieve the level
+of municipal waste generation at approximately 14.5 million Mg and that, similarly to the
+more developed EU countries, its production will stabilize at this level.
+Then, three variants of the implementation of the circular economy assumptions in
+the ﬁeld of municipal waste in Poland were analyzed:
+ Variant I—achieving a level of separate collection equal to the required recycling
+targets for individual waste fractions in line with the requirements of the circular
+economy (paper and cardboard—85%, ferrous metals—80%, aluminum—60%, glass—
+75%, plastics—55%, wood—30%.);
